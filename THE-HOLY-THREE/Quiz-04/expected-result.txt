@@ -1,0 +1,14 @@
+alice | 32 | 31
+bob | 28 | 29
+charlie | 39 | 38
+dave | 35 | 38
+eve | 36 | 30
+frank | 37 | 37
+grace | 38 | 28
+heidi | 42 | 30
+ivan | 39 | 28
+judy | 34 | 28
+mallory | 38 | 38
+oscar | 37 | 36
+peggy | 38 | 41
+trent | 26 | 46

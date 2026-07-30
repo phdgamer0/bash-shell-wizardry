@@ -1,0 +1,24 @@
+=== LOG SOURCE BREAKDOWN ===
+Apache: 600 lines
+Syslog: 600 lines
+Application: 600 lines
+Postfix: 400 lines
+Custom: 300 lines
+Total: 2500 lines
+
+=== DATE FORMATS DETECTED ===
+1. Apache & Postfix: 'Mon DD HH:MM:SS' (syslog style)
+2. Syslog & Custom: ISO 8601 YYYY-MM-DDTHH:MM:SS+00:00
+3. Application: YYYY/MM/DD HH:MM:SS
+
+=== TOP 10 HOURS BY ACTIVITY ===
+Hour 04: 122 events
+Hour 11: 121 events
+Hour 00: 116 events
+Hour 23: 114 events
+Hour 15: 114 events
+Hour 01: 112 events
+Hour 20: 111 events
+Hour 02: 110 events
+Hour 03: 109 events
+Hour 10: 108 events

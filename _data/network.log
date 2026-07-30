@@ -1,0 +1,789 @@
+2026-07-29T03:18:11+03:00 archlinux systemd[1]: Starting Network Manager...
+2026-07-29T03:18:11+03:00 archlinux NetworkManager[617]: <info>  [1785284291.9563] NetworkManager (version 1.58.0-1) is starting... (boot:82fde628-a7d6-4e3c-b4e7-bc11c545dac2)
+2026-07-29T03:18:11+03:00 archlinux NetworkManager[617]: <info>  [1785284291.9564] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/20-connectivity.conf
+2026-07-29T03:18:11+03:00 archlinux NetworkManager[617]: <info>  [1785284291.9673] manager[0x5624f2c15aa0]: monitoring kernel firmware directory '/lib/firmware'.
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0754] hostname: hostname: using hostnamed
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0754] hostname: static hostname changed from (none) to "archlinux"
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0759] dns-mgr: init: dns=default,systemd-resolved rc-manager=symlink
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0805] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:14.3/ieee80211/phy0/rfkill3) (driver iwlwifi)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0809] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0846] manager[0x5624f2c15aa0]: rfkill: Wi-Fi hardware radio set enabled
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0847] manager[0x5624f2c15aa0]: rfkill: WWAN hardware radio set enabled
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.0905] Loaded device plugin: NMAtmManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-adsl.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.1295] Loaded device plugin: NMWwanFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wwan.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3479] Loaded device plugin: NMTeamFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-team.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3635] Loaded device plugin: NMWifiFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wifi.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3643] Loaded device plugin: NMBluezManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-bluetooth.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3651] Loaded device plugin: NMOvsFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-ovs.so)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3652] manager: rfkill: Wi-Fi disabled by radio killswitch; enabled by state file
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3653] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3653] manager: Networking is enabled by state file
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3654] settings: Loaded settings plugin: keyfile (internal)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3661] dhcp: init: Using DHCP client 'internal'
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3662] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3670] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3672] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3675] device (lo): Activation: starting connection 'lo' (040c775c-cdd3-4e81-9ce3-36beb72ae471)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3680] manager: (enp7s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3687] settings: (enp7s0): created default wired connection 'Wired connection 1'
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.3687] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6208] device (wlp0s20f3): driver supports Access Point (AP) mode
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6219] manager: (wlp0s20f3): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6226] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6238] device (wlp0s20f3): set-hw-addr: set MAC address to BE:68:9A:C8:AC:25 (scanning)
+2026-07-29T03:18:12+03:00 archlinux systemd[1]: Started Network Manager.
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6262] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.6277] manager: rfkill: Wi-Fi now enabled by radio killswitch
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8240] ovsdb: disconnected from ovsdb
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8242] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8246] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8249] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8260] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8285] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8286] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+2026-07-29T03:18:12+03:00 archlinux NetworkManager[617]: <info>  [1785284292.8289] device (lo): Activation: successful, device activated.
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4046] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4048] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4052] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4056] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <warn>  [1785284293.4057] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4064] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T03:18:13+03:00 archlinux NetworkManager[617]: <info>  [1785284293.4073] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T03:18:18+03:00 archlinux NetworkManager[617]: <info>  [1785284298.7126] manager: startup complete
+2026-07-29T03:19:40+03:00 archlinux NetworkManager[617]: <info>  [1785284380.3821] agent-manager: agent[a2da052233e266c9,:1.40/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9028] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9029] audit: op="connection-add-activate" uuid="02ce110d-10ea-4ec5-8940-f0f169d0db95" name="Kocaeli_Net_Cute" pid=1160 uid=1000 result="success"
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9030] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9031] manager: NetworkManager state is now CONNECTING
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9147] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9163] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9164] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9164] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9165] sup-iface[46f23dbbf7736056,0,wlp0s20f3]: wps: type pbc start...
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9169] device (wlp0s20f3): supplicant interface state: disconnected -> inactive
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9170] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> inactive
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9176] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9177] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9178] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9178] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9178] Config: added 'scan_ssid' value '1'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9178] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9178] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9179] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9179] Config: added 'psk' value '<hidden>'
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9185] device (wlp0s20f3): supplicant interface state: inactive -> scanning
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9186] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -> scanning
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9489] device (wlp0s20f3): supplicant interface state: scanning -> authenticating
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9489] device (p2p-dev-wlp0s20f3): supplicant management interface state: scanning -> authenticating
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9788] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9789] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9998] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T03:21:23+03:00 archlinux NetworkManager[617]: <info>  [1785284483.9999] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0027] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0028] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0464] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0464] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0464] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0465] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T03:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785284487.0469] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T03:21:29+03:00 archlinux NetworkManager[617]: <info>  [1785284489.8369] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106, acd pending
+2026-07-29T03:21:29+03:00 archlinux NetworkManager[617]: <info>  [1785284489.9807] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106
+2026-07-29T03:21:29+03:00 archlinux NetworkManager[617]: <info>  [1785284489.9821] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.0793] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.0989] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.0990] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.0992] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.0997] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.2032] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="2000" pid=1160 uid=1000 result="success"
+2026-07-29T03:21:30+03:00 archlinux NetworkManager[617]: <info>  [1785284490.4390] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T03:21:32+03:00 archlinux NetworkManager[617]: <info>  [1785284492.2734] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="0" pid=1160 uid=1000 result="success"
+2026-07-29T04:19:46+03:00 archlinux NetworkManager[617]: <info>  [1785287986.5398] agent-manager: agent[a2da052233e266c9,:1.154/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-29T04:21:27+03:00 archlinux NetworkManager[617]: <info>  [1785288087.2587] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106
+2026-07-29T04:22:54+03:00 archlinux NetworkManager[617]: <info>  [1785288174.6221] agent-manager: agent[a2da052233e266c9,:1.221/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-29T04:28:22+03:00 archlinux NetworkManager[617]: <info>  [1785288502.5215] audit: op="statistics" interface="enp7s0" ifindex=2 args="500" pid=13877 uid=1000 result="success"
+2026-07-29T04:28:22+03:00 archlinux NetworkManager[617]: <info>  [1785288502.5229] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=13877 uid=1000 result="success"
+2026-07-29T04:28:23+03:00 archlinux NetworkManager[617]: <info>  [1785288503.3978] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=13877 uid=1000 result="success"
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0137] caught SIGTERM, shutting down normally.
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: Stopping Network Manager...
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0142] device (wlp0s20f3): state change: activated -> deactivating (reason 'unmanaged', managed-type: 'full')
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0142] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0143] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0143] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0147] manager: NetworkManager state is now DISCONNECTING
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <warn>  [1785288960.0181] dispatcher: (11) failed (after 0.003 sec): Could not activate remote peer 'org.freedesktop.nm_dispatcher': activation request failed: unit is invalid
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.0182] device (wlp0s20f3): state change: deactivating -> unmanaged (reason 'unmanaged-quitting', managed-type: 'full')
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.1998] manager: NetworkManager state is now DISCONNECTED
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.2023] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-29T04:36:00+03:00 archlinux NetworkManager[617]: <info>  [1785288960.4040] exiting (success)
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: NetworkManager.service: Deactivated successfully.
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: Stopped Network Manager.
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: NetworkManager.service: Consumed 1.105s CPU time over 1h 17min 48.745s wall clock time, 23.3M memory peak.
+-- Boot 221fc911db9548dd9ba0d163820cf886 --
+2026-07-29T07:11:59+03:00 archlinux systemd[1]: Starting Network Manager...
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.6365] NetworkManager (version 1.58.0-1) is starting... (boot:221fc911-db95-48dd-9ba0-d163820cf886)
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.6366] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/20-connectivity.conf
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.6780] manager[0x560707dc52b0]: monitoring kernel firmware directory '/lib/firmware'.
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7724] hostname: hostname: using hostnamed
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7724] hostname: static hostname changed from (none) to "archlinux"
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7726] dns-mgr: init: dns=default,systemd-resolved rc-manager=symlink
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7738] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:14.3/ieee80211/phy0/rfkill3) (driver iwlwifi)
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7739] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7785] manager[0x560707dc52b0]: rfkill: Wi-Fi hardware radio set enabled
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7785] manager[0x560707dc52b0]: rfkill: WWAN hardware radio set enabled
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.7808] Loaded device plugin: NMAtmManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-adsl.so)
+2026-07-29T07:11:59+03:00 archlinux NetworkManager[617]: <info>  [1785298319.8283] Loaded device plugin: NMWwanFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wwan.so)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0619] Loaded device plugin: NMTeamFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-team.so)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0802] Loaded device plugin: NMWifiFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wifi.so)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0808] Loaded device plugin: NMBluezManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-bluetooth.so)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0815] Loaded device plugin: NMOvsFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-ovs.so)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0817] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0817] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0817] manager: Networking is enabled by state file
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.0948] settings: Loaded settings plugin: keyfile (internal)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1533] dhcp: init: Using DHCP client 'internal'
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1538] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1566] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1575] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1591] device (lo): Activation: starting connection 'lo' (e1b744a8-1074-48ac-a89a-122d9779a76a)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1610] manager: (enp7s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1637] settings: (enp7s0): created default wired connection 'Wired connection 1'
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.1638] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.3759] device (wlp0s20f3): driver supports Access Point (AP) mode
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.3771] manager: (wlp0s20f3): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.3778] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.6005] device (wlp0s20f3): set-hw-addr: set MAC address to F2:0F:C2:15:55:C8 (scanning)
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8047] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8068] ovsdb: disconnected from ovsdb
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8070] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8071] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux systemd[1]: Started Network Manager.
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8072] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8075] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8083] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8083] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+2026-07-29T07:12:00+03:00 archlinux NetworkManager[617]: <info>  [1785298320.8085] device (lo): Activation: successful, device activated.
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1285] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1286] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1287] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1289] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <warn>  [1785298321.1290] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1293] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T07:12:01+03:00 archlinux NetworkManager[617]: <info>  [1785298321.1297] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8828] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8838] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8840] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8845] manager: NetworkManager state is now CONNECTING
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8952] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8990] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8991] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8991] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8992] sup-iface[1b16c36975a13780,0,wlp0s20f3]: wps: type pbc start...
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8996] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8997] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'scan_ssid' value '1'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.8999] Config: added 'psk' value '<hidden>'
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9243] device (wlp0s20f3): supplicant interface state: disconnected -> authenticating
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9243] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> authenticating
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9512] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9512] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9733] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T07:12:04+03:00 archlinux NetworkManager[617]: <info>  [1785298324.9733] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0093] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0094] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0828] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0829] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0830] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0831] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.0833] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.7007] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106, acd pending
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.8484] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106
+2026-07-29T07:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785298328.8523] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.8986] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.9296] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.9297] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.9298] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.9301] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T07:12:10+03:00 archlinux NetworkManager[617]: <info>  [1785298330.9304] manager: startup complete
+2026-07-29T07:12:13+03:00 archlinux NetworkManager[617]: <info>  [1785298333.8957] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T07:12:47+03:00 archlinux NetworkManager[617]: <info>  [1785298367.1689] agent-manager: agent[459aa45af4fe5732,:1.39/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-29T07:44:36+03:00 archlinux NetworkManager[617]: <info>  [1785300276.6217] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="2000" pid=1118 uid=1000 result="success"
+2026-07-29T07:44:49+03:00 archlinux NetworkManager[617]: <info>  [1785300289.5236] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="0" pid=1118 uid=1000 result="success"
+2026-07-29T08:12:08+03:00 archlinux NetworkManager[617]: <info>  [1785301928.2994] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.106
+2026-07-29T08:36:04+03:00 archlinux systemd[1]: Stopping Network Manager...
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5694] caught SIGTERM, shutting down normally.
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5697] device (wlp0s20f3): state change: activated -> deactivating (reason 'unmanaged', managed-type: 'full')
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5697] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5697] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5697] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5699] manager: NetworkManager state is now DISCONNECTING
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <warn>  [1785303364.5727] dispatcher: (11) failed (after 0.002 sec): Could not activate remote peer 'org.freedesktop.nm_dispatcher': activation request failed: unit is invalid
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.5728] device (wlp0s20f3): state change: deactivating -> unmanaged (reason 'unmanaged-quitting', managed-type: 'full')
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.7350] manager: NetworkManager state is now DISCONNECTED
+2026-07-29T08:36:04+03:00 archlinux NetworkManager[617]: <info>  [1785303364.7371] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-29T08:36:05+03:00 archlinux NetworkManager[617]: <info>  [1785303365.0390] exiting (success)
+2026-07-29T08:36:05+03:00 archlinux systemd[1]: NetworkManager.service: Deactivated successfully.
+2026-07-29T08:36:05+03:00 archlinux systemd[1]: Stopped Network Manager.
+-- Boot 5c2feb539f8b4d39afd60f13e72775e7 --
+2026-07-29T14:08:57+03:00 archlinux systemd[1]: Starting Network Manager...
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.2586] NetworkManager (version 1.58.0-1) is starting... (boot:5c2feb53-9f8b-4d39-afd6-0f13e72775e7)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.2588] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/20-connectivity.conf
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.2934] manager[0x56288064a2b0]: monitoring kernel firmware directory '/lib/firmware'.
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3859] hostname: hostname: using hostnamed
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3859] hostname: static hostname changed from (none) to "archlinux"
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3861] dns-mgr: init: dns=default,systemd-resolved rc-manager=symlink
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3874] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:14.3/ieee80211/phy0/rfkill3) (driver iwlwifi)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3875] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3901] manager[0x56288064a2b0]: rfkill: Wi-Fi hardware radio set enabled
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3901] manager[0x56288064a2b0]: rfkill: WWAN hardware radio set enabled
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.3923] Loaded device plugin: NMAtmManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-adsl.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.4395] Loaded device plugin: NMWwanFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wwan.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6626] Loaded device plugin: NMTeamFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-team.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6716] Loaded device plugin: NMWifiFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wifi.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6805] Loaded device plugin: NMBluezManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-bluetooth.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6815] Loaded device plugin: NMOvsFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-ovs.so)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6817] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6817] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6817] manager: Networking is enabled by state file
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.6950] settings: Loaded settings plugin: keyfile (internal)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7504] dhcp: init: Using DHCP client 'internal'
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7510] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7536] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7545] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7560] device (lo): Activation: starting connection 'lo' (b4fbbd10-d2b3-46ca-aa82-a6c819156a3c)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7580] manager: (enp7s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7607] settings: (enp7s0): created default wired connection 'Wired connection 1'
+2026-07-29T14:08:58+03:00 archlinux NetworkManager[619]: <info>  [1785323338.7608] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.0005] device (wlp0s20f3): driver supports Access Point (AP) mode
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.0018] manager: (wlp0s20f3): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.0024] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.2230] device (wlp0s20f3): set-hw-addr: set MAC address to 26:1F:26:B7:FA:AA (scanning)
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4254] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2026-07-29T14:08:59+03:00 archlinux systemd[1]: Started Network Manager.
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4275] ovsdb: disconnected from ovsdb
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4278] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4285] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4290] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4297] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4306] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4306] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.4308] device (lo): Activation: successful, device activated.
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7271] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7271] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7273] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7274] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <warn>  [1785323339.7274] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7276] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T14:08:59+03:00 archlinux NetworkManager[619]: <info>  [1785323339.7278] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4804] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4814] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4816] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4818] manager: NetworkManager state is now CONNECTING
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4921] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4959] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4966] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4966] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4970] sup-iface[18306f97cfa40d14,0,wlp0s20f3]: wps: type pbc start...
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4974] device (wlp0s20f3): supplicant interface state: disconnected -> inactive
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4975] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> inactive
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.4996] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5003] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5010] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5011] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5011] Config: added 'scan_ssid' value '1'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5011] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5011] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5012] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5012] Config: added 'psk' value '<hidden>'
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5022] device (wlp0s20f3): supplicant interface state: inactive -> scanning
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5023] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -> scanning
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5295] device (wlp0s20f3): supplicant interface state: scanning -> authenticating
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5295] device (p2p-dev-wlp0s20f3): supplicant management interface state: scanning -> authenticating
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5778] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.5778] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.6076] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.6077] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.7533] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.7534] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.8484] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.8485] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.8486] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.8492] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T14:09:03+03:00 archlinux NetworkManager[619]: <info>  [1785323343.8506] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T14:09:05+03:00 archlinux NetworkManager[619]: ((../NetworkManager/src/libnm-systemd-core/src/libsystemd/sd-event/sd-event.c:4458)): assertion '<dropped>' failed
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.4963] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.6280] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.6319] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9198] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9234] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9238] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9244] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9255] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T14:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785323346.9267] manager: startup complete
+2026-07-29T14:09:07+03:00 archlinux NetworkManager[619]: <info>  [1785323347.2962] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T14:09:42+03:00 archlinux NetworkManager[619]: <info>  [1785323382.7734] agent-manager: agent[eb446651aec845df,:1.39/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-29T14:10:15+03:00 archlinux NetworkManager[619]: <info>  [1785323415.8762] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T14:10:17+03:00 archlinux NetworkManager[619]: <info>  [1785323417.1762] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T15:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785326946.0369] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T16:09:06+03:00 archlinux NetworkManager[619]: <info>  [1785330546.2586] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4215] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4216] device (enp7s0): state change: unavailable -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4279] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4282] manager: NetworkManager state is now DISABLED (ASLEEP)
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4284] device (wlp0s20f3): state change: activated -> deactivating (reason 'sleeping', managed-type: 'full')
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4284] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4284] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.4285] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.8839] device (wlp0s20f3): supplicant interface state: completed -> disconnected
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.8841] device (wlp0s20f3): state change: deactivating -> disconnected (reason 'sleeping', managed-type: 'full')
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.8919] device (wlp0s20f3): set-hw-addr: set MAC address to 02:E8:78:79:07:03 (scanning)
+2026-07-29T17:04:31+03:00 archlinux NetworkManager[619]: <info>  [1785333871.8946] device (wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T17:04:32+03:00 archlinux NetworkManager[619]: <info>  [1785333872.0189] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (unmanage)
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.3466] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.3467] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.4946] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.5162] device (wlp0s20f3): set-hw-addr: set MAC address to 0E:F4:6C:24:13:28 (scanning)
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7038] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <warn>  [1785334472.7039] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7041] manager: NetworkManager state is now DISCONNECTED
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7227] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7228] device (p2p-dev-wlp0s20f3): state change: unavailable -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7231] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7232] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/5)
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7233] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <warn>  [1785334472.7233] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7236] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T17:14:32+03:00 archlinux NetworkManager[619]: <info>  [1785334472.7238] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4757] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4759] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4761] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4762] manager: NetworkManager state is now CONNECTING
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4900] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4924] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4926] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4926] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4927] sup-iface[dcac87eb6659ae52,1,wlp0s20f3]: wps: type pbc start...
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4933] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4934] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4935] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4935] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4935] Config: added 'scan_ssid' value '1'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4936] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4936] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4936] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.4936] Config: added 'psk' value '<hidden>'
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5076] device (wlp0s20f3): supplicant interface state: disconnected -> authenticating
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5076] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> authenticating
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5353] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5353] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5546] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5546] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5976] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.5976] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6176] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6176] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6176] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6177] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6180] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.6487] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.7718] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T17:14:36+03:00 archlinux NetworkManager[619]: <info>  [1785334476.7740] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.1447] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.1913] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.1914] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.1916] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.1921] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T17:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785334477.5895] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T17:42:02+03:00 archlinux NetworkManager[619]: <info>  [1785336122.6876] audit: op="statistics" interface="enp7s0" ifindex=2 args="500" pid=36769 uid=1000 result="success"
+2026-07-29T17:42:02+03:00 archlinux NetworkManager[619]: <info>  [1785336122.6893] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=36769 uid=1000 result="success"
+2026-07-29T17:42:10+03:00 archlinux NetworkManager[619]: <info>  [1785336130.9161] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=36769 uid=1000 result="success"
+2026-07-29T18:14:37+03:00 archlinux NetworkManager[619]: <info>  [1785338077.3260] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T18:16:22+03:00 archlinux NetworkManager[619]: <info>  [1785338182.3449] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="2000" pid=1119 uid=1000 result="success"
+2026-07-29T18:16:33+03:00 archlinux NetworkManager[619]: <info>  [1785338193.6433] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="0" pid=1119 uid=1000 result="success"
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2814] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2815] device (enp7s0): state change: unavailable -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2875] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2876] manager: NetworkManager state is now DISABLED (ASLEEP)
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2878] device (wlp0s20f3): state change: activated -> deactivating (reason 'sleeping', managed-type: 'full')
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2878] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2878] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T19:06:48+03:00 archlinux NetworkManager[619]: <info>  [1785341208.2878] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-29T19:06:50+03:00 archlinux NetworkManager[619]: <info>  [1785341210.0714] device (wlp0s20f3): supplicant interface state: completed -> disconnected
+2026-07-29T19:06:50+03:00 archlinux NetworkManager[619]: <info>  [1785341210.0718] device (wlp0s20f3): state change: deactivating -> disconnected (reason 'sleeping', managed-type: 'full')
+2026-07-29T19:06:50+03:00 archlinux NetworkManager[619]: <info>  [1785341210.0842] device (wlp0s20f3): set-hw-addr: set MAC address to A2:9C:98:88:9F:EA (scanning)
+2026-07-29T19:06:50+03:00 archlinux NetworkManager[619]: <info>  [1785341210.0928] device (wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T19:06:50+03:00 archlinux NetworkManager[619]: <info>  [1785341210.1181] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (unmanage)
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.3351] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.3352] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.5133] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.5365] device (wlp0s20f3): set-hw-addr: set MAC address to F2:41:ED:AD:A4:C8 (scanning)
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7262] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <warn>  [1785342837.7263] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7264] manager: NetworkManager state is now DISCONNECTED
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7364] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7364] device (p2p-dev-wlp0s20f3): state change: unavailable -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7367] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7369] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/6)
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7370] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <warn>  [1785342837.7370] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7373] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T19:33:57+03:00 archlinux NetworkManager[619]: <info>  [1785342837.7375] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.4970] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.4973] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.4973] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.4975] manager: NetworkManager state is now CONNECTING
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5123] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5149] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5150] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5150] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5151] sup-iface[dcac87eb6659ae52,2,wlp0s20f3]: wps: type pbc start...
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5158] device (wlp0s20f3): supplicant interface state: disconnected -> inactive
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5158] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> inactive
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5159] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5160] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5160] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5160] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5160] Config: added 'scan_ssid' value '1'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5161] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5161] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5161] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5161] Config: added 'psk' value '<hidden>'
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5176] device (wlp0s20f3): supplicant interface state: inactive -> scanning
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5176] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -> scanning
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5422] device (wlp0s20f3): supplicant interface state: scanning -> authenticating
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5423] device (p2p-dev-wlp0s20f3): supplicant management interface state: scanning -> authenticating
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5688] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5688] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5876] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.5876] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6066] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6066] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6311] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6311] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6311] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6312] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6314] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.6404] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.7752] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T19:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785342841.7771] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.1544] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.1758] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.1759] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.1761] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.1767] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T19:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785342842.5735] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-29T20:34:01+03:00 archlinux NetworkManager[619]: <info>  [1785346441.8413] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T21:34:02+03:00 archlinux NetworkManager[619]: <info>  [1785350042.5055] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2739] manager: sleep: sleep requested (sleeping: no  enabled: yes)
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2740] device (enp7s0): state change: unavailable -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2798] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2800] manager: NetworkManager state is now DISABLED (ASLEEP)
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2802] device (wlp0s20f3): state change: activated -> deactivating (reason 'sleeping', managed-type: 'full')
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2802] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2802] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.2802] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.7226] device (wlp0s20f3): supplicant interface state: completed -> disconnected
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.7227] device (wlp0s20f3): state change: deactivating -> disconnected (reason 'sleeping', managed-type: 'full')
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.7313] device (wlp0s20f3): set-hw-addr: set MAC address to 96:F1:97:17:EA:A6 (scanning)
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.7352] device (wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-nm-disabled', managed-type: 'full')
+2026-07-29T21:40:15+03:00 archlinux NetworkManager[619]: <info>  [1785350415.8583] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (unmanage)
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.3254] manager: sleep: wake requested (sleeping: yes  enabled: yes)
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.3255] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.4888] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.5108] device (wlp0s20f3): set-hw-addr: set MAC address to FA:CB:E0:F6:D8:27 (scanning)
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.6979] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <warn>  [1785356333.6979] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.6981] manager: NetworkManager state is now DISCONNECTED
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7158] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7158] device (p2p-dev-wlp0s20f3): state change: unavailable -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7160] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7162] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/7)
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7163] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <warn>  [1785356333.7163] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7166] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-29T23:18:53+03:00 archlinux NetworkManager[619]: <info>  [1785356333.7169] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4655] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4658] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4659] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4660] manager: NetworkManager state is now CONNECTING
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4744] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4772] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4773] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4773] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4774] sup-iface[dcac87eb6659ae52,3,wlp0s20f3]: wps: type pbc start...
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4777] device (wlp0s20f3): supplicant interface state: disconnected -> inactive
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4777] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> inactive
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4784] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4786] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4787] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4787] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4787] Config: added 'scan_ssid' value '1'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4787] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4788] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4788] Config: added 'auth_alg' value 'OPEN'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4788] Config: added 'psk' value '<hidden>'
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4797] device (wlp0s20f3): supplicant interface state: inactive -> scanning
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4797] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -> scanning
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4974] device (wlp0s20f3): supplicant interface state: scanning -> authenticating
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.4974] device (p2p-dev-wlp0s20f3): supplicant management interface state: scanning -> authenticating
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5240] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5240] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5435] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5435] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5848] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.5848] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6109] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6110] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6110] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6115] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6118] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.6226] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.7753] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-29T23:18:57+03:00 archlinux NetworkManager[619]: <info>  [1785356337.7777] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.2941] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.2951] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.2952] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.2954] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.2959] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-29T23:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785356338.6371] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-30T00:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785359938.5575] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T01:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785363538.5601] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T02:18:58+03:00 archlinux NetworkManager[619]: <info>  [1785367138.6046] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T03:19:00+03:00 archlinux NetworkManager[619]: <info>  [1785370740.2710] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T03:19:23+03:00 archlinux NetworkManager[619]: <info>  [1785370763.9699] caught SIGTERM, shutting down normally.
+2026-07-30T03:19:23+03:00 archlinux systemd[1]: Stopping Network Manager...
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0202] device (wlp0s20f3): state change: activated -> deactivating (reason 'unmanaged', managed-type: 'full')
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0203] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0203] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0203] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0206] manager: NetworkManager state is now DISCONNECTING
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <warn>  [1785370764.0232] dispatcher: (48) failed (after 0.002 sec): Could not activate remote peer 'org.freedesktop.nm_dispatcher': activation request failed: unit is invalid
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.0234] device (wlp0s20f3): state change: deactivating -> unmanaged (reason 'unmanaged-quitting', managed-type: 'full')
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.1785] manager: NetworkManager state is now DISCONNECTED
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.1811] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-30T03:19:24+03:00 archlinux NetworkManager[619]: <info>  [1785370764.6510] exiting (success)
+2026-07-30T03:19:24+03:00 archlinux systemd[1]: NetworkManager.service: Deactivated successfully.
+2026-07-30T03:19:24+03:00 archlinux systemd[1]: Stopped Network Manager.
+2026-07-30T03:19:24+03:00 archlinux systemd[1]: NetworkManager.service: Consumed 17.830s CPU time over 10h 54min 54.438s wall clock time, 23.2M memory peak.
+-- Boot 9721ddd72ecc4bb2899be0ea58acf1b8 --
+2026-07-30T13:44:39+03:00 archlinux systemd[1]: Starting Network Manager...
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7009] NetworkManager (version 1.58.0-1) is starting... (boot:9721ddd7-2ecc-4bb2-899b-e0ea58acf1b8)
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7010] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/20-connectivity.conf
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7393] manager[0x558853aa1310]: monitoring kernel firmware directory '/lib/firmware'.
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7429] hostname: hostname: using hostnamed
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7430] hostname: static hostname changed from (none) to "archlinux"
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7437] dns-mgr: init: dns=default,systemd-resolved rc-manager=symlink
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7503] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:14.3/ieee80211/phy0/rfkill3) (driver iwlwifi)
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7510] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7551] manager[0x558853aa1310]: rfkill: Wi-Fi hardware radio set enabled
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7553] manager[0x558853aa1310]: rfkill: WWAN hardware radio set enabled
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.7631] Loaded device plugin: NMAtmManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-adsl.so)
+2026-07-30T13:44:39+03:00 archlinux NetworkManager[616]: <info>  [1785408279.8100] Loaded device plugin: NMWwanFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wwan.so)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1458] Loaded device plugin: NMTeamFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-team.so)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1678] Loaded device plugin: NMWifiFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wifi.so)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1688] Loaded device plugin: NMBluezManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-bluetooth.so)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1698] Loaded device plugin: NMOvsFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-ovs.so)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1701] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1702] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.1702] manager: Networking is enabled by state file
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2077] settings: Loaded settings plugin: keyfile (internal)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2325] dhcp: init: Using DHCP client 'internal'
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2326] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2333] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2335] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2338] device (lo): Activation: starting connection 'lo' (398cf78c-8558-4751-a5de-d92c832a528b)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2343] manager: (enp7s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2349] settings: (enp7s0): created default wired connection 'Wired connection 1'
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.2349] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.4455] device (wlp0s20f3): driver supports Access Point (AP) mode
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.4468] manager: (wlp0s20f3): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.4475] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.6714] device (wlp0s20f3): set-hw-addr: set MAC address to DA:C1:E7:DF:24:22 (scanning)
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8769] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2026-07-30T13:44:40+03:00 archlinux systemd[1]: Started Network Manager.
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8796] ovsdb: disconnected from ovsdb
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8798] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8805] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8810] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8821] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8830] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8831] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+2026-07-30T13:44:40+03:00 archlinux NetworkManager[616]: <info>  [1785408280.8833] device (lo): Activation: successful, device activated.
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2446] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2447] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2449] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2450] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <warn>  [1785408281.2450] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2452] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-30T13:44:41+03:00 archlinux NetworkManager[616]: <info>  [1785408281.2454] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9429] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9431] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9431] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9432] manager: NetworkManager state is now CONNECTING
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9563] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9601] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9607] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9608] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9611] sup-iface[5a30da2b5c3abaa6,0,wlp0s20f3]: wps: type pbc start...
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9616] device (wlp0s20f3): supplicant interface state: disconnected -> inactive
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9616] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> inactive
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9635] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9641] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9645] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9646] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9646] Config: added 'scan_ssid' value '1'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9646] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9647] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9647] Config: added 'auth_alg' value 'OPEN'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9647] Config: added 'psk' value '<hidden>'
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9663] device (wlp0s20f3): supplicant interface state: inactive -> scanning
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9663] device (p2p-dev-wlp0s20f3): supplicant management interface state: inactive -> scanning
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9912] device (wlp0s20f3): supplicant interface state: scanning -> authenticating
+2026-07-30T13:44:44+03:00 archlinux NetworkManager[616]: <info>  [1785408284.9913] device (p2p-dev-wlp0s20f3): supplicant management interface state: scanning -> authenticating
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0200] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0201] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0452] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0453] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0602] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.0603] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.1546] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.1546] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.1547] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.1551] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.1560] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.7933] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.9480] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T13:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785408285.9520] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.2205] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.2241] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.2245] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.2253] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.2266] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.4441] manager: startup complete
+2026-07-30T13:44:46+03:00 archlinux NetworkManager[616]: <info>  [1785408286.5580] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-30T13:45:47+03:00 archlinux NetworkManager[616]: <info>  [1785408347.6884] agent-manager: agent[72d25bf7b2c2b5c6,:1.39/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-30T14:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785411885.4141] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T15:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785415485.5004] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T16:40:46+03:00 archlinux NetworkManager[616]: <info>  [1785418846.9122] audit: op="statistics" interface="enp7s0" ifindex=2 args="500" pid=13674 uid=1000 result="success"
+2026-07-30T16:40:46+03:00 archlinux NetworkManager[616]: <info>  [1785418846.9139] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=13674 uid=1000 result="success"
+2026-07-30T16:40:47+03:00 archlinux NetworkManager[616]: <info>  [1785418847.7035] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=13674 uid=1000 result="success"
+2026-07-30T16:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785419085.7154] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T17:43:49+03:00 archlinux NetworkManager[616]: <info>  [1785422629.3101] audit: op="statistics" interface="enp7s0" ifindex=2 args="500" pid=15172 uid=1000 result="success"
+2026-07-30T17:43:49+03:00 archlinux NetworkManager[616]: <info>  [1785422629.3118] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=15172 uid=1000 result="success"
+2026-07-30T17:43:49+03:00 archlinux NetworkManager[616]: <info>  [1785422629.4674] audit: op="statistics" interface="wlp0s20f3" ifindex=3 args="500" pid=15172 uid=1000 result="success"
+2026-07-30T17:44:45+03:00 archlinux NetworkManager[616]: <info>  [1785422685.7481] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6611] caught SIGTERM, shutting down normally.
+2026-07-30T17:46:58+03:00 archlinux systemd[1]: Stopping Network Manager...
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6620] device (wlp0s20f3): state change: activated -> deactivating (reason 'unmanaged', managed-type: 'full')
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6621] dhcp4 (wlp0s20f3): canceled DHCP transaction
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6622] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6622] dhcp4 (wlp0s20f3): state changed no lease
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6628] manager: NetworkManager state is now DISCONNECTING
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <warn>  [1785422818.6706] dispatcher: (14) failed (after 0.007 sec): Could not activate remote peer 'org.freedesktop.nm_dispatcher': activation request failed: unit is invalid
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.6707] device (wlp0s20f3): state change: deactivating -> unmanaged (reason 'unmanaged-quitting', managed-type: 'full')
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.9301] manager: NetworkManager state is now DISCONNECTED
+2026-07-30T17:46:58+03:00 archlinux NetworkManager[616]: <info>  [1785422818.9313] device (p2p-dev-wlp0s20f3): state change: disconnected -> unmanaged (reason 'unmanaged-link-not-init', managed-type: 'removed')
+2026-07-30T17:46:59+03:00 archlinux NetworkManager[616]: <info>  [1785422819.2346] exiting (success)
+2026-07-30T17:46:59+03:00 archlinux systemd[1]: NetworkManager.service: Deactivated successfully.
+2026-07-30T17:46:59+03:00 archlinux systemd[1]: Stopped Network Manager.
+2026-07-30T17:46:59+03:00 archlinux systemd[1]: NetworkManager.service: Consumed 4.499s CPU time over 4h 2min 20.232s wall clock time, 22.9M memory peak.
+-- Boot 5ae27bcbf1c0499490c30170edc2c8e0 --
+2026-07-31T01:39:20+03:00 archlinux systemd[1]: Starting Network Manager...
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7518] NetworkManager (version 1.58.0-1) is starting... (boot:5ae27bcb-f1c0-4994-90c3-0170edc2c8e0)
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7518] Read config: /etc/NetworkManager/NetworkManager.conf, /usr/lib/NetworkManager/conf.d/20-connectivity.conf
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7836] manager[0x561c204eb3f0]: monitoring kernel firmware directory '/lib/firmware'.
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7851] hostname: hostname: using hostnamed
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7851] hostname: static hostname changed from (none) to "archlinux"
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7855] dns-mgr: init: dns=default,systemd-resolved rc-manager=symlink
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7895] rfkill3: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:14.3/ieee80211/phy0/rfkill3) (driver iwlwifi)
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7899] rfkill0: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1f.0/PNP0C09:00/VPC2004:00/rfkill/rfkill0) (platform driver ideapad_acpi)
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7931] manager[0x561c204eb3f0]: rfkill: Wi-Fi hardware radio set enabled
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7932] manager[0x561c204eb3f0]: rfkill: WWAN hardware radio set enabled
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.7992] Loaded device plugin: NMAtmManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-adsl.so)
+2026-07-31T01:39:20+03:00 archlinux NetworkManager[612]: <info>  [1785451160.8508] Loaded device plugin: NMWwanFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wwan.so)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1792] Loaded device plugin: NMTeamFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-team.so)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1947] Loaded device plugin: NMWifiFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-wifi.so)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1959] Loaded device plugin: NMBluezManager (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-bluetooth.so)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1975] Loaded device plugin: NMOvsFactory (/usr/lib/NetworkManager/1.58.0-1/libnm-device-plugin-ovs.so)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1981] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1983] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.1984] manager: Networking is enabled by state file
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2125] settings: Loaded settings plugin: keyfile (internal)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2736] dhcp: init: Using DHCP client 'internal'
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2738] manager: (lo): new Loopback device (/org/freedesktop/NetworkManager/Devices/1)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2745] device (lo): state change: unmanaged -> unavailable (reason 'connection-assumed', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2747] device (lo): state change: unavailable -> disconnected (reason 'connection-assumed', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2751] device (lo): Activation: starting connection 'lo' (cf289f07-04a4-409b-a03c-a6ecaf45f8cc)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2756] manager: (enp7s0): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2763] settings: (enp7s0): created default wired connection 'Wired connection 1'
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.2763] device (enp7s0): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.5430] device (wlp0s20f3): driver supports Access Point (AP) mode
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.5441] manager: (wlp0s20f3): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.5447] device (wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.7717] device (wlp0s20f3): set-hw-addr: set MAC address to 7E:B6:2D:FC:E5:08 (scanning)
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9774] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+2026-07-31T01:39:21+03:00 archlinux systemd[1]: Started Network Manager.
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9796] ovsdb: disconnected from ovsdb
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9798] device (lo): state change: disconnected -> prepare (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9803] device (lo): state change: prepare -> config (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9806] device (lo): state change: config -> ip-config (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9822] device (lo): state change: ip-config -> ip-check (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9855] device (lo): state change: ip-check -> secondaries (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9859] device (lo): state change: secondaries -> activated (reason 'none', managed-type: 'external')
+2026-07-31T01:39:21+03:00 archlinux NetworkManager[612]: <info>  [1785451161.9867] device (lo): Activation: successful, device activated.
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3669] device (wlp0s20f3): supplicant interface state: internal-starting -> disconnected
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3670] Wi-Fi P2P device controlled by interface wlp0s20f3 created
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3671] manager: (p2p-dev-wlp0s20f3): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/4)
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3672] device (p2p-dev-wlp0s20f3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <warn>  [1785451162.3673] device (p2p-dev-wlp0s20f3): error setting IPv4 forwarding to '0': Resource temporarily unavailable
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3675] device (wlp0s20f3): state change: unavailable -> disconnected (reason 'supplicant-available', managed-type: 'full')
+2026-07-31T01:39:22+03:00 archlinux NetworkManager[612]: <info>  [1785451162.3677] device (p2p-dev-wlp0s20f3): state change: unavailable -> disconnected (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1171] policy: auto-activating connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1176] device (wlp0s20f3): Activation: starting connection 'Kocaeli_Net_Cute' (02ce110d-10ea-4ec5-8940-f0f169d0db95)
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1177] device (wlp0s20f3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1180] manager: NetworkManager state is now CONNECTING
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1256] device (wlp0s20f3): set-hw-addr: reset MAC address to FC:44:82:CD:D6:D8 (preserve)
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1287] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1288] device (wlp0s20f3): Activation: (wifi) access point 'Kocaeli_Net_Cute' has security, but secrets are required.
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1288] device (wlp0s20f3): state change: config -> need-auth (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1289] sup-iface[2ce5dac764a7205d,0,wlp0s20f3]: wps: type pbc start...
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1292] device (wlp0s20f3): state change: need-auth -> prepare (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1293] device (wlp0s20f3): state change: prepare -> config (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] device (wlp0s20f3): Activation: (wifi) connection 'Kocaeli_Net_Cute' has security, and secrets exist.  No new secrets needed.
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'ssid' value 'Kocaeli_Net_Cute'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'scan_ssid' value '1'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'bgscan' value 'simple:30:-70:86400'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK SAE FT-SAE'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'auth_alg' value 'OPEN'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1294] Config: added 'psk' value '<hidden>'
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1512] device (wlp0s20f3): supplicant interface state: disconnected -> authenticating
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1513] device (p2p-dev-wlp0s20f3): supplicant management interface state: disconnected -> authenticating
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1799] device (wlp0s20f3): supplicant interface state: authenticating -> associating
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.1800] device (p2p-dev-wlp0s20f3): supplicant management interface state: authenticating -> associating
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.2015] device (wlp0s20f3): supplicant interface state: associating -> associated
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.2016] device (p2p-dev-wlp0s20f3): supplicant management interface state: associating -> associated
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.2565] device (wlp0s20f3): supplicant interface state: associated -> 4way_handshake
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.2566] device (p2p-dev-wlp0s20f3): supplicant management interface state: associated -> 4way_handshake
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.3307] device (wlp0s20f3): supplicant interface state: 4way_handshake -> completed
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.3307] device (wlp0s20f3): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Kocaeli_Net_Cute"
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.3307] device (p2p-dev-wlp0s20f3): supplicant management interface state: 4way_handshake -> completed
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.3308] device (wlp0s20f3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+2026-07-31T01:39:26+03:00 archlinux NetworkManager[612]: <info>  [1785451166.3310] dhcp4 (wlp0s20f3): activation: beginning transaction (timeout in 45 seconds)
+2026-07-31T01:39:28+03:00 archlinux NetworkManager[612]: ((../NetworkManager/src/libnm-systemd-core/src/libsystemd/sd-event/sd-event.c:4458)): assertion '<dropped>' failed
+2026-07-31T01:39:28+03:00 archlinux NetworkManager[612]: <info>  [1785451168.9839] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108, acd pending
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.1484] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.1522] policy: set 'Kocaeli_Net_Cute' (wlp0s20f3) as default for IPv4 routing and DNS
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4035] device (wlp0s20f3): state change: ip-config -> ip-check (reason 'none', managed-type: 'full')
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4074] device (wlp0s20f3): state change: ip-check -> secondaries (reason 'none', managed-type: 'full')
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4077] device (wlp0s20f3): state change: secondaries -> activated (reason 'none', managed-type: 'full')
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4085] manager: NetworkManager state is now CONNECTED_SITE
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4096] device (wlp0s20f3): Activation: successful, device activated.
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.4109] manager: startup complete
+2026-07-31T01:39:29+03:00 archlinux NetworkManager[612]: <info>  [1785451169.8085] manager: NetworkManager state is now CONNECTED_GLOBAL
+2026-07-30T23:39:28+03:00 archlinux NetworkManager[612]: <info>  [1785443968.7023] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108
+2026-07-31T00:02:47+03:00 archlinux NetworkManager[612]: <info>  [1785445367.2762] agent-manager: agent[439bc92884110952,:1.40/org.kde.plasma.networkmanagement/1000]: agent registered
+2026-07-31T00:39:28+03:00 archlinux NetworkManager[612]: <info>  [1785447568.7003] dhcp4 (wlp0s20f3): state changed new lease, address=192.168.1.108

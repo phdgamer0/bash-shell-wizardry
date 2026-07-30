@@ -1,0 +1,313 @@
+BEGIN EVENT
+Timestamp: 2024-02-09 18:58:04
+User: alice
+Action: LOGOUT
+Resource: /etc/nginx/nginx.conf
+Status: FAIL
+Message: Permission denied
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-08-26 18:24:35
+User: charlie
+Action: WRITE
+Resource: /home/user/docs/report.pdf
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-09-18 00:42:57
+User: alice
+Action: LOGOUT
+Resource: /var/www/index.html
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-05-18 22:29:43
+User: alice
+Action: DELETE
+Resource: /etc/nginx/nginx.conf
+Status: FAIL
+Message: Invalid credentials
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-10-03 15:43:40
+User: alice
+Action: LOGOUT
+Resource: /etc/nginx/nginx.conf
+Status: FAIL
+Message: User authentication successful
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-08-29 06:44:31
+User: alice
+Action: LOGIN
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Permission denied
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-09-20 07:17:45
+User: charlie
+Action: DELETE
+Resource: /var/www/index.html
+Status: FAIL
+Message: Operation completed
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-01-19 09:01:54
+User: charlie
+Action: READ
+Resource: /var/log/auth.log
+Status: FAIL
+Message: User authentication successful
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-09-08 09:59:50
+User: alice
+Action: READ
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Permission denied
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-10-27 04:24:22
+User: alice
+Action: LOGOUT
+Resource: /var/www/index.html
+Status: FAIL
+Message: Operation completed
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-10-31 08:24:28
+User: bob
+Action: LOGOUT
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: User authentication successful
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-08-01 09:36:08
+User: dave
+Action: DELETE
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Operation completed
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-10-19 05:27:59
+User: eve
+Action: EXEC
+Resource: /var/log/auth.log
+Status: FAIL
+Message: File not found
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-09-25 19:31:34
+User: eve
+Action: READ
+Resource: /home/user/docs/report.pdf
+Status: FAIL
+Message: Permission denied
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-12-11 08:22:09
+User: charlie
+Action: EXEC
+Resource: /var/log/auth.log
+Status: FAIL
+Message: User authentication successful
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-10-02 01:30:45
+User: alice
+Action: WRITE
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Permission denied
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-06-25 02:01:22
+User: eve
+Action: LOGOUT
+Resource: /var/www/index.html
+Status: FAIL
+Message: File not found
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-02-06 11:05:02
+User: dave
+Action: LOGOUT
+Resource: /var/log/auth.log
+Status: FAIL
+Message: Permission denied
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-05-31 01:10:00
+User: dave
+Action: DELETE
+Resource: /etc/passwd
+Status: FAIL
+Message: File not found
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-02-29 13:10:44
+User: charlie
+Action: LOGIN
+Resource: /var/log/auth.log
+Status: FAIL
+Message: File not found
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-02-20 10:34:21
+User: bob
+Action: EXEC
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: File not found
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-02-26 17:45:33
+User: alice
+Action: LOGOUT
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Connection timeout
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-02-16 17:25:11
+User: dave
+Action: READ
+Resource: /home/user/docs/report.pdf
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-12-17 00:56:30
+User: bob
+Action: LOGIN
+Resource: /var/log/auth.log
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-03-29 03:49:49
+User: alice
+Action: WRITE
+Resource: /var/www/index.html
+Status: FAIL
+Message: Permission denied
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-04-10 22:44:14
+User: charlie
+Action: LOGOUT
+Resource: /etc/passwd
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-11-19 16:43:36
+User: charlie
+Action: LOGIN
+Resource: /var/www/index.html
+Status: FAIL
+Message: Invalid credentials
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-08-12 11:11:44
+User: alice
+Action: EXEC
+Resource: /etc/nginx/nginx.conf
+Status: FAIL
+Message: Operation completed
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-09-18 05:28:04
+User: eve
+Action: WRITE
+Resource: /etc/nginx/nginx.conf
+Status: FAIL
+Message: Permission denied
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-03-13 05:17:34
+User: dave
+Action: LOGIN
+Resource: /etc/passwd
+Status: FAIL
+Message: Invalid credentials
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-08-29 17:05:37
+User: charlie
+Action: READ
+Resource: /home/user/docs/report.pdf
+Status: FAIL
+Message: Operation completed
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-01-21 04:05:04
+User: alice
+Action: LOGOUT
+Resource: /etc/passwd
+Status: FAIL
+Message: Invalid credentials
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-05-28 13:51:53
+User: charlie
+Action: WRITE
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: Operation completed
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-03-06 10:18:12
+User: charlie
+Action: READ
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: User authentication successful
+Detail-1: Additional info for event
+END EVENT
+BEGIN EVENT
+Timestamp: 2024-06-30 19:30:23
+User: alice
+Action: DELETE
+Resource: /tmp/cache.dat
+Status: FAIL
+Message: User authentication successful
+Detail-1: Additional info for event
+Detail-2: Additional info for event
+END EVENT

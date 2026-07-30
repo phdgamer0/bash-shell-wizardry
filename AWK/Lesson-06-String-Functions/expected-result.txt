@@ -1,0 +1,29 @@
+=== Transactions per Month ===
+Month 01: 353
+Month 02: 308
+Month 03: 323
+Month 04: 318
+Month 05: 315
+Month 06: 322
+Month 07: 190
+Month 08: 167
+Month 09: 161
+Month 10: 172
+Month 11: 202
+Month 12: 169
+
+=== Usernames (Uppercase) ===
+ALICE
+BOB
+CHARLIE
+DAVE
+EVE
+FRANK
+GRACE
+HEIDI
+IVAN
+JUDY
+MALLORY
+OSCAR
+PEGGY
+TRENT

@@ -1,0 +1,62 @@
+=== Step 1: grep -r -f patterns.txt testdata/ ===
+
+testdata/file2.txt:ERROR is mentioned here but this is not a log file.
+testdata/file2.txt:The system encountered a WARN level issue.
+testdata/file2.txt:But it DOES contain ERROR, WARN, and INFO keywords.
+testdata/file2.txt:Some random text: authentication failure reported.
+testdata/file2.txt:CRITICAL condition mentioned in this line.
+testdata/file2.txt:Line with ERROR keyword again here.
+testdata/file2.txt:Line with WARN keyword again here.
+testdata/file2.txt:ERROR: Something went wrong here too.
+testdata/file2.txt:WARN: This is a warning message.
+testdata/file2.txt:CRITICAL: Critical event in txt file.
+testdata/file4.json:      "status": "ERROR",
+testdata/file4.json:      "message": "Connection timeout after 30s"
+testdata/file4.json:      "status": "WARN",
+testdata/file4.json:      "status": "CRITICAL",
+testdata/file4.json:      "status": "ERROR",
+testdata/file3.conf:    error_log /var/log/nginx/error.log ERROR;
+testdata/file3.conf:        server 10.0.0.1:8080 max_fails=3 fail_timeout=30s;
+testdata/file3.conf:        server 10.0.0.2:8080 max_fails=3 fail_timeout=30s;
+testdata/file3.conf:        deny all;  # Block direct PHP access - ERROR if enabled
+testdata/file3.conf:        deny all;  # WARN: consider using stronger auth
+testdata/file3.conf:    connection_timeout = 30s
+testdata/file3.conf:    # WARN: the password is stored in plaintext
+testdata/file3.conf:    # ERROR: deprecated configuration key 'db_type' found
+testdata/file3.conf:    # CRITICAL: disk threshold > 90% triggers alert
+testdata/file3.conf:    # WARN: no secondary monitoring endpoint configured
+testdata/file1.log:2026-07-29T10:15:33+00:00 appserver1 webapp[1234]: WARN: Connection pool nearing capacity (85%)
+testdata/file1.log:2026-07-29T10:15:34+00:00 appserver1 webapp[1234]: ERROR: Failed to initialize cache module: timeout
+testdata/file1.log:2026-07-29T10:15:35+00:00 appserver1 webapp[1234]: WARN: Retrying cache connection in 5s...
+testdata/file1.log:2026-07-29T10:15:38+00:00 appserver1 webapp[1234]: ERROR: Request /api/users failed with 500
+testdata/file1.log:2026-07-29T10:15:39+00:00 appserver1 webapp[1234]: WARN: Rate limit approaching for IP 10.0.0.45
+testdata/file1.log:2026-07-29T11:00:02+00:00 appserver2 cron[5678]: WARN: Disk /dev/sda1 at 92% capacity
+testdata/file1.log:2026-07-29T11:00:03+00:00 appserver2 cron[5678]: ERROR: Backup script /usr/local/bin/backup.sh exited with code 1
+testdata/file1.log:2026-07-29T11:00:04+00:00 appserver2 cron[5678]: CRITICAL: Backup destination /mnt/backup not mounted
+testdata/file1.log:2026-07-29T11:00:05+00:00 appserver2 cron[5678]: WARN: Re-trying backup in 10 minutes
+testdata/file1.log:2026-07-29T11:00:06+00:00 appserver2 cron[5678]: ERROR: Authentication failure for service 'smtp'
+testdata/file1.log:2026-07-29T12:30:00+00:00 appserver3 nginx[9012]: ERROR: upstream timeout on /api/payments
+testdata/file1.log:2026-07-29T12:30:01+00:00 appserver3 nginx[9012]: WARN: Connection limit 1024 reached for pool 'api'
+testdata/file1.log:2026-07-29T12:30:03+00:00 appserver3 nginx[9012]: CRITICAL: SSL certificate for *.example.com expires in 3 days
+testdata/file1.log:2026-07-29T12:30:04+00:00 appserver3 nginx[9012]: ERROR: Invalid request from 192.168.1.100 blocked
+
+Total: 40 lines across 4 files
+
+=== Step 2: grep -r -f patterns.txt --include='*.log' testdata/ ===
+
+testdata/file1.log:2026-07-29T10:15:33+00:00 appserver1 webapp[1234]: WARN: Connection pool nearing capacity (85%)
+testdata/file1.log:2026-07-29T10:15:34+00:00 appserver1 webapp[1234]: ERROR: Failed to initialize cache module: timeout
+testdata/file1.log:2026-07-29T10:15:35+00:00 appserver1 webapp[1234]: WARN: Retrying cache connection in 5s...
+testdata/file1.log:2026-07-29T10:15:38+00:00 appserver1 webapp[1234]: ERROR: Request /api/users failed with 500
+testdata/file1.log:2026-07-29T10:15:39+00:00 appserver1 webapp[1234]: WARN: Rate limit approaching for IP 10.0.0.45
+testdata/file1.log:2026-07-29T11:00:02+00:00 appserver2 cron[5678]: WARN: Disk /dev/sda1 at 92% capacity
+testdata/file1.log:2026-07-29T11:00:03+00:00 appserver2 cron[5678]: ERROR: Backup script /usr/local/bin/backup.sh exited with code 1
+testdata/file1.log:2026-07-29T11:00:04+00:00 appserver2 cron[5678]: CRITICAL: Backup destination /mnt/backup not mounted
+testdata/file1.log:2026-07-29T11:00:05+00:00 appserver2 cron[5678]: WARN: Re-trying backup in 10 minutes
+testdata/file1.log:2026-07-29T11:00:06+00:00 appserver2 cron[5678]: ERROR: Authentication failure for service 'smtp'
+testdata/file1.log:2026-07-29T12:30:00+00:00 appserver3 nginx[9012]: ERROR: upstream timeout on /api/payments
+testdata/file1.log:2026-07-29T12:30:01+00:00 appserver3 nginx[9012]: WARN: Connection limit 1024 reached for pool 'api'
+testdata/file1.log:2026-07-29T12:30:03+00:00 appserver3 nginx[9012]: CRITICAL: SSL certificate for *.example.com expires in 3 days
+testdata/file1.log:2026-07-29T12:30:04+00:00 appserver3 nginx[9012]: ERROR: Invalid request from 192.168.1.100 blocked
+
+Total: 14 lines, only from file1.log (the only .log file)

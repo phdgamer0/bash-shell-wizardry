@@ -1,0 +1,26 @@
+=== Access Log Summary Report ===
+Generated: 2026-07-31 01:28:48
+
+Total lines processed: 10000
+Unique IP addresses: 1753
+
+--- Top 5 Paths ---
+1. /favicon.ico (807)
+2. /style2.css (546)
+3. /reset.css (538)
+4. /images/jordan-80.png (533)
+5. /images/web/2009/banner.png (516)
+
+--- Bytes Transferred ---
+Total: 2747282740 bytes
+Min: 0 bytes
+Max: 69192717 bytes
+Average: 274728 bytes
+
+--- Status Code Distribution ---
+Category           Count Percent
+---------------  ------- -------
+ServerError            3    0.0%
+ClientError          217    2.2%
+Success             9171   91.7%
+Redirect             609    6.1%

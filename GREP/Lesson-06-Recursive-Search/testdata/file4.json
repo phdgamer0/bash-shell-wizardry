@@ -1,0 +1,34 @@
+{
+  "app": "webapp",
+  "version": "2.1.0",
+  "status": "running",
+  "checks": [
+    {
+      "name": "database",
+      "status": "ERROR",
+      "message": "Connection timeout after 30s"
+    },
+    {
+      "name": "cache",
+      "status": "WARN",
+      "message": "Hit rate below 80%"
+    },
+    {
+      "name": "disk",
+      "status": "CRITICAL",
+      "message": "Root partition at 94%"
+    },
+    {
+      "name": "api",
+      "status": "INFO",
+      "message": "Responding normally"
+    },
+    {
+      "name": "backup",
+      "status": "ERROR",
+      "message": "Last backup was 48 hours ago"
+    }
+  ],
+  "uptime": 345600,
+  "requests_served": 1048576
+}

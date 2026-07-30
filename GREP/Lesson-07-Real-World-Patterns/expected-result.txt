@@ -1,0 +1,33 @@
+======================================================================
+  404 Error Analysis Report for access.log
+======================================================================
+
+---[ Section 1: Top 5 Most Requested 404 Paths ]---
+
+     61 /files/logstash/logstash-1.3.2-monolithic.jar
+     32 /presentations/logstash-puppetconf-2012/images/office-space-printer-beat-down-gif.gif
+      6 /wp/wp-admin/
+      6 /wp-login.php?action=register
+      6 /wp-login.php
+
+---[ Section 2: Unique User Agents for 404 Requests ]---
+
+Total unique user agents: 48
+
+Sample of user agents:
+  "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+  "Chef Client/10.18.2 (ruby-1.9.3-p327; ohai-6.16.0; x86_64-linux; +http://opscode.com)"
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1"
+  "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+  "Mozilla/5.0 (compatible; Ezooms/1.0; help@moz.com)"
+
+---[ Summary ]---
+Total 404 requests: 213
+Unique 404 paths: 72
+Unique user agents with 404s: 48
+
+Commands used:
+  grep ' 404 ' target.txt | grep -oP '"[A-Z]+ \K[^" ]+' | sort | uniq -c | sort -rn | head -5
+  grep ' 404 ' target.txt | grep -oP '"([^"]*)"$' | sort -u | wc -l
+  grep -c ' 404 ' target.txt
+  grep ' 404 ' target.txt | grep -oP '"[A-Z]+ \K[^" ]+' | sort -u | wc -l

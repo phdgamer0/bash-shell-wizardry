@@ -1,0 +1,17 @@
+=== SOURCE BREAKDOWN ===
+Access log lines: 1500
+CSV lines: 1500
+Marker/separator lines: 904
+
+=== SAMPLE TIMESTAMPS ===
+Access log (Apache format): 17/May/2015:10:05:03 +0000
+CSV (ISO format): 2024-01-01 00:00:00
+
+=== CHRONOLOGICAL RANGE ===
+Earliest event: May 2015 (access log)
+Latest event: 2025 (CSV transactions)
+Note: Two distinct time periods — access logs from 2015, transactions from 2024-2025.
+
+=== MERGE INSIGHT ===
+When sorting chronologically across formats, convert Apache dates 
+to YYYYMMDDHHMMSS for comparison with CSV timestamps.

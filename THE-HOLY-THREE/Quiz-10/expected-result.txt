@@ -1,0 +1,36 @@
+=== MULTI-STAGE PIPELINE REPORT ===
+
+STAGE 1: EVENT SEVERITY EXTRACTION
+CRITICAL events: 439
+ERROR events: 444
+WARNING events: 217
+DENY entries: 100
+ERROR transactions: 98
+FIREWALL DROP events: 300
+
+STAGE 2: DATA SOURCES NORMALIZED
+ACCESS log entries: 1000
+SYSLOG entries: 1100
+TRANSACTION entries: 800
+FIREWALL entries: 300
+Total: 3200
+
+STAGE 3: CROSS-SOURCE CORRELATION
+Top IPs by total appearance across all sources:
+10.0.0.99  — 546 events (in SYSLOG, ACCESS, TRANSACTION)
+10.0.0.37  — 212 events (in SYSLOG, ACCESS, FIREWALL)
+10.0.0.44  — 183 events (in SYSLOG, ACCESS, TRANSACTION)
+10.0.0.13  — 181 events (in SYSLOG, ACCESS, FIREWALL)
+10.0.0.5   — 156 events (in SYSLOG, ACCESS)
+10.0.0.105 — 140 events (in SYSLOG, FIREWALL)
+10.0.0.250 — 139 events (in SYSLOG, FIREWALL)
+10.0.0.200 — 123 events (in SYSLOG, FIREWALL)
+10.0.0.22  — 119 events (in SYSLOG)
+
+Correlated IP 10.0.0.99 appears in: SYSLOG (failed SSH), ACCESS (POST to /wp-admin), and TRANSACTION (DENY entries)
+
+STAGE 4: SECURITY SUMMARY
+High-severity events detected: 839
+Unique IPs in dataset: 15
+Multi-source correlation confirms 10.0.0.99 as primary threat actor
+Recommended action: Block all 10.0.0.x malicious IPs at firewall, review compromised credentials

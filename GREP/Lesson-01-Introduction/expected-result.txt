@@ -1,0 +1,16 @@
+Part 1: grep -in "fail" target.txt
+---
+1171:2026-07-29T03:18:05+03:00 archlinux kernel: nvidia: module verification failed: signature and/or required key missing - tainting kernel
+1297:2026-07-29T03:18:07+03:00 archlinux kernel: faux_driver regulatory: Direct firmware load for regulatory.db failed with error -2
+1298:2026-07-29T03:18:07+03:00 archlinux kernel: cfg80211: failed to load regulatory.db
+1325:2026-07-29T03:18:08+03:00 archlinux kernel: ucsi_ccg 7-0008: i2c_transfer failed -110
+1326:2026-07-29T03:18:08+03:00 archlinux kernel: ucsi_ccg 7-0008: ucsi_ccg_init failed - -110
+1327:2026-07-29T03:18:08+03:00 archlinux kernel: ucsi_ccg 7-0008: probe with driver ucsi_ccg failed with error -110
+1544:2026-07-29T03:18:14+03:00 archlinux dbus-broker-launch[613]: Activation request for 'org.freedesktop.home1' failed: The systemd unit 'dbus-org.freedesktop.home1.service' could not be found.
+1620:2026-07-29T03:18:31+03:00 archlinux wireplumber[775]: default: Failed to get percentage from UPower: org.freedesktop.DBus.Error.NameHasNoOwner
+1647:2026-07-29T03:19:14+03:00 archlinux unix_chkpwd[898]: password check failed for user (phd)
+... (3440 matching lines total)
+
+Part 2: grep -ci "fail" target.txt
+---
+3440

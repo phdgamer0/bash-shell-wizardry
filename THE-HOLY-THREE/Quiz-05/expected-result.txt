@@ -1,0 +1,14 @@
+/api/data
+/api/login
+/api/register
+/api/users
+/cart/add
+/checkout
+/comment
+/contact
+/login
+/search
+/submit
+/upload
+---
+UNIQUE PATHS: 12

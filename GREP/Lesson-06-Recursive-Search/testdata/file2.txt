@@ -1,0 +1,22 @@
+This is a plain text file that contains some keywords.
+ERROR is mentioned here but this is not a log file.
+The system encountered a WARN level issue.
+INFO messages are informational.
+This file should not match --include *.log patterns.
+But it DOES contain ERROR, WARN, and INFO keywords.
+So it WILL match when using grep -r without --include.
+Some random text: authentication failure reported.
+Another line without any keywords.
+Still more text for padding.
+CRITICAL condition mentioned in this line.
+The pattern file will search for FAILURE and TIMEOUT too.
+DEBUG is also a common log level.
+Line with ERROR keyword again here.
+Line with WARN keyword again here.
+Line with INFO keyword again here.
+Nothing special in this line.
+Just filler text to pad the file.
+ERROR: Something went wrong here too.
+WARN: This is a warning message.
+INFO: Informational line in txt file.
+CRITICAL: Critical event in txt file.

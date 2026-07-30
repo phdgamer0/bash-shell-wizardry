@@ -1,0 +1,189 @@
+2026-07-29T02:24:35+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-29T02:24:35+03:00 archlinux systemd-logind[63]: New seat seat0.
+2026-07-29T02:24:35+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-29T02:24:39+03:00 archlinux systemd-logind[63]: poweroff requested from client PID 88 ('shutdown') (unit run-p11614-i8853.service)...
+2026-07-29T02:24:39+03:00 archlinux systemd-logind[63]: The system will power off now!
+2026-07-29T02:24:39+03:00 archlinux systemd-logind[63]: System is powering down.
+2026-07-29T02:24:39+03:00 archlinux systemd[1]: Stopping User Login Management...
+2026-07-29T02:24:39+03:00 archlinux systemd[1]: systemd-logind.service: Deactivated successfully.
+2026-07-29T02:24:39+03:00 archlinux systemd[1]: Stopped User Login Management.
+-- Boot 82fde628a7d64e3cb4e7bc11c545dac2 --
+2026-07-29T03:18:11+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: New seat seat0.
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event11 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event12 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-29T03:18:11+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-29T03:18:11+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-29T03:18:14+03:00 archlinux systemd-logind[618]: New session 'c1' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-29T03:18:14+03:00 archlinux systemd-logind[618]: New session '1' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-29T03:19:30+03:00 archlinux systemd-logind[618]: New session '2' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-29T03:19:30+03:00 archlinux systemd-logind[618]: New session '3' of user 'phd' with class 'manager' and type 'unspecified'.
+2026-07-29T03:19:35+03:00 archlinux systemd-logind[618]: Session c1 logged out. Waiting for processes to exit.
+2026-07-29T03:19:35+03:00 archlinux systemd-logind[618]: Removed session c1.
+2026-07-29T03:19:46+03:00 archlinux systemd-logind[618]: Removed session 1.
+2026-07-29T03:41:51+03:00 archlinux systemd-logind[618]: New session '4' of user 'phd' with class 'user' and type 'tty'.
+2026-07-29T04:19:28+03:00 archlinux systemd-logind[618]: Session 2 logged out. Waiting for processes to exit.
+2026-07-29T04:19:28+03:00 archlinux systemd-logind[618]: Removed session 2.
+2026-07-29T04:19:28+03:00 archlinux systemd-logind[618]: New session 'c2' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-29T04:19:28+03:00 archlinux systemd-logind[618]: New session '5' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-29T04:19:42+03:00 archlinux systemd-logind[618]: New session '6' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-29T04:19:47+03:00 archlinux systemd-logind[618]: Session c2 logged out. Waiting for processes to exit.
+2026-07-29T04:19:47+03:00 archlinux systemd-logind[618]: Removed session c2.
+2026-07-29T04:19:57+03:00 archlinux systemd-logind[618]: Removed session 5.
+2026-07-29T04:22:23+03:00 archlinux systemd-logind[618]: Session 6 logged out. Waiting for processes to exit.
+2026-07-29T04:22:23+03:00 archlinux systemd-logind[618]: Removed session 6.
+2026-07-29T04:22:23+03:00 archlinux systemd-logind[618]: New session 'c3' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-29T04:22:23+03:00 archlinux systemd-logind[618]: New session '7' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-29T04:22:51+03:00 archlinux systemd-logind[618]: New session '8' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-29T04:22:55+03:00 archlinux systemd-logind[618]: Session c3 logged out. Waiting for processes to exit.
+2026-07-29T04:22:55+03:00 archlinux systemd-logind[618]: Removed session c3.
+2026-07-29T04:23:06+03:00 archlinux systemd-logind[618]: Removed session 7.
+2026-07-29T04:35:57+03:00 archlinux systemd-logind[618]: poweroff requested from client PID 14411 ('plasma-shutdown') (unit user@1000.service)...
+2026-07-29T04:35:57+03:00 archlinux systemd-logind[618]: The system will power off now!
+2026-07-29T04:35:57+03:00 archlinux systemd-logind[618]: System is powering down.
+2026-07-29T04:35:58+03:00 archlinux systemd-logind[618]: Session 4 logged out. Waiting for processes to exit.
+2026-07-29T04:35:58+03:00 archlinux systemd-logind[618]: Removed session 4.
+2026-07-29T04:35:58+03:00 archlinux systemd-logind[618]: Session 8 logged out. Waiting for processes to exit.
+2026-07-29T04:35:58+03:00 archlinux systemd-logind[618]: Removed session 8.
+2026-07-29T04:35:59+03:00 archlinux systemd-logind[618]: Removed session 3.
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: Stopping User Login Management...
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: systemd-logind.service: Deactivated successfully.
+2026-07-29T04:36:00+03:00 archlinux systemd[1]: Stopped User Login Management.
+-- Boot 221fc911db9548dd9ba0d163820cf886 --
+2026-07-29T07:11:59+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: New seat seat0.
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event9 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event10 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-29T07:11:59+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-29T07:11:59+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-29T07:12:02+03:00 archlinux systemd-logind[618]: New session 'c1' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-29T07:12:03+03:00 archlinux systemd-logind[618]: New session '1' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-29T07:12:35+03:00 archlinux systemd-logind[618]: New session '2' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-29T07:12:36+03:00 archlinux systemd-logind[618]: New session '3' of user 'phd' with class 'manager' and type 'unspecified'.
+2026-07-29T07:12:41+03:00 archlinux systemd-logind[618]: Session c1 logged out. Waiting for processes to exit.
+2026-07-29T07:12:41+03:00 archlinux systemd-logind[618]: Removed session c1.
+2026-07-29T07:12:52+03:00 archlinux systemd-logind[618]: Removed session 1.
+2026-07-29T08:36:02+03:00 archlinux systemd-logind[618]: poweroff requested from client PID 12713 ('plasma-shutdown') (unit user@1000.service)...
+2026-07-29T08:36:02+03:00 archlinux systemd-logind[618]: The system will power off now!
+2026-07-29T08:36:02+03:00 archlinux systemd-logind[618]: System is powering down.
+2026-07-29T08:36:02+03:00 archlinux systemd-logind[618]: Session 2 logged out. Waiting for processes to exit.
+2026-07-29T08:36:02+03:00 archlinux systemd-logind[618]: Removed session 2.
+2026-07-29T08:36:04+03:00 archlinux systemd-logind[618]: Removed session 3.
+2026-07-29T08:36:04+03:00 archlinux systemd[1]: Stopping User Login Management...
+2026-07-29T08:36:04+03:00 archlinux systemd[1]: systemd-logind.service: Deactivated successfully.
+2026-07-29T08:36:04+03:00 archlinux systemd[1]: Stopped User Login Management.
+-- Boot 5c2feb539f8b4d39afd60f13e72775e7 --
+2026-07-29T14:08:57+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-29T14:08:57+03:00 archlinux systemd-logind[620]: New seat seat0.
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event11 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event12 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-29T14:08:58+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-29T14:08:58+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-29T14:09:00+03:00 archlinux systemd-logind[620]: New session 'c1' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-29T14:09:01+03:00 archlinux systemd-logind[620]: New session '1' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-29T14:09:30+03:00 archlinux systemd-logind[620]: New session '2' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-29T14:09:31+03:00 archlinux systemd-logind[620]: New session '3' of user 'phd' with class 'manager' and type 'unspecified'.
+2026-07-29T14:09:37+03:00 archlinux systemd-logind[620]: Session c1 logged out. Waiting for processes to exit.
+2026-07-29T14:09:37+03:00 archlinux systemd-logind[620]: Removed session c1.
+2026-07-29T14:09:47+03:00 archlinux systemd-logind[620]: Removed session 1.
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event12 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event11 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-29T15:08:44+03:00 archlinux systemd-logind[620]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-29T17:04:31+03:00 archlinux systemd-logind[620]: suspend requested from client PID 1151 ('org_kde_powerde') (unit user@1000.service)...
+2026-07-29T17:04:31+03:00 archlinux systemd-logind[620]: The system will suspend now!
+2026-07-29T17:14:32+03:00 archlinux systemd-logind[620]: Operation 'suspend' finished.
+2026-07-29T19:06:48+03:00 archlinux systemd-logind[620]: suspend requested from client PID 1151 ('org_kde_powerde') (unit user@1000.service)...
+2026-07-29T19:06:48+03:00 archlinux systemd-logind[620]: The system will suspend now!
+2026-07-29T19:33:57+03:00 archlinux systemd-logind[620]: Operation 'suspend' finished.
+2026-07-29T21:40:15+03:00 archlinux systemd-logind[620]: suspend requested from client PID 1151 ('org_kde_powerde') (unit user@1000.service)...
+2026-07-29T21:40:15+03:00 archlinux systemd-logind[620]: The system will suspend now!
+2026-07-29T23:18:53+03:00 archlinux systemd-logind[620]: Operation 'suspend' finished.
+2026-07-30T03:17:53+03:00 archlinux systemd-logind[620]: poweroff requested from client PID 102456 ('plasma-shutdown') (unit user@1000.service)...
+2026-07-30T03:17:53+03:00 archlinux systemd-logind[620]: The system will power off now!
+2026-07-30T03:17:53+03:00 archlinux systemd-logind[620]: System is powering down.
+2026-07-30T03:17:53+03:00 archlinux systemd-logind[620]: Session 2 logged out. Waiting for processes to exit.
+2026-07-30T03:17:53+03:00 archlinux systemd-logind[620]: Removed session 2.
+2026-07-30T03:19:23+03:00 archlinux systemd-logind[620]: Removed session 3.
+2026-07-30T03:19:23+03:00 archlinux systemd[1]: Stopping User Login Management...
+2026-07-30T03:19:23+03:00 archlinux systemd[1]: systemd-logind.service: Deactivated successfully.
+2026-07-30T03:19:24+03:00 archlinux systemd[1]: Stopped User Login Management.
+2026-07-30T03:19:24+03:00 archlinux systemd[1]: systemd-logind.service: Consumed 1.183s CPU time over 10h 54min 53.692s wall clock time, 6.5M memory peak.
+-- Boot 9721ddd72ecc4bb2899be0ea58acf1b8 --
+2026-07-30T13:44:39+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: New seat seat0.
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event11 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event12 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-30T13:44:39+03:00 archlinux systemd-logind[618]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-30T13:44:39+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-30T13:44:42+03:00 archlinux systemd-logind[618]: New session 'c1' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-30T13:44:43+03:00 archlinux systemd-logind[618]: New session '1' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-30T13:45:37+03:00 archlinux systemd-logind[618]: New session '2' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-30T13:45:38+03:00 archlinux systemd-logind[618]: New session '3' of user 'phd' with class 'manager' and type 'unspecified'.
+2026-07-30T13:45:43+03:00 archlinux systemd-logind[618]: Session c1 logged out. Waiting for processes to exit.
+2026-07-30T13:45:43+03:00 archlinux systemd-logind[618]: Removed session c1.
+2026-07-30T13:45:54+03:00 archlinux systemd-logind[618]: Removed session 1.
+2026-07-30T17:46:56+03:00 archlinux systemd-logind[618]: reboot requested from client PID 15323 ('plasma-shutdown') (unit user@1000.service)...
+2026-07-30T17:46:56+03:00 archlinux systemd-logind[618]: The system will reboot now!
+2026-07-30T17:46:56+03:00 archlinux systemd-logind[618]: System is rebooting.
+2026-07-30T17:46:56+03:00 archlinux systemd-logind[618]: Session 2 logged out. Waiting for processes to exit.
+2026-07-30T17:46:56+03:00 archlinux systemd-logind[618]: Removed session 2.
+2026-07-30T17:46:58+03:00 archlinux systemd-logind[618]: Removed session 3.
+2026-07-30T17:46:58+03:00 archlinux systemd[1]: Stopping User Login Management...
+2026-07-30T17:46:58+03:00 archlinux systemd[1]: systemd-logind.service: Deactivated successfully.
+2026-07-30T17:46:58+03:00 archlinux systemd[1]: Stopped User Login Management.
+-- Boot 5ae27bcbf1c0499490c30170edc2c8e0 --
+2026-07-31T01:39:20+03:00 archlinux systemd[1]: Starting User Login Management...
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: New seat seat0.
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event3 (SINO WEALTH Gaming KB )
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event4 (SINO WEALTH Gaming KB  System Control)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event5 (SINO WEALTH Gaming KB  Consumer Control)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event6 (SINO WEALTH Gaming KB  Keyboard)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event8 (SINOWEALTH Wired Gaming Mouse Keyboard)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event11 (ITE Tech. Inc. ITE Device(8295) Keyboard)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event12 (ITE Tech. Inc. ITE Device(8910) Keyboard)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event1 (Power Button)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event0 (Lid Switch)
+2026-07-31T01:39:20+03:00 archlinux systemd-logind[614]: Watching system buttons on /dev/input/event2 (AT Translated Set 2 keyboard)
+2026-07-31T01:39:20+03:00 archlinux systemd[1]: Started User Login Management.
+2026-07-31T01:39:23+03:00 archlinux systemd-logind[614]: New session 'c1' of user 'plasmalogin' with class 'greeter' and type 'wayland'.
+2026-07-31T01:39:24+03:00 archlinux systemd-logind[614]: New session '1' of user 'plasmalogin' with class 'manager-early' and type 'unspecified'.
+2026-07-31T00:02:37+03:00 archlinux systemd-logind[614]: New session '2' of user 'phd' with class 'user' and type 'wayland'.
+2026-07-31T00:02:38+03:00 archlinux systemd-logind[614]: New session '3' of user 'phd' with class 'manager' and type 'unspecified'.
+2026-07-31T00:02:44+03:00 archlinux systemd-logind[614]: Session c1 logged out. Waiting for processes to exit.
+2026-07-31T00:02:44+03:00 archlinux systemd-logind[614]: Removed session c1.
+2026-07-31T00:02:54+03:00 archlinux systemd-logind[614]: Removed session 1.

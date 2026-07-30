@@ -1,0 +1,17 @@
+1653:2026-07-29T03:19:17+03:00 archlinux plasmalogin[671]: Authentication for user  ""  failed
+21570:2026-07-29T14:09:05+03:00 archlinux NetworkManager[619]: ((../NetworkManager/src/libnm-systemd-core/src/libsystemd/sd-event/sd-event.c:4458)): assertion '<dropped>' failed
+23478:2026-07-29T15:20:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+23479:2026-07-29T15:20:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+23480:2026-07-29T15:20:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+23536:2026-07-29T15:25:33+03:00 archlinux kwalletd6[26597]: g_dbus_proxy_get_object_path: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+23796:2026-07-29T15:55:24+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+23797:2026-07-29T15:55:24+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+23798:2026-07-29T15:55:24+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+26260:2026-07-29T19:37:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+26261:2026-07-29T19:37:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+26262:2026-07-29T19:37:42+03:00 archlinux wireplumber[1044]: wp-properties: wp_properties_get: assertion 'self != NULL' failed
+26318:2026-07-29T19:56:24+03:00 archlinux sudo[52538]: pam_unix(sudo:auth): conversation failed
+26447:2026-07-29T21:01:40+03:00 archlinux sudo[64593]: pam_unix(sudo:auth): conversation failed
+32596:2026-07-30T14:49:08+03:00 archlinux kwalletd6[7747]: g_dbus_proxy_get_object_path: assertion 'G_IS_DBUS_PROXY (proxy)' failed
+35095:2026-07-31T01:39:28+03:00 archlinux NetworkManager[612]: ((../NetworkManager/src/libnm-systemd-core/src/libsystemd/sd-event/sd-event.c:4458)): assertion '<dropped>' failed
+Total: 16 lines

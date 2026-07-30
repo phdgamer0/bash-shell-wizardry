@@ -1,0 +1,22 @@
+=== SECURITY INCIDENT REPORT ===
+
+EVENT BREAKDOWN:
+- Failed SSH password attempts: 900
+- UFW BLOCK (port scans): 300
+- ModSecurity alerts (web attacks): 300
+- Normal (successful) logins: 1000
+
+TOP 5 SUSPICIOUS IPS:
+10.0.0.99 - 361 events (brute force + web attacks)
+10.0.0.44 - 279 events (brute force + port scanning)
+10.0.0.13 - 260 events (brute force + port scanning)
+10.0.0.5  - 138 events (multi-vector)
+10.0.0.22 - 119 events (port scanning focus)
+
+ATTACK TYPES DETECTED:
+1. Brute Force SSH — 900 failed password attempts
+2. Port Scanning — 300 UFW BLOCK events across multiple ports
+3. Web Application Attacks — 300 ModSecurity alerts
+   (SQL injection, XSS, path traversal, RFI, command injection)
+
+TIMELINE: UNIX timestamps 1700000000 to 1700086100

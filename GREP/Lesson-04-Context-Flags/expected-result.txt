@@ -1,0 +1,44 @@
+===== Part A: Context search (-B1 -A1) =====
+
+Total matching lines: 253
+
+Sample of context output (first 10 groups):
+
+2026-07-29T03:18:03+03:00 archlinux kernel: x86/cpu: SGX disabled or unsupported by BIOS.
+2026-07-29T03:18:03+03:00 archlinux kernel: MMIO Stale Data CPU bug present and SMT on, data leak possible. See https://www.kernel.org/doc/html/latest/admin-guide/hw-vuln/processor_mmio_stale_data.html for more details.
+2026-07-29T03:18:03+03:00 archlinux kernel: virt/tdx: TDX not supported by the host platform
+2026-07-29T03:18:03+03:00 archlinux kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.I2C2.TPD0], AE_NOT_FOUND (20251212/dswload2-162)
+2026-07-29T03:18:03+03:00 archlinux kernel: ACPI Error: AE_NOT_FOUND, During name lookup/catalog (20251212/psobject-220)
+2026-07-29T03:18:03+03:00 archlinux kernel: ACPI BIOS Error (bug): Could not resolve symbol [\_SB.PCI0.I2C3.TPL1], AE_NOT_FOUND (20251212/dswload2-162)
+2026-07-29T03:18:03+03:00 archlinux kernel: ACPI Error: AE_NOT_FOUND, During name lookup/catalog (20251212/psobject-220)
+2026-07-29T03:18:03+03:00 archlinux kernel: hpet_acpi_probe: no address or irqs in _CRS
+2026-07-29T03:18:04+03:00 archlinux kernel: i8042: PNP: PS/2 appears to have AUX port disabled, if this is incorrect please boot with i8042.nopnp
+2026-07-29T03:18:04+03:00 archlinux kernel: ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+...
+--
+2026-07-29T03:19:42+03:00 archlinux org_kde_powerdevil[1185]: org.kde.powerdevil.chargethresholdhelper.getthreshold failed "Charge thresholds are not supported by the kernel for this hardware"
+2026-07-29T03:19:42+03:00 archlinux systemd[907]: app-org.kde.plasma.bigscreen.inputhandler@c9b1230fc6544afabc0e2bb22b06217e.service: Failed with result 'exit-code'.
+2026-07-29T03:19:43+03:00 archlinux org_kde_powerdevil[1185]: Handle button events action could not check for screen configuration
+...
+
+===== Part B: Extracted service names (-oP) =====
+
+grep -oP '\[\K[^\]]+' output (sorted by frequency):
+     28 1
+     18 907
+      9 893
+      8 613
+      6 895
+      5 \_SB.PCI0.I2C3.TPL1
+      5 \_SB.PCI0.I2C2.TPD0
+      4 615
+      4 612
+      4 1022
+      3 Firmware Bug
+      3 608
+      3 1151
+      3 1031
+      2 drm
+      ...
+
+Note: Some results (like \_SB.PCI0.*) are not actual service names but bracket patterns from kernel messages. The main service names are numeric PIDs: 1, 907, 893, 613, 895, 615, 612, 1022, 608, 1151, 1031, etc.

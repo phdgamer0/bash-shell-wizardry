@@ -1,0 +1,19 @@
+kernel: 973
+kwin_wayland: 129
+NetworkManager: 96
+plasmashell: 100
+kded6: 38
+kwin_wayland_wrapper: 21
+systemsettings: 56
+polkit-kde-authentication-agent-1: 46
+plasmalogin: 25
+plasmalogin-helper: 32
+kdeconnectd: 4
+dbus-broker-launch: 13
+pipewire: 12
+wpa_supplicant: 11
+mtp-probe: 10
+wireplumber: 19
+polkitd: 1
+pipewire-pulse: 6
+... (48 services total)

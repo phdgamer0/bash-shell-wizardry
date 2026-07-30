@@ -1,0 +1,25 @@
+Product                Qty    Price      Total
+-------------------- ----- -------- ----------
+Doohickey Delta        478   199.06   95150.68
+Utensil Omicron         48   375.66   18031.68
+Fixture Xi              85    11.00     935.00
+Tool Lambda            228   104.53   23832.84
+Doohickey Delta        448   377.93  169312.64
+Implement Theta        403   269.20  108487.60
+Instrument Kappa        22    46.57    1024.54
+Widget Alpha            30    42.11    1263.30
+Gadget Zeta            301   150.54   45312.54
+Widget Alpha            98   403.50   39543.00
+Gizmo Beta             290   444.70  128963.00
+Apparatus Eta          228   229.75   52383.00
+Instrument Kappa       415   324.02  134468.30
+Fixture Xi              92   273.73   25183.16
+Tool Lambda             15   189.31    2839.65
+Fixture Xi             444   335.59  149001.96
+Instrument Kappa       133   128.79   17129.07
+Apparatus Eta          373   157.35   58691.55
+Widget Alpha           104   285.18   29658.72
+Device Iota            438   390.60  171082.80
+-------------------- ----- -------- ----------
+GRAND TOTAL                        8273646.88
+Average price per item: 254.67

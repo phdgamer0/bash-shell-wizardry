@@ -1,0 +1,10 @@
+Full output truncated — top entries sorted by total bytes descending:
+
+/robots.txt | COUNT=180 | MIN=0 | MAX=0 | AVG=0 | TOTAL=0
+/presentations/logstash-monitorama-2013/images/sad-medic.png | COUNT=1 | MIN=430406 | MAX=430406 | AVG=430406 | TOTAL=430406
+/presentations/logstash-monitorama-2013/images/kibana-dashboard2.png | COUNT=1 | MIN=394967 | MAX=394967 | AVG=394967 | TOTAL=394967
+/presentations/logstash-monitorama-2013/images/kibana-dashboard.png | COUNT=1 | MIN=321631 | MAX=321631 | AVG=321631 | TOTAL=321631
+/presentations/logstash-monitorama-2013/images/kibana-search.png | COUNT=1 | MIN=203023 | MAX=203023 | AVG=203023 | TOTAL=203023
+... and many more paths
+
+Your output should include ALL paths sorted by total bytes descending.

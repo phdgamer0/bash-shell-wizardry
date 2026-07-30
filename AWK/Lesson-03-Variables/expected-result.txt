@@ -1,0 +1,33 @@
+NR | User | Action | Resource
+1 | eve | UPDATE | /etc/nginx/nginx.conf
+2 | bob | WRITE | /home/user/.ssh/id_rsa
+3 | peggy | LOGIN | /usr/bin/sudo
+4 | alice | LOGIN | /tmp/cache.dat
+5 | trent |  | /home/user/.ssh/id_rsa
+6 | ivan | LOGOUT | /home/user/.ssh/id_rsa
+7 | mallory | EXEC | /etc/nginx/nginx.conf
+8 | mallory | DELETE | /home/user/docs/report.pdf
+9 | eve | LOGIN | /tmp/cache.dat
+10 | eve |  | /var/log/auth.log
+11 | alice | UPDATE | /var/www/index.html
+12 | grace | READ | /var/www/index.html
+13 | mallory | EXEC | /var/www/index.html
+14 | grace |  | /tmp/cache.dat
+15 | ivan | LOGOUT | /etc/passwd
+16 | grace | LOGIN | /etc/shadow
+17 | eve | READ | /home/user/.ssh/id_rsa
+18 | peggy | WRITE | /home/user/.ssh/id_rsa
+19 | mallory | LOGIN | 
+20 | grace | WRITE | /var/log/syslog
+21 | peggy | EXEC | 
+22 | grace | LOGIN | /proc/cpuinfo
+23 | grace | LOGOUT | /proc/cpuinfo
+24 | oscar |  | /var/log/auth.log
+25 | peggy | LOGIN | /etc/nginx/nginx.conf
+26 | ivan | DELETE | /opt/app/config.yaml
+27 | mallory | LOGIN | /tmp/cache.dat
+28 | grace | WRITE | /etc/shadow
+29 | ivan | DELETE | /opt/app/config.yaml
+---
+Lines processed: 3000
+Filename: target.txt

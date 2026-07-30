@@ -1,0 +1,28 @@
+===== Part A: All Unique IPs =====
+
+Unique IPs count: 1863
+
+First 5 IPs (sorted):
+0.255.255.2
+0.9832.10273.0
+100.2.4.116
+100.43.83.137
+10.0.648.127
+
+(Note: Some matches like "0.9832.10273.0" aren't valid IPs but match the \d+\.\d+\.\d+\.\d+ pattern.)
+
+Command: grep -oP '\d+\.\d+\.\d+\.\d+' target.txt | sort -u
+
+===== Part B: HTTP Method Analysis =====
+
+GET lines: 9952
+POST lines: 5
+
+Unique IPs that used GET: 1846
+Unique IPs that used POST: 4
+
+Commands:
+  grep -cP '(?<=")GET ' target.txt
+  grep -cP '(?<=")POST ' target.txt
+  grep -P '(?<=")GET ' target.txt | grep -oP '\d+\.\d+\.\d+\.\d+' | sort -u | wc -l
+  grep -P '(?<=")POST ' target.txt | grep -oP '\d+\.\d+\.\d+\.\d+' | sort -u | wc -l

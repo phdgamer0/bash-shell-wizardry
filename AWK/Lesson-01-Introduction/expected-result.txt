@@ -1,0 +1,30 @@
+eve: UPDATE
+bob: WRITE
+peggy: LOGIN
+alice: LOGIN
+trent: 
+ivan: LOGOUT
+mallory: EXEC
+mallory: DELETE
+eve: LOGIN
+eve: 
+alice: UPDATE
+grace: READ
+mallory: EXEC
+grace: 
+ivan: LOGOUT
+grace: LOGIN
+eve: READ
+peggy: WRITE
+mallory: LOGIN
+grace: WRITE
+peggy: EXEC
+grace: LOGIN
+grace: LOGOUT
+oscar: 
+peggy: LOGIN
+ivan: DELETE
+mallory: LOGIN
+grace: WRITE
+ivan: DELETE
+oscar: WRITE

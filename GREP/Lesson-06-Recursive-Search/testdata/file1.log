@@ -1,0 +1,25 @@
+2026-07-29T10:15:30+00:00 appserver1 webapp[1234]: INFO: Application started successfully
+2026-07-29T10:15:31+00:00 appserver1 webapp[1234]: DEBUG: Loading configuration from /etc/webapp/config.yml
+2026-07-29T10:15:32+00:00 appserver1 webapp[1234]: INFO: Connected to database at db01:5432
+2026-07-29T10:15:33+00:00 appserver1 webapp[1234]: WARN: Connection pool nearing capacity (85%)
+2026-07-29T10:15:34+00:00 appserver1 webapp[1234]: ERROR: Failed to initialize cache module: timeout
+2026-07-29T10:15:35+00:00 appserver1 webapp[1234]: WARN: Retrying cache connection in 5s...
+2026-07-29T10:15:36+00:00 appserver1 webapp[1234]: INFO: Cache module initialized successfully
+2026-07-29T10:15:37+00:00 appserver1 webapp[1234]: INFO: Listening on port 8080
+2026-07-29T10:15:38+00:00 appserver1 webapp[1234]: ERROR: Request /api/users failed with 500
+2026-07-29T10:15:39+00:00 appserver1 webapp[1234]: WARN: Rate limit approaching for IP 10.0.0.45
+2026-07-29T10:15:40+00:00 appserver1 webapp[1234]: INFO: Scheduled job 'cleanup' completed in 1.2s
+2026-07-29T11:00:01+00:00 appserver2 cron[5678]: INFO: Running daily maintenance tasks
+2026-07-29T11:00:02+00:00 appserver2 cron[5678]: WARN: Disk /dev/sda1 at 92% capacity
+2026-07-29T11:00:03+00:00 appserver2 cron[5678]: ERROR: Backup script /usr/local/bin/backup.sh exited with code 1
+2026-07-29T11:00:04+00:00 appserver2 cron[5678]: CRITICAL: Backup destination /mnt/backup not mounted
+2026-07-29T11:00:05+00:00 appserver2 cron[5678]: WARN: Re-trying backup in 10 minutes
+2026-07-29T11:00:06+00:00 appserver2 cron[5678]: ERROR: Authentication failure for service 'smtp'
+2026-07-29T11:00:07+00:00 appserver2 cron[5678]: INFO: Maintenance tasks completed
+2026-07-29T12:30:00+00:00 appserver3 nginx[9012]: ERROR: upstream timeout on /api/payments
+2026-07-29T12:30:01+00:00 appserver3 nginx[9012]: WARN: Connection limit 1024 reached for pool 'api'
+2026-07-29T12:30:02+00:00 appserver3 nginx[9012]: INFO: Reloading configuration
+2026-07-29T12:30:03+00:00 appserver3 nginx[9012]: CRITICAL: SSL certificate for *.example.com expires in 3 days
+2026-07-29T12:30:04+00:00 appserver3 nginx[9012]: ERROR: Invalid request from 192.168.1.100 blocked
+2026-07-29T12:30:05+00:00 appserver3 nginx[9012]: INFO: Rate limiting enabled for /api/upload
+2026-07-29T12:30:06+00:00 appserver3 nginx[9012]: DEBUG: Processing 15 queued requests

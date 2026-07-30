@@ -1,0 +1,13 @@
+=== Transaction Report ===
+Action      Count
+----------------
+LOGIN       374
+LOGOUT      397
+READ        362
+WRITE       374
+DELETE      395
+UPDATE      376
+EXEC        368
+(empty)     354
+----------------
+TOTAL      3000

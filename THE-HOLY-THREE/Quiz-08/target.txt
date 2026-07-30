@@ -1,0 +1,2500 @@
+2026/11/19 13:48:17 [ERROR] api: rate limit exceeded for IP 192.168.1.11
+2024-11-06T20:06:44+00:00 server03 cron[5166]: error on connection
+2024-02-17T16:49:39+00:00 server01 sshd[4990]: configuration reloaded
+2025/07/03 13:38:06 [INFO] worker: user session created
+CUSTOM-LOG: 2024-01-20T05:19:00+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.12 - - [Dec 09 06:29:43] "GET /checkout HTTP/1.1" 404 159063
+192.168.1.8 - - [Oct 21 14:28:37] "DELETE /js/app.js HTTP/1.1" 400 109762
+Apr 08 23:28:20 server01 postfix/smtpd[9259]: CD182CB56B: client=192.168.1.3
+2024/09/21 15:05:30 [ERROR] auth: cache miss for key product:*
+2025/08/17 15:05:55 [INFO] scheduler: authentication failed for user alice
+192.168.1.28 - - [Mar 06 17:04:54] "GET /products HTTP/1.1" 502 20391
+2026-08-26T15:29:21+00:00 server04 sshd[8376]: stopped
+Oct 28 18:36:30 server01 postfix/smtpd[8471]: 0315C038CB: client=192.168.1.23
+2025-12-11T01:04:10+00:00 server03 cron[4154]: started
+2024/10/25 11:51:16 [ERROR] auth: authentication failed for user admin
+2026-10-10T08:17:29+00:00 server04 cron[5898]: failed to start
+2024/07/07 01:32:47 [ERROR] db: authentication failed for user bob
+2025-02-05T05:38:40+00:00 server03 dhcpcd[9416]: configuration reloaded
+CUSTOM-LOG: 2026-01-13T09:27:53+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+2026/02/23 10:00:35 [WARN] scheduler: cache miss for key session:*
+2024/04/08 04:16:28 [INFO] auth: cache miss for key user:*
+192.168.1.37 - - [Mar 09 05:22:44] "GET /products HTTP/1.1" 302 471836
+192.168.1.1 - - [Apr 24 15:51:10] "POST /api/users HTTP/1.1" 200 286075
+192.168.1.25 - - [Oct 01 08:29:08] "PUT /products HTTP/1.1" 500 455087
+2026-10-17T17:17:42+00:00 server03 NetworkManager[4259]: started
+192.168.1.21 - - [Nov 01 20:12:18] "PUT /cart HTTP/1.1" 403 92909
+2025-01-18T09:08:00+00:00 server04 kernel[7449]: configuration reloaded
+2025-07-24T07:42:43+00:00 server01 NetworkManager[6988]: failed to start
+2024/09/02 01:35:42 [ERROR] db: authentication failed for user alice
+192.168.1.34 - - [Mar 15 08:17:52] "GET /images/logo.png HTTP/1.1" 403 382333
+192.168.1.32 - - [Feb 13 11:40:59] "PUT /js/app.js HTTP/1.1" 304 266328
+192.168.1.20 - - [Feb 24 18:48:27] "POST /index.html HTTP/1.1" 301 300485
+CUSTOM-LOG: 2026-04-27T18:55:38+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2025-07-03T08:52:49+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.36 - - [Jun 05 16:51:07] "GET /css/style.css HTTP/1.1" 302 247308
+2024/05/27 04:06:04 [INFO] db: authentication failed for user alice
+Nov 19 18:34:36 server01 postfix/smtpd[3132]: 62AFE90599: client=192.168.1.23
+2024/01/13 13:41:51 [WARN] worker: cache miss for key user:*
+Jan 20 14:06:17 server01 postfix/smtpd[5488]: 9B82CAEDA7: client=192.168.1.31
+2026-10-09T10:56:57+00:00 server01 systemd[4865]: configuration reloaded
+192.168.1.28 - - [Apr 05 08:26:59] "PUT /css/style.css HTTP/1.1" 304 498258
+192.168.1.11 - - [Sep 14 08:57:36] "PUT /js/app.js HTTP/1.1" 502 236909
+192.168.1.8 - - [May 08 01:27:17] "GET /checkout HTTP/1.1" 400 87624
+CUSTOM-LOG: 2026-07-19T16:25:34+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+2024/12/06 01:30:15 [INFO] worker: cache miss for key session:*
+CUSTOM-LOG: 2024-07-22T03:15:45+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2024/03/21 02:20:17 [ERROR] cache: user session created
+192.168.1.13 - - [Jan 19 04:13:47] "PUT /api/users HTTP/1.1" 401 386912
+2026/10/27 00:22:39 [INFO] api: connection pool exhausted
+2025/07/27 15:31:46 [WARN] cache: cache miss for key product:*
+Mar 28 15:03:35 server01 postfix/smtpd[8382]: 88B5C0140F: client=192.168.1.34
+192.168.1.48 - - [Dec 28 21:38:11] "POST /images/logo.png HTTP/1.1" 503 390172
+192.168.1.4 - - [Jul 12 10:49:09] "PUT /cart HTTP/1.1" 302 375567
+2025-07-11T18:42:20+00:00 server01 NetworkManager[3405]: failed to start
+2024-03-22T10:28:49+00:00 server05 cron[6931]: configuration reloaded
+Jun 10 19:38:21 server01 postfix/smtpd[6699]: 288C3FE378: client=192.168.1.17
+CUSTOM-LOG: 2025-09-15T13:38:34+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+2026/03/11 16:07:40 [INFO] auth: query executed in 1913ms
+Jul 19 16:06:48 server01 postfix/smtpd[2414]: E1BBEB334C: client=192.168.1.40
+2025-08-26T03:07:12+00:00 server03 systemd[6949]: started
+2026-08-19T11:03:19+00:00 server04 kernel[5989]: started
+2026/12/09 15:37:38 [WARN] auth: authentication failed for user admin
+2024/11/21 11:58:34 [ERROR] scheduler: cache miss for key session:*
+Jan 05 05:36:56 server01 postfix/smtpd[6994]: C35A01DC06: client=192.168.1.7
+2024-11-12T11:59:23+00:00 server05 dhcpcd[9564]: failed to start
+2026-03-07T14:54:16+00:00 server04 dhcpcd[5911]: error on connection
+Apr 14 13:28:32 server01 postfix/smtpd[6828]: 0364487734: client=192.168.1.35
+Mar 13 18:03:28 server01 postfix/smtpd[2163]: 2EE7F5A954: client=192.168.1.41
+192.168.1.17 - - [Jun 13 11:29:30] "DELETE /search HTTP/1.1" 404 451455
+2024-01-27T07:50:25+00:00 server04 sshd[9535]: configuration reloaded
+2024-02-25T23:46:13+00:00 server01 dhcpcd[5968]: started
+Jun 08 20:18:35 server01 postfix/smtpd[5486]: EF0AD10432: client=192.168.1.44
+2024-04-06T08:04:38+00:00 server05 systemd[800]: started
+2025-04-22T07:48:28+00:00 server03 cron[770]: configuration reloaded
+Dec 23 05:43:12 server01 postfix/smtpd[7291]: D3B80651F9: client=192.168.1.19
+CUSTOM-LOG: 2025-03-16T07:36:36+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2026-08-17T01:46:22+00:00 server05 kernel[928]: failed to start
+192.168.1.23 - - [Jan 28 05:57:12] "POST /login HTTP/1.1" 304 358869
+192.168.1.49 - - [Dec 08 17:01:52] "GET /images/logo.png HTTP/1.1" 304 444379
+2024-03-09T15:15:46+00:00 server03 cron[8810]: configuration reloaded
+192.168.1.43 - - [Nov 09 04:32:38] "PUT /products HTTP/1.1" 302 53216
+192.168.1.43 - - [Dec 02 07:43:01] "DELETE /login HTTP/1.1" 304 298188
+192.168.1.27 - - [Apr 23 18:16:00] "POST /images/logo.png HTTP/1.1" 200 165863
+2026/10/11 11:04:55 [ERROR] cache: cache miss for key product:*
+2025/12/10 22:35:53 [DEBUG] cache: query executed in 3990ms
+Aug 04 20:18:47 server01 postfix/smtpd[3333]: 421847D0B8: client=192.168.1.19
+2026-07-14T00:22:52+00:00 server02 NetworkManager[4260]: started
+2025-04-15T07:27:00+00:00 server01 kernel[9172]: failed to start
+May 14 04:54:18 server01 postfix/smtpd[2420]: 830F211E75: client=192.168.1.14
+2024/04/25 11:12:36 [DEBUG] worker: request timed out
+192.168.1.26 - - [Oct 11 19:29:59] "GET /index.html HTTP/1.1" 304 219936
+2025/05/11 09:25:29 [WARN] cache: authentication failed for user admin
+2025/11/25 00:23:27 [DEBUG] web: cache miss for key product:*
+Aug 03 17:06:58 server01 postfix/smtpd[3873]: D940550F87: client=192.168.1.36
+2026-06-24T19:11:01+00:00 server01 cron[5159]: stopped
+192.168.1.23 - - [Oct 14 23:01:48] "PUT /api/users HTTP/1.1" 404 411446
+2025/05/27 15:12:04 [WARN] worker: rate limit exceeded for IP 192.168.1.9
+2025/03/25 04:07:31 [INFO] worker: cache miss for key session:*
+2026/08/15 15:09:39 [DEBUG] worker: rate limit exceeded for IP 192.168.1.10
+Feb 17 23:06:06 server01 postfix/smtpd[1229]: EFBF887C7D: client=192.168.1.7
+2025/04/04 07:06:36 [WARN] web: request timed out
+CUSTOM-LOG: 2025-03-26T06:47:58+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2024/05/18 11:00:18 [INFO] scheduler: user session created
+Apr 09 05:04:54 server01 postfix/smtpd[4704]: E49CB31F37: client=192.168.1.35
+2025/07/07 23:19:23 [DEBUG] auth: query executed in 1727ms
+CUSTOM-LOG: 2024-07-07T16:39:33+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+2025-09-26T20:30:30+00:00 server05 kernel[976]: configuration reloaded
+192.168.1.45 - - [Jun 02 23:38:59] "GET /products HTTP/1.1" 403 413816
+192.168.1.19 - - [Jul 14 16:08:37] "POST /products HTTP/1.1" 400 386218
+2025-01-03T17:20:36+00:00 server05 kernel[4869]: started
+Jul 15 23:30:54 server01 postfix/smtpd[4994]: CE5A333B53: client=192.168.1.34
+2026/09/19 10:09:33 [INFO] web: cache miss for key product:*
+192.168.1.11 - - [Apr 15 13:24:19] "DELETE /search HTTP/1.1" 500 271112
+CUSTOM-LOG: 2026-04-18T14:14:41+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-06-24T13:45:16+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+2024/07/21 15:31:31 [ERROR] auth: query executed in 4855ms
+Jul 22 16:35:34 server01 postfix/smtpd[6519]: 52CCE0F803: client=192.168.1.38
+192.168.1.10 - - [Jun 15 17:31:26] "DELETE /login HTTP/1.1" 503 191465
+Jul 05 13:21:47 server01 postfix/smtpd[6136]: 4B744D66A7: client=192.168.1.46
+192.168.1.24 - - [Jan 27 01:29:34] "PUT /search HTTP/1.1" 304 195835
+2024-09-16T20:29:30+00:00 server01 cron[4176]: stopped
+2024-11-15T19:38:02+00:00 server01 systemd[462]: error on connection
+192.168.1.39 - - [Sep 26 21:31:12] "GET /js/app.js HTTP/1.1" 401 487924
+2025/04/08 15:52:40 [ERROR] auth: cache miss for key user:*
+2026-11-09T21:45:42+00:00 server03 cron[4491]: configuration reloaded
+2024-12-02T08:46:51+00:00 server01 NetworkManager[4249]: error on connection
+Jan 06 12:58:05 server01 postfix/smtpd[3579]: 5C8BF59852: client=192.168.1.49
+2025/08/02 06:54:13 [DEBUG] db: authentication failed for user admin
+192.168.1.25 - - [Dec 05 21:15:05] "DELETE /js/app.js HTTP/1.1" 500 356861
+2025/04/15 21:12:21 [DEBUG] auth: query executed in 4934ms
+Nov 03 08:46:24 server01 postfix/smtpd[8040]: 6FACF79C9C: client=192.168.1.1
+Apr 22 19:13:49 server01 postfix/smtpd[2049]: 8F3AF62DD6: client=192.168.1.49
+2025/12/04 19:23:10 [DEBUG] api: cache miss for key user:*
+Aug 26 02:03:05 server01 postfix/smtpd[1844]: 652B14F2D5: client=192.168.1.24
+2025/05/14 11:57:20 [INFO] web: user session created
+2025-09-18T00:57:01+00:00 server02 cron[3712]: error on connection
+192.168.1.11 - - [May 11 23:51:44] "PUT /css/style.css HTTP/1.1" 502 246890
+Mar 01 07:59:45 server01 postfix/smtpd[5909]: D1104B293E: client=192.168.1.20
+192.168.1.31 - - [Nov 21 08:14:29] "GET /js/app.js HTTP/1.1" 403 260034
+CUSTOM-LOG: 2026-04-14T01:18:11+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2025/05/26 09:41:01 [INFO] cache: authentication failed for user admin
+Feb 16 13:48:45 server01 postfix/smtpd[9830]: D770050364: client=192.168.1.32
+Jul 25 19:56:21 server01 postfix/smtpd[4815]: 4D0F1C0E5E: client=192.168.1.12
+2025/03/22 04:06:20 [DEBUG] web: query executed in 576ms
+Feb 18 05:40:05 server01 postfix/smtpd[1891]: CEFC6A25CE: client=192.168.1.39
+Dec 13 11:10:41 server01 postfix/smtpd[6989]: EBF19D65F1: client=192.168.1.25
+Feb 03 03:31:29 server01 postfix/smtpd[6940]: 32C3683FA9: client=192.168.1.22
+2026-02-25T02:47:38+00:00 server01 NetworkManager[5347]: error on connection
+2024-05-23T08:05:24+00:00 server05 dhcpcd[6090]: configuration reloaded
+2025-05-19T22:49:31+00:00 server04 dhcpcd[6236]: configuration reloaded
+192.168.1.34 - - [Dec 12 21:49:07] "GET /cart HTTP/1.1" 404 217418
+2025/10/09 06:38:55 [WARN] cache: user session created
+CUSTOM-LOG: 2025-02-10T14:06:27+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+May 02 02:59:46 server01 postfix/smtpd[8579]: DB9C812B54: client=192.168.1.19
+2025-01-11T12:31:56+00:00 server05 systemd[4143]: stopped
+CUSTOM-LOG: 2024-07-02T20:25:39+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2025-12-24T08:45:57+00:00 server04 kernel[496]: failed to start
+May 02 22:14:59 server01 postfix/smtpd[7380]: E830ED9015: client=192.168.1.36
+Mar 03 06:28:14 server01 postfix/smtpd[5394]: 44B856D6D2: client=192.168.1.13
+192.168.1.11 - - [Aug 11 21:49:18] "GET /images/logo.png HTTP/1.1" 302 327466
+CUSTOM-LOG: 2026-05-27T16:03:23+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+Feb 22 12:48:20 server01 postfix/smtpd[3122]: AC62D9E7E1: client=192.168.1.11
+192.168.1.42 - - [Jan 28 03:32:36] "PUT /cart HTTP/1.1" 400 206949
+Feb 01 11:34:48 server01 postfix/smtpd[9468]: A9AA2496C1: client=192.168.1.18
+Oct 02 02:02:02 server01 postfix/smtpd[9637]: AC4F6A53F5: client=192.168.1.25
+CUSTOM-LOG: 2024-07-10T07:34:03+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2025-12-06T00:41:49+00:00 server03 cron[8099]: error on connection
+Jun 09 23:35:07 server01 postfix/smtpd[5719]: 3E83FADF0F: client=192.168.1.14
+Jul 26 00:20:44 server01 postfix/smtpd[9294]: 5D296545A1: client=192.168.1.31
+2025/07/03 04:33:50 [DEBUG] worker: user session created
+2024-04-28T12:33:04+00:00 server05 systemd[893]: error on connection
+192.168.1.40 - - [Aug 13 15:12:55] "GET /cart HTTP/1.1" 502 230097
+192.168.1.2 - - [Nov 11 03:27:40] "POST /js/app.js HTTP/1.1" 403 274945
+Jun 01 14:13:52 server01 postfix/smtpd[5636]: B80D1BD85D: client=192.168.1.48
+2026-12-22T17:22:19+00:00 server05 dhcpcd[9336]: started
+2026-09-18T05:09:06+00:00 server02 systemd[8921]: stopped
+Dec 15 13:29:17 server01 postfix/smtpd[2875]: AA258D6610: client=192.168.1.31
+2024-04-09T08:56:48+00:00 server04 dhcpcd[5473]: stopped
+2024-06-23T09:03:34+00:00 server04 systemd[5114]: stopped
+2025/12/14 06:28:34 [DEBUG] db: user session created
+2024-11-06T05:23:02+00:00 server01 NetworkManager[4714]: started
+192.168.1.6 - - [Jan 07 06:23:30] "GET /images/logo.png HTTP/1.1" 502 2566
+Aug 03 19:52:52 server01 postfix/smtpd[5458]: 4B1FD2D7A4: client=192.168.1.42
+Dec 05 12:47:49 server01 postfix/smtpd[3839]: 2D260605E7: client=192.168.1.3
+2026/01/10 15:31:59 [DEBUG] web: user session created
+192.168.1.44 - - [Jul 19 20:40:11] "DELETE /products HTTP/1.1" 502 381833
+CUSTOM-LOG: 2025-11-09T18:28:10+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2024-09-26T08:52:10+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+2024/12/08 17:37:43 [ERROR] web: rate limit exceeded for IP 192.168.1.21
+192.168.1.22 - - [Oct 20 15:52:21] "PUT /checkout HTTP/1.1" 302 189714
+192.168.1.36 - - [Dec 08 21:10:40] "POST /checkout HTTP/1.1" 403 48395
+2025/11/22 14:32:51 [ERROR] cache: query executed in 316ms
+2024/07/20 01:13:08 [DEBUG] worker: connection pool exhausted
+192.168.1.11 - - [May 07 16:52:10] "DELETE /css/style.css HTTP/1.1" 500 292797
+CUSTOM-LOG: 2025-03-05T19:19:50+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+CUSTOM-LOG: 2026-06-02T11:23:20+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+2026-08-09T00:48:55+00:00 server01 systemd[280]: started
+192.168.1.46 - - [Aug 15 11:18:29] "GET /login HTTP/1.1" 304 444635
+May 06 07:27:22 server01 postfix/smtpd[6250]: 5A7DF267B8: client=192.168.1.8
+2025-10-20T02:39:00+00:00 server01 systemd[6753]: failed to start
+2026-05-17T04:09:48+00:00 server03 kernel[4663]: failed to start
+192.168.1.19 - - [Oct 26 16:35:51] "POST /css/style.css HTTP/1.1" 503 491921
+192.168.1.35 - - [Nov 25 23:36:10] "POST /login HTTP/1.1" 304 26627
+192.168.1.8 - - [Feb 22 01:28:03] "POST /images/logo.png HTTP/1.1" 500 21103
+2024-06-27T23:05:01+00:00 server02 NetworkManager[2252]: stopped
+2024-03-14T13:24:23+00:00 server04 sshd[1658]: error on connection
+2025/08/28 11:47:14 [ERROR] web: authentication failed for user alice
+192.168.1.4 - - [Jan 22 15:35:54] "GET /images/logo.png HTTP/1.1" 503 52814
+2024/09/14 04:02:03 [ERROR] worker: connection pool exhausted
+2026/01/23 15:24:02 [INFO] api: user session created
+2026-06-18T01:20:35+00:00 server02 NetworkManager[1557]: configuration reloaded
+2026/06/24 08:58:05 [INFO] cache: query executed in 4496ms
+CUSTOM-LOG: 2025-03-08T04:43:48+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+192.168.1.14 - - [Jun 19 00:33:04] "GET /api/users HTTP/1.1" 301 402135
+CUSTOM-LOG: 2026-01-09T21:42:01+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+2026/04/14 18:26:48 [INFO] db: authentication failed for user admin
+2024-04-07T00:42:46+00:00 server02 systemd[6834]: started
+Mar 04 11:27:59 server01 postfix/smtpd[6123]: 77B69168FD: client=192.168.1.14
+2025-08-08T00:28:22+00:00 server03 kernel[7126]: started
+2025-07-08T01:15:41+00:00 server03 NetworkManager[7509]: failed to start
+Aug 11 08:51:59 server01 postfix/smtpd[4318]: E748CF423C: client=192.168.1.23
+2024-12-25T03:48:39+00:00 server02 dhcpcd[4830]: started
+2025/07/12 23:17:29 [ERROR] web: authentication failed for user bob
+2025-06-10T17:11:09+00:00 server03 dhcpcd[335]: failed to start
+Mar 07 04:17:36 server01 postfix/smtpd[3595]: 84E7E52B86: client=192.168.1.33
+Jan 12 16:04:13 server01 postfix/smtpd[5292]: 888092F1BD: client=192.168.1.18
+Feb 26 12:50:54 server01 postfix/smtpd[7508]: 6550943B59: client=192.168.1.46
+192.168.1.14 - - [Apr 04 12:01:28] "DELETE /images/logo.png HTTP/1.1" 401 317663
+192.168.1.23 - - [May 10 15:04:17] "PUT /index.html HTTP/1.1" 502 374766
+2026/04/09 05:32:26 [ERROR] cache: cache miss for key session:*
+2025-08-13T22:21:43+00:00 server04 dhcpcd[6942]: failed to start
+Nov 10 22:29:16 server01 postfix/smtpd[1086]: 72A04576A2: client=192.168.1.26
+2026-03-04T00:51:30+00:00 server01 systemd[748]: failed to start
+2026-05-02T08:01:57+00:00 server05 NetworkManager[3240]: error on connection
+2026-02-19T02:40:29+00:00 server01 dhcpcd[7689]: failed to start
+CUSTOM-LOG: 2026-03-24T20:12:34+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+2025/10/18 04:35:17 [INFO] worker: user session created
+2026/08/01 00:12:02 [WARN] web: query executed in 317ms
+192.168.1.33 - - [Aug 16 17:41:20] "DELETE /images/logo.png HTTP/1.1" 304 271790
+CUSTOM-LOG: 2026-03-27T17:07:47+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+192.168.1.50 - - [Sep 08 20:55:07] "PUT /index.html HTTP/1.1" 503 295184
+Sep 09 08:21:41 server01 postfix/smtpd[5167]: 88E7836072: client=192.168.1.3
+192.168.1.1 - - [Nov 04 00:41:41] "PUT /search HTTP/1.1" 502 128631
+2026-01-18T04:25:01+00:00 server02 sshd[7879]: stopped
+2025/03/11 19:20:56 [DEBUG] auth: cache miss for key session:*
+Jun 28 23:36:43 server01 postfix/smtpd[6425]: B5574EB9DE: client=192.168.1.23
+2024-11-25T05:48:26+00:00 server01 systemd[5199]: error on connection
+192.168.1.36 - - [Jun 14 22:09:24] "PUT /products HTTP/1.1" 200 477562
+Mar 11 15:23:32 server01 postfix/smtpd[9997]: 69A59C621A: client=192.168.1.49
+2024/05/24 23:41:18 [WARN] cache: cache miss for key user:*
+2026/05/13 01:33:51 [DEBUG] worker: query executed in 2080ms
+192.168.1.5 - - [May 17 14:40:43] "PUT /search HTTP/1.1" 400 199052
+May 05 01:53:12 server01 postfix/smtpd[7280]: F1F0A9194A: client=192.168.1.29
+2026-07-09T11:52:21+00:00 server01 NetworkManager[2281]: stopped
+2025-08-15T11:09:26+00:00 server05 dhcpcd[6917]: failed to start
+2024-07-19T20:00:32+00:00 server04 cron[1465]: error on connection
+2024/10/27 03:01:26 [WARN] db: query executed in 2833ms
+192.168.1.5 - - [Nov 09 18:24:02] "POST /login HTTP/1.1" 200 121111
+192.168.1.33 - - [Dec 08 02:32:20] "PUT /index.html HTTP/1.1" 404 443165
+192.168.1.37 - - [Oct 15 09:35:39] "DELETE /api/users HTTP/1.1" 502 221240
+2025-10-12T04:43:57+00:00 server01 dhcpcd[842]: stopped
+192.168.1.6 - - [Jul 14 10:58:32] "POST /js/app.js HTTP/1.1" 302 211863
+Mar 10 10:35:47 server01 postfix/smtpd[3586]: 7944A8E9EF: client=192.168.1.45
+192.168.1.5 - - [Feb 24 05:07:17] "PUT /api/users HTTP/1.1" 503 366536
+192.168.1.48 - - [Jul 01 22:34:20] "POST /css/style.css HTTP/1.1" 400 421078
+CUSTOM-LOG: 2024-06-11T03:51:51+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+2024-08-07T00:22:52+00:00 server03 systemd[5858]: error on connection
+2025-01-02T08:50:07+00:00 server01 dhcpcd[126]: error on connection
+2024-01-11T13:32:58+00:00 server05 kernel[4886]: error on connection
+CUSTOM-LOG: 2024-07-01T12:43:34+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.11 - - [Apr 25 17:55:53] "GET /css/style.css HTTP/1.1" 401 65867
+2024-07-06T20:04:46+00:00 server02 sshd[4712]: configuration reloaded
+Mar 22 17:20:48 server01 postfix/smtpd[3883]: 1C645E01E2: client=192.168.1.36
+2026-06-27T08:05:38+00:00 server04 dhcpcd[2845]: stopped
+2024/12/03 03:11:04 [WARN] worker: query executed in 1362ms
+192.168.1.42 - - [Jan 18 14:34:07] "GET /products HTTP/1.1" 401 364791
+2024-06-12T07:53:43+00:00 server02 systemd[6950]: started
+2026/03/27 11:10:54 [INFO] db: authentication failed for user bob
+2024/07/14 02:02:10 [DEBUG] scheduler: rate limit exceeded for IP 192.168.1.4
+192.168.1.16 - - [Jan 21 09:10:17] "GET /cart HTTP/1.1" 401 113301
+192.168.1.39 - - [Mar 16 06:38:45] "DELETE /js/app.js HTTP/1.1" 401 37279
+2024-11-18T08:30:17+00:00 server01 systemd[8311]: configuration reloaded
+2024-02-14T00:29:27+00:00 server03 kernel[8355]: configuration reloaded
+2026/08/27 10:16:51 [INFO] auth: query executed in 3654ms
+192.168.1.31 - - [Sep 28 02:53:40] "DELETE /cart HTTP/1.1" 200 242920
+192.168.1.23 - - [Sep 24 17:39:38] "PUT /login HTTP/1.1" 404 198275
+192.168.1.35 - - [Sep 19 07:11:36] "PUT /search HTTP/1.1" 400 101790
+Jan 06 22:36:01 server01 postfix/smtpd[4741]: 7864A7CBBA: client=192.168.1.19
+192.168.1.40 - - [Sep 16 00:52:04] "PUT /login HTTP/1.1" 502 58864
+2025-06-16T01:38:48+00:00 server04 NetworkManager[1638]: failed to start
+2026/09/02 18:42:58 [DEBUG] worker: user session created
+CUSTOM-LOG: 2024-09-20T16:48:02+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+192.168.1.47 - - [Nov 06 23:43:04] "POST /api/users HTTP/1.1" 403 457851
+2025-12-07T13:01:28+00:00 server02 sshd[1824]: stopped
+2024-06-02T17:56:11+00:00 server01 cron[7529]: stopped
+2024/10/07 11:31:21 [DEBUG] api: rate limit exceeded for IP 192.168.1.33
+CUSTOM-LOG: 2025-11-17T08:05:53+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+192.168.1.37 - - [Oct 26 13:16:35] "PUT /search HTTP/1.1" 304 159793
+2024/09/02 08:59:42 [INFO] cache: rate limit exceeded for IP 192.168.1.24
+CUSTOM-LOG: 2025-12-06T03:46:12+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.22 - - [Aug 23 06:59:15] "GET /index.html HTTP/1.1" 301 359473
+CUSTOM-LOG: 2025-07-04T18:02:27+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025-06-14T20:11:48+00:00 server02 dhcpcd[1540]: failed to start
+Sep 17 13:36:17 server01 postfix/smtpd[6207]: 59380CFEC9: client=192.168.1.46
+Sep 03 12:50:49 server01 postfix/smtpd[5876]: A46EEA8DB1: client=192.168.1.3
+Sep 10 04:57:10 server01 postfix/smtpd[2706]: FBA1061FEC: client=192.168.1.23
+2024/04/24 04:13:40 [ERROR] api: query executed in 4743ms
+192.168.1.3 - - [Feb 18 11:45:16] "DELETE /products HTTP/1.1" 502 142663
+2024/03/03 10:44:33 [DEBUG] db: rate limit exceeded for IP 192.168.1.29
+192.168.1.13 - - [Feb 15 08:54:43] "GET /images/logo.png HTTP/1.1" 302 8112
+2025-10-13T02:23:29+00:00 server04 dhcpcd[635]: configuration reloaded
+192.168.1.4 - - [Dec 14 14:11:07] "DELETE /js/app.js HTTP/1.1" 500 394812
+192.168.1.9 - - [Apr 06 23:24:33] "DELETE /products HTTP/1.1" 301 299995
+2025-01-23T07:10:04+00:00 server03 kernel[9944]: started
+192.168.1.39 - - [Dec 06 08:15:28] "GET /cart HTTP/1.1" 400 168303
+2025-01-12T07:43:36+00:00 server04 cron[5958]: stopped
+192.168.1.17 - - [Nov 05 20:37:01] "GET /css/style.css HTTP/1.1" 500 111684
+2025-03-25T19:44:10+00:00 server02 dhcpcd[276]: failed to start
+2024/12/20 11:59:53 [DEBUG] web: connection pool exhausted
+Jul 18 01:09:43 server01 postfix/smtpd[9183]: A9863DA20C: client=192.168.1.41
+2026/11/12 17:20:27 [WARN] worker: connection pool exhausted
+2024-03-07T05:32:11+00:00 server05 systemd[7011]: stopped
+Jun 27 02:14:20 server01 postfix/smtpd[1839]: FC57BF5AF4: client=192.168.1.11
+2026-02-20T17:43:52+00:00 server03 NetworkManager[2455]: failed to start
+Oct 25 07:40:55 server01 postfix/smtpd[8857]: 8D93E3A341: client=192.168.1.50
+2025/05/07 12:20:39 [WARN] api: user session created
+2024-09-23T07:46:10+00:00 server02 systemd[8108]: started
+2024/04/07 01:53:24 [ERROR] cache: connection pool exhausted
+CUSTOM-LOG: 2024-11-09T10:01:20+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+192.168.1.15 - - [May 18 12:12:32] "DELETE /products HTTP/1.1" 200 343452
+Sep 02 18:57:49 server01 postfix/smtpd[8405]: 54A6F222AF: client=192.168.1.36
+2025-12-04T19:52:32+00:00 server01 systemd[3176]: stopped
+2026/03/01 21:11:06 [INFO] worker: authentication failed for user alice
+2026-10-05T15:19:02+00:00 server02 cron[8774]: stopped
+2026/05/26 18:00:53 [WARN] web: cache miss for key user:*
+192.168.1.32 - - [Aug 08 07:54:05] "PUT /products HTTP/1.1" 404 327598
+2024/11/11 14:56:40 [DEBUG] scheduler: user session created
+192.168.1.16 - - [Jan 19 08:58:10] "DELETE /cart HTTP/1.1" 401 418085
+2026/05/01 03:43:47 [WARN] web: cache miss for key product:*
+CUSTOM-LOG: 2025-01-11T07:41:15+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.42 - - [Feb 16 12:14:17] "POST /checkout HTTP/1.1" 301 24797
+192.168.1.29 - - [Apr 10 14:02:38] "GET /checkout HTTP/1.1" 403 265935
+2025-08-11T20:09:08+00:00 server02 kernel[4465]: failed to start
+Mar 16 10:47:16 server01 postfix/smtpd[9471]: B91C3976C4: client=192.168.1.3
+2025/02/17 15:34:42 [ERROR] scheduler: request timed out
+2026/04/01 23:31:01 [WARN] worker: request timed out
+Mar 17 20:36:56 server01 postfix/smtpd[1370]: 55C00D4163: client=192.168.1.5
+2026-12-10T05:05:29+00:00 server03 kernel[9137]: started
+2024/04/27 06:50:21 [WARN] api: authentication failed for user alice
+2026/04/24 04:31:15 [WARN] auth: user session created
+192.168.1.30 - - [Jul 05 08:10:41] "GET /js/app.js HTTP/1.1" 502 489882
+2025/02/24 09:41:14 [INFO] worker: cache miss for key session:*
+2024-07-13T03:55:23+00:00 server01 kernel[1078]: stopped
+192.168.1.32 - - [Jun 11 08:25:49] "POST /login HTTP/1.1" 403 394455
+2025-11-02T07:59:13+00:00 server02 systemd[7787]: error on connection
+Jun 06 06:51:38 server01 postfix/smtpd[7585]: 8C6658C1B1: client=192.168.1.43
+2024-07-13T22:47:12+00:00 server03 cron[351]: error on connection
+192.168.1.43 - - [Sep 26 04:08:24] "DELETE /login HTTP/1.1" 500 173042
+2024/01/28 14:17:30 [INFO] scheduler: authentication failed for user bob
+CUSTOM-LOG: 2024-05-25T10:53:32+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2026/05/05 05:19:22 [INFO] auth: query executed in 399ms
+CUSTOM-LOG: 2024-08-13T16:29:36+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+2026/07/07 16:33:26 [INFO] worker: authentication failed for user admin
+2025/10/08 10:05:45 [INFO] worker: authentication failed for user admin
+Aug 15 17:29:56 server01 postfix/smtpd[7192]: BE6E6F8462: client=192.168.1.37
+2025-04-12T08:35:32+00:00 server02 NetworkManager[9955]: failed to start
+192.168.1.42 - - [Dec 14 01:46:17] "DELETE /login HTTP/1.1" 404 205592
+2025-08-13T11:21:58+00:00 server04 sshd[7293]: stopped
+CUSTOM-LOG: 2024-03-06T04:10:56+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2025-05-05T01:14:26+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+2026-09-13T00:42:54+00:00 server02 kernel[2447]: configuration reloaded
+192.168.1.34 - - [Apr 03 10:48:19] "POST /checkout HTTP/1.1" 302 279404
+192.168.1.7 - - [Oct 08 14:13:44] "PUT /products HTTP/1.1" 200 372463
+192.168.1.22 - - [Nov 02 21:06:28] "GET /js/app.js HTTP/1.1" 500 151465
+2026/05/12 03:26:40 [WARN] api: authentication failed for user admin
+2024/09/01 04:32:14 [WARN] web: authentication failed for user alice
+Oct 22 12:12:52 server01 postfix/smtpd[6220]: 0F3BE65271: client=192.168.1.48
+2024-05-10T12:19:17+00:00 server04 NetworkManager[3858]: failed to start
+192.168.1.22 - - [Jan 08 04:39:28] "POST /css/style.css HTTP/1.1" 200 470974
+2025/08/16 16:04:17 [INFO] worker: user session created
+Jun 05 20:14:40 server01 postfix/smtpd[8606]: 538F7722A7: client=192.168.1.22
+192.168.1.42 - - [Nov 05 19:53:26] "GET /checkout HTTP/1.1" 200 41909
+192.168.1.5 - - [Jun 06 04:25:55] "PUT /js/app.js HTTP/1.1" 302 326165
+2024/02/16 03:04:51 [DEBUG] web: connection pool exhausted
+May 07 00:15:53 server01 postfix/smtpd[8484]: 53BC1ECB04: client=192.168.1.20
+192.168.1.40 - - [Jun 24 06:19:01] "GET /products HTTP/1.1" 400 354088
+192.168.1.1 - - [May 10 19:29:35] "DELETE /api/users HTTP/1.1" 401 465355
+CUSTOM-LOG: 2024-03-25T14:26:35+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+CUSTOM-LOG: 2024-10-10T11:31:42+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2024-08-07T23:03:29+00:00 server05 NetworkManager[9105]: started
+192.168.1.34 - - [Oct 23 00:06:25] "DELETE /api/users HTTP/1.1" 400 128865
+CUSTOM-LOG: 2025-04-24T01:43:35+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2026-03-26T21:23:53+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2024-11-04T01:37:53+00:00 server05 systemd[5764]: stopped
+2025-10-25T17:39:41+00:00 server05 dhcpcd[6986]: failed to start
+192.168.1.22 - - [Oct 14 08:50:45] "GET /products HTTP/1.1" 502 434431
+192.168.1.50 - - [Nov 21 08:22:30] "POST /js/app.js HTTP/1.1" 502 197993
+Jun 19 09:21:38 server01 postfix/smtpd[6285]: 411AD0D2A3: client=192.168.1.14
+192.168.1.40 - - [Oct 14 14:13:49] "DELETE /search HTTP/1.1" 401 112232
+192.168.1.14 - - [Nov 03 17:01:08] "GET /cart HTTP/1.1" 301 135318
+May 06 01:41:58 server01 postfix/smtpd[2924]: A603CC1B01: client=192.168.1.31
+2024/09/11 11:44:03 [INFO] db: authentication failed for user alice
+2026-09-18T08:08:25+00:00 server03 systemd[6264]: configuration reloaded
+Dec 05 13:51:05 server01 postfix/smtpd[8322]: C7BB400400: client=192.168.1.23
+CUSTOM-LOG: 2025-05-04T05:41:56+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+192.168.1.20 - - [May 28 20:33:14] "PUT /api/users HTTP/1.1" 401 316176
+192.168.1.19 - - [Apr 19 17:45:33] "GET /checkout HTTP/1.1" 400 355911
+2026-01-19T09:48:32+00:00 server05 cron[3412]: configuration reloaded
+192.168.1.35 - - [Dec 05 22:16:50] "PUT /cart HTTP/1.1" 500 270241
+192.168.1.38 - - [Jun 13 23:35:59] "DELETE /api/users HTTP/1.1" 500 92363
+Feb 08 22:57:31 server01 postfix/smtpd[6418]: C8E5811F03: client=192.168.1.32
+2025-09-08T11:13:29+00:00 server03 kernel[1907]: stopped
+2024-12-10T07:08:26+00:00 server02 systemd[818]: stopped
+2025/07/21 05:41:47 [ERROR] auth: user session created
+Mar 06 00:56:38 server01 postfix/smtpd[8656]: DA1563077A: client=192.168.1.35
+2026-10-27T00:59:15+00:00 server03 NetworkManager[2420]: started
+2024/11/24 01:50:54 [ERROR] db: user session created
+192.168.1.1 - - [May 25 22:55:27] "DELETE /login HTTP/1.1" 403 453997
+Jul 09 16:50:24 server01 postfix/smtpd[8060]: D2642BA1C8: client=192.168.1.42
+CUSTOM-LOG: 2026-05-04T01:47:21+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-10-08T02:20:45+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+CUSTOM-LOG: 2026-09-22T03:57:06+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2026-07-28T23:14:42+00:00 server01 systemd[9563]: configuration reloaded
+2026-03-22T17:06:37+00:00 server05 systemd[1336]: error on connection
+Feb 22 12:46:41 server01 postfix/smtpd[6112]: BE9271D456: client=192.168.1.36
+CUSTOM-LOG: 2025-09-12T21:46:31+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+Jul 27 23:11:15 server01 postfix/smtpd[9512]: 98AFD8869A: client=192.168.1.22
+2024-05-16T21:10:01+00:00 server03 systemd[5015]: started
+192.168.1.5 - - [Dec 17 02:19:00] "PUT /images/logo.png HTTP/1.1" 302 93070
+2026/02/04 04:01:41 [WARN] worker: query executed in 4352ms
+2025/06/02 06:47:07 [WARN] auth: rate limit exceeded for IP 192.168.1.17
+192.168.1.4 - - [Dec 09 06:58:13] "PUT /cart HTTP/1.1" 301 437396
+192.168.1.37 - - [Oct 02 18:10:17] "GET /js/app.js HTTP/1.1" 301 383839
+2026-03-20T19:08:40+00:00 server05 sshd[8557]: started
+2026-07-28T17:41:47+00:00 server02 kernel[7677]: started
+2026-12-21T12:29:29+00:00 server01 cron[6792]: failed to start
+2025/12/28 11:31:05 [ERROR] web: user session created
+2025-06-07T12:02:14+00:00 server01 cron[5828]: stopped
+2024-06-04T17:31:44+00:00 server04 dhcpcd[3001]: configuration reloaded
+Jul 06 21:52:47 server01 postfix/smtpd[3878]: CB910BCFAB: client=192.168.1.11
+2024-05-18T01:03:53+00:00 server02 cron[9417]: configuration reloaded
+192.168.1.27 - - [Jun 12 13:17:47] "POST /products HTTP/1.1" 503 2682
+2024-05-05T00:18:07+00:00 server05 NetworkManager[785]: configuration reloaded
+Jun 18 23:53:18 server01 postfix/smtpd[2845]: 4235986BF6: client=192.168.1.49
+192.168.1.6 - - [Oct 01 12:28:19] "DELETE /images/logo.png HTTP/1.1" 403 246409
+2024-07-03T18:55:42+00:00 server01 systemd[4005]: started
+192.168.1.30 - - [Dec 02 18:55:54] "POST /cart HTTP/1.1" 200 153549
+192.168.1.49 - - [Jun 01 03:17:39] "GET /products HTTP/1.1" 304 124934
+192.168.1.9 - - [Apr 15 04:43:40] "PUT /products HTTP/1.1" 200 164542
+2026/07/05 01:57:55 [DEBUG] worker: connection pool exhausted
+2024/08/17 15:46:18 [WARN] api: user session created
+2024/02/16 17:49:25 [WARN] scheduler: rate limit exceeded for IP 192.168.1.24
+CUSTOM-LOG: 2024-05-05T00:17:06+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+192.168.1.20 - - [Apr 05 14:29:48] "GET /css/style.css HTTP/1.1" 403 359568
+2026/07/20 01:06:18 [ERROR] scheduler: connection pool exhausted
+192.168.1.50 - - [Nov 23 07:31:46] "PUT /products HTTP/1.1" 403 101018
+Mar 05 08:42:35 server01 postfix/smtpd[6487]: 16E2EE257F: client=192.168.1.10
+2024/10/01 19:34:37 [ERROR] scheduler: cache miss for key session:*
+2024/09/23 15:17:16 [DEBUG] db: rate limit exceeded for IP 192.168.1.11
+2025/06/19 09:51:01 [INFO] auth: authentication failed for user alice
+CUSTOM-LOG: 2026-06-24T20:15:27+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2025/10/24 02:53:15 [INFO] scheduler: connection pool exhausted
+192.168.1.7 - - [Mar 10 13:20:30] "POST /api/users HTTP/1.1" 400 92756
+2024/01/22 00:03:27 [ERROR] db: request timed out
+2025/08/11 12:19:14 [WARN] api: request timed out
+CUSTOM-LOG: 2026-08-10T11:20:50+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+192.168.1.13 - - [Aug 06 17:52:45] "POST /api/users HTTP/1.1" 304 131182
+CUSTOM-LOG: 2026-01-05T00:07:50+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+2024/08/16 06:16:26 [ERROR] worker: query executed in 4722ms
+192.168.1.46 - - [Jul 06 15:58:27] "POST /cart HTTP/1.1" 403 332439
+2024/08/14 17:52:02 [INFO] api: query executed in 3391ms
+2024/09/25 04:55:44 [INFO] db: user session created
+2025/05/08 03:14:41 [INFO] web: connection pool exhausted
+2024-08-06T11:02:35+00:00 server03 systemd[1311]: failed to start
+CUSTOM-LOG: 2026-04-24T23:32:33+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+2025/03/07 18:46:28 [INFO] db: authentication failed for user admin
+2025-12-05T14:16:43+00:00 server02 sshd[5516]: error on connection
+2025/11/15 10:13:22 [WARN] worker: user session created
+CUSTOM-LOG: 2024-12-03T04:47:58+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+2024/07/21 11:49:28 [INFO] worker: request timed out
+CUSTOM-LOG: 2025-04-02T08:50:49+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025/08/18 13:56:08 [ERROR] api: authentication failed for user admin
+192.168.1.13 - - [Mar 07 17:08:30] "PUT /search HTTP/1.1" 302 141328
+2026/08/06 22:22:21 [ERROR] db: request timed out
+2024/12/09 02:07:00 [ERROR] auth: request timed out
+Aug 10 06:03:44 server01 postfix/smtpd[8268]: 5398CC43D2: client=192.168.1.1
+CUSTOM-LOG: 2025-06-18T00:32:02+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2024/04/14 10:37:25 [ERROR] scheduler: connection pool exhausted
+2024-11-23T10:40:54+00:00 server04 sshd[306]: stopped
+2024/04/03 07:16:26 [DEBUG] db: cache miss for key product:*
+2026-01-06T09:55:33+00:00 server04 kernel[7083]: failed to start
+2024/04/25 17:21:04 [ERROR] web: rate limit exceeded for IP 192.168.1.38
+2026/05/11 16:29:59 [DEBUG] cache: authentication failed for user bob
+2026/05/07 21:31:53 [ERROR] web: authentication failed for user admin
+Sep 07 20:36:45 server01 postfix/smtpd[8930]: 65B747FEA8: client=192.168.1.18
+Feb 28 00:33:20 server01 postfix/smtpd[9445]: 8B8DB01AEC: client=192.168.1.21
+Aug 03 17:07:10 server01 postfix/smtpd[3224]: 411D2A4C42: client=192.168.1.38
+2024-06-07T22:18:05+00:00 server02 systemd[8567]: failed to start
+2026-05-12T04:53:08+00:00 server03 cron[313]: error on connection
+192.168.1.23 - - [Apr 24 12:46:02] "PUT /api/users HTTP/1.1" 502 33895
+May 01 08:03:49 server01 postfix/smtpd[7121]: A86A49872F: client=192.168.1.9
+Mar 13 22:23:52 server01 postfix/smtpd[8437]: 3C152AD41E: client=192.168.1.13
+CUSTOM-LOG: 2026-10-20T00:12:19+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+2025-10-03T01:45:39+00:00 server01 NetworkManager[4200]: stopped
+2025-10-03T23:13:01+00:00 server02 cron[9646]: stopped
+2026-05-05T22:01:09+00:00 server03 systemd[3620]: error on connection
+CUSTOM-LOG: 2025-06-17T14:58:56+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.36 - - [Oct 24 14:40:02] "DELETE /search HTTP/1.1" 404 286204
+2024-03-06T20:00:51+00:00 server02 kernel[4199]: stopped
+2024-10-01T08:31:26+00:00 server01 cron[2177]: started
+2025/11/19 03:55:34 [WARN] web: request timed out
+2024/09/03 14:17:38 [DEBUG] worker: rate limit exceeded for IP 192.168.1.33
+2025-07-03T21:40:54+00:00 server02 kernel[430]: configuration reloaded
+2026-09-11T10:14:04+00:00 server01 kernel[9311]: stopped
+CUSTOM-LOG: 2026-03-10T18:52:03+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2026/01/05 04:33:40 [DEBUG] api: query executed in 2791ms
+2025-12-04T18:01:26+00:00 server02 sshd[5827]: stopped
+2025/08/04 07:19:10 [INFO] api: cache miss for key session:*
+2025-12-26T22:14:22+00:00 server03 systemd[7031]: configuration reloaded
+192.168.1.19 - - [Aug 20 14:14:51] "POST /login HTTP/1.1" 503 78292
+2024-12-23T18:57:21+00:00 server01 cron[8979]: configuration reloaded
+192.168.1.43 - - [Dec 06 12:26:09] "PUT /css/style.css HTTP/1.1" 503 468612
+192.168.1.19 - - [Sep 06 20:28:11] "PUT /api/users HTTP/1.1" 502 492264
+Aug 28 03:42:39 server01 postfix/smtpd[5152]: 5E02B9B042: client=192.168.1.9
+2024/08/24 20:13:36 [INFO] scheduler: cache miss for key session:*
+CUSTOM-LOG: 2024-06-13T07:06:54+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2025-10-12T12:13:56+00:00 server04 kernel[8339]: failed to start
+2024-12-05T05:58:30+00:00 server03 NetworkManager[8427]: failed to start
+Oct 14 03:55:06 server01 postfix/smtpd[7008]: 0FA7143E79: client=192.168.1.38
+2025/08/11 22:55:07 [ERROR] db: request timed out
+2026/01/18 04:42:31 [DEBUG] api: authentication failed for user bob
+CUSTOM-LOG: 2025-08-05T08:18:32+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+CUSTOM-LOG: 2025-04-20T14:39:34+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+192.168.1.37 - - [Mar 17 03:59:19] "GET /js/app.js HTTP/1.1" 503 434503
+2025-11-28T00:55:56+00:00 server03 kernel[4428]: failed to start
+2024/04/04 09:29:27 [WARN] worker: rate limit exceeded for IP 192.168.1.19
+2026-06-06T23:34:44+00:00 server05 systemd[2717]: error on connection
+2025-11-03T05:14:00+00:00 server03 systemd[3601]: error on connection
+2026-09-06T22:57:20+00:00 server04 kernel[6843]: configuration reloaded
+2026/11/06 13:21:57 [ERROR] web: rate limit exceeded for IP 192.168.1.7
+CUSTOM-LOG: 2026-03-06T12:54:22+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+192.168.1.42 - - [Apr 13 07:19:28] "GET /images/logo.png HTTP/1.1" 500 321691
+192.168.1.38 - - [Aug 16 02:53:53] "POST /checkout HTTP/1.1" 302 344306
+2025/05/10 16:07:17 [WARN] web: connection pool exhausted
+2025-07-07T13:30:44+00:00 server03 NetworkManager[6762]: started
+2026-04-14T13:08:07+00:00 server03 cron[3086]: failed to start
+192.168.1.31 - - [Feb 06 23:13:53] "DELETE /js/app.js HTTP/1.1" 503 486171
+CUSTOM-LOG: 2026-05-19T22:31:05+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.44 - - [Dec 08 12:08:48] "POST /index.html HTTP/1.1" 302 53150
+192.168.1.6 - - [Apr 04 02:56:43] "GET /login HTTP/1.1" 502 419303
+192.168.1.19 - - [Sep 25 13:18:38] "POST /js/app.js HTTP/1.1" 400 142163
+2025/07/22 07:25:03 [INFO] api: cache miss for key user:*
+192.168.1.11 - - [Jul 13 03:12:11] "DELETE /checkout HTTP/1.1" 401 372757
+Apr 06 11:27:01 server01 postfix/smtpd[7620]: 592EC11389: client=192.168.1.15
+2026/07/28 20:43:55 [INFO] api: connection pool exhausted
+192.168.1.3 - - [Feb 04 00:45:00] "GET /index.html HTTP/1.1" 302 361994
+2026-03-18T08:41:47+00:00 server04 dhcpcd[4533]: failed to start
+2024/01/08 14:43:56 [ERROR] auth: cache miss for key user:*
+2026-02-08T10:45:37+00:00 server01 cron[6171]: configuration reloaded
+2026-01-16T13:38:44+00:00 server01 dhcpcd[5577]: stopped
+2026/10/13 08:15:16 [DEBUG] api: query executed in 3602ms
+2025/04/08 07:11:07 [ERROR] web: query executed in 4704ms
+CUSTOM-LOG: 2026-05-27T17:46:03+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+192.168.1.22 - - [Jul 26 15:22:29] "PUT /login HTTP/1.1" 304 386881
+CUSTOM-LOG: 2024-10-21T12:21:05+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2026-12-26T02:19:52+00:00 server03 systemd[7341]: error on connection
+CUSTOM-LOG: 2026-11-26T23:14:16+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+Jun 24 08:22:07 server01 postfix/smtpd[5556]: 75A1AD9BED: client=192.168.1.19
+192.168.1.35 - - [Jan 12 22:46:19] "DELETE /search HTTP/1.1" 401 418419
+192.168.1.47 - - [Feb 28 21:36:25] "POST /login HTTP/1.1" 200 319069
+CUSTOM-LOG: 2026-11-18T16:55:43+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+2024/08/15 12:13:45 [WARN] auth: request timed out
+2025/11/09 12:46:22 [INFO] web: query executed in 4445ms
+2024-08-26T08:55:40+00:00 server05 sshd[2021]: stopped
+2025/05/01 18:43:30 [WARN] auth: query executed in 4097ms
+2024/04/15 13:00:12 [ERROR] api: authentication failed for user bob
+2026/01/02 09:21:20 [ERROR] db: user session created
+2025/07/27 14:16:40 [ERROR] api: connection pool exhausted
+2024-10-22T11:04:30+00:00 server05 dhcpcd[7082]: configuration reloaded
+2026/10/18 13:12:05 [WARN] api: authentication failed for user alice
+2025-09-06T17:18:10+00:00 server02 sshd[7994]: failed to start
+2026-07-22T15:51:59+00:00 server02 cron[197]: started
+2024/12/09 16:24:38 [WARN] worker: rate limit exceeded for IP 192.168.1.36
+2025-04-06T09:07:54+00:00 server05 cron[8892]: started
+192.168.1.2 - - [Jul 27 17:15:29] "POST /search HTTP/1.1" 404 476134
+2025/09/14 19:12:48 [DEBUG] auth: query executed in 3252ms
+2024/10/26 23:04:40 [WARN] auth: user session created
+2026-06-16T05:48:07+00:00 server02 systemd[9042]: error on connection
+2026/07/25 10:53:12 [DEBUG] api: query executed in 3393ms
+2024/12/26 12:25:49 [ERROR] scheduler: user session created
+192.168.1.41 - - [Dec 21 04:21:43] "DELETE /products HTTP/1.1" 400 5879
+2024-02-06T21:10:03+00:00 server05 NetworkManager[5867]: error on connection
+192.168.1.21 - - [Nov 07 14:27:26] "DELETE /products HTTP/1.1" 403 348119
+2024/07/12 16:52:43 [INFO] cache: user session created
+192.168.1.19 - - [Apr 11 04:10:42] "GET /login HTTP/1.1" 503 234762
+Nov 24 00:35:00 server01 postfix/smtpd[8946]: E47F20EB35: client=192.168.1.7
+192.168.1.35 - - [Nov 17 18:53:13] "GET /index.html HTTP/1.1" 503 226294
+2024-08-03T23:17:34+00:00 server04 cron[1009]: error on connection
+May 27 11:28:52 server01 postfix/smtpd[6066]: 1E47DE44E6: client=192.168.1.50
+192.168.1.44 - - [Jan 27 10:35:32] "PUT /css/style.css HTTP/1.1" 200 312915
+192.168.1.36 - - [Nov 24 10:30:34] "GET /cart HTTP/1.1" 400 218665
+192.168.1.38 - - [May 05 15:06:14] "GET /css/style.css HTTP/1.1" 301 450929
+2026-12-26T20:42:10+00:00 server01 cron[1878]: failed to start
+2024/11/25 02:31:56 [WARN] db: user session created
+192.168.1.5 - - [Jul 24 13:46:24] "PUT /index.html HTTP/1.1" 503 51905
+2025-12-20T09:01:40+00:00 server04 sshd[854]: failed to start
+2024/07/06 11:17:25 [DEBUG] cache: connection pool exhausted
+2026/12/03 22:00:00 [ERROR] api: query executed in 4469ms
+2026-07-21T01:42:56+00:00 server01 cron[5290]: configuration reloaded
+2026-11-25T15:49:46+00:00 server04 kernel[4718]: error on connection
+2026-08-13T02:32:45+00:00 server01 cron[3046]: stopped
+2024/04/15 21:41:34 [DEBUG] api: rate limit exceeded for IP 192.168.1.47
+CUSTOM-LOG: 2026-02-11T04:46:15+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+192.168.1.19 - - [Feb 07 02:06:42] "DELETE /images/logo.png HTTP/1.1" 403 300020
+Jul 10 06:27:17 server01 postfix/smtpd[8809]: 38B0E1EF41: client=192.168.1.16
+2026-04-27T02:24:33+00:00 server01 dhcpcd[3571]: started
+Jan 07 23:00:23 server01 postfix/smtpd[2747]: 890FFA8C4B: client=192.168.1.10
+192.168.1.40 - - [Jul 26 03:06:15] "PUT /products HTTP/1.1" 302 227769
+2024/04/04 01:52:49 [DEBUG] cache: cache miss for key user:*
+2025/07/19 01:32:16 [WARN] db: request timed out
+192.168.1.20 - - [Aug 11 18:52:50] "GET /checkout HTTP/1.1" 400 240506
+2024-09-18T22:26:49+00:00 server03 NetworkManager[2284]: stopped
+2025-03-18T23:05:06+00:00 server04 cron[7721]: stopped
+192.168.1.3 - - [Oct 23 19:24:01] "GET /images/logo.png HTTP/1.1" 400 276167
+2026/04/07 04:07:38 [INFO] scheduler: authentication failed for user alice
+CUSTOM-LOG: 2024-10-03T21:02:13+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+192.168.1.20 - - [Oct 12 05:05:30] "POST /images/logo.png HTTP/1.1" 400 428987
+CUSTOM-LOG: 2025-09-28T21:35:22+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.8 - - [Dec 03 00:53:17] "PUT /images/logo.png HTTP/1.1" 503 454269
+2024/01/19 13:04:01 [INFO] auth: cache miss for key user:*
+Sep 07 16:42:04 server01 postfix/smtpd[9353]: AAF7FBED1C: client=192.168.1.17
+192.168.1.18 - - [Sep 07 17:09:13] "POST /login HTTP/1.1" 500 59142
+192.168.1.20 - - [Apr 26 15:05:41] "DELETE /checkout HTTP/1.1" 301 182725
+Jan 08 02:48:17 server01 postfix/smtpd[3670]: 59821C232A: client=192.168.1.30
+192.168.1.46 - - [Feb 12 01:54:45] "DELETE /cart HTTP/1.1" 200 184223
+2024-02-02T03:48:51+00:00 server03 systemd[294]: error on connection
+2026/08/02 20:53:46 [DEBUG] cache: query executed in 1776ms
+May 04 01:54:36 server01 postfix/smtpd[3670]: 0912F85459: client=192.168.1.35
+Feb 23 03:59:26 server01 postfix/smtpd[2415]: 27067DBEF1: client=192.168.1.29
+2026/11/15 11:14:38 [INFO] db: request timed out
+2026-12-07T15:25:06+00:00 server02 systemd[5070]: configuration reloaded
+2025/07/07 22:42:54 [INFO] cache: rate limit exceeded for IP 192.168.1.21
+192.168.1.31 - - [Dec 14 18:14:56] "GET /index.html HTTP/1.1" 500 458899
+2024-02-03T10:22:53+00:00 server05 sshd[8041]: configuration reloaded
+CUSTOM-LOG: 2026-05-10T08:04:39+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+2026/09/25 16:24:03 [DEBUG] db: rate limit exceeded for IP 192.168.1.6
+2024-06-21T17:25:58+00:00 server05 sshd[4840]: configuration reloaded
+CUSTOM-LOG: 2024-08-24T08:52:36+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2024-09-16T12:22:00+00:00 server04 systemd[4254]: configuration reloaded
+2024-04-18T01:04:21+00:00 server02 cron[147]: failed to start
+2026-12-23T22:29:31+00:00 server05 NetworkManager[8577]: error on connection
+2024-02-06T22:04:56+00:00 server05 sshd[5150]: error on connection
+192.168.1.41 - - [Aug 27 01:32:08] "POST /css/style.css HTTP/1.1" 502 353797
+CUSTOM-LOG: 2025-04-20T13:49:38+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2024/11/08 22:00:44 [ERROR] db: authentication failed for user alice
+Sep 21 05:26:08 server01 postfix/smtpd[7652]: DA6E8D5DD4: client=192.168.1.42
+192.168.1.30 - - [Dec 21 04:24:42] "GET /checkout HTTP/1.1" 302 215465
+192.168.1.22 - - [Apr 26 21:08:24] "POST /cart HTTP/1.1" 503 498374
+192.168.1.40 - - [Sep 01 20:19:14] "GET /api/users HTTP/1.1" 200 466248
+CUSTOM-LOG: 2024-10-07T16:06:44+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.27 - - [Aug 28 01:00:03] "DELETE /index.html HTTP/1.1" 503 459334
+2026-11-08T18:42:46+00:00 server03 dhcpcd[1864]: failed to start
+192.168.1.2 - - [Aug 26 12:10:48] "GET /cart HTTP/1.1" 301 69583
+CUSTOM-LOG: 2024-11-28T07:28:16+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2024/09/18 09:46:25 [DEBUG] web: cache miss for key session:*
+2026-10-01T17:08:02+00:00 server03 NetworkManager[5588]: failed to start
+192.168.1.39 - - [Dec 26 00:48:51] "PUT /login HTTP/1.1" 200 137963
+CUSTOM-LOG: 2025-01-20T11:39:02+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+2026-01-20T18:54:22+00:00 server01 NetworkManager[2710]: error on connection
+Mar 07 12:45:58 server01 postfix/smtpd[5596]: C7003DF80C: client=192.168.1.46
+CUSTOM-LOG: 2026-06-12T03:10:59+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+192.168.1.19 - - [Feb 12 03:09:30] "GET /login HTTP/1.1" 200 164205
+2026-07-03T05:15:12+00:00 server05 kernel[9988]: configuration reloaded
+2024-06-20T15:04:08+00:00 server04 sshd[6924]: failed to start
+192.168.1.20 - - [Jul 14 02:34:03] "POST /login HTTP/1.1" 401 318988
+May 08 12:02:25 server01 postfix/smtpd[4042]: E06A0B66C6: client=192.168.1.19
+192.168.1.47 - - [Jun 24 02:05:47] "GET /index.html HTTP/1.1" 500 444915
+192.168.1.16 - - [Dec 03 22:25:55] "POST /products HTTP/1.1" 400 418450
+2025-05-08T21:34:27+00:00 server05 NetworkManager[6294]: stopped
+2025-06-06T21:16:34+00:00 server03 dhcpcd[1456]: configuration reloaded
+CUSTOM-LOG: 2026-02-19T15:09:46+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+2025/06/08 19:03:44 [INFO] api: connection pool exhausted
+2025-03-04T15:31:16+00:00 server04 systemd[7461]: failed to start
+2026/04/05 00:37:53 [INFO] api: rate limit exceeded for IP 192.168.1.35
+2024/01/17 21:10:57 [DEBUG] scheduler: query executed in 2659ms
+2025-12-11T23:07:08+00:00 server01 NetworkManager[2690]: started
+CUSTOM-LOG: 2026-03-07T04:44:05+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+192.168.1.19 - - [Jun 19 12:49:10] "POST /css/style.css HTTP/1.1" 200 25590
+192.168.1.28 - - [Jul 24 01:36:12] "POST /css/style.css HTTP/1.1" 401 105840
+May 16 19:14:38 server01 postfix/smtpd[9232]: CF99F9A74B: client=192.168.1.46
+2025-01-28T03:12:30+00:00 server05 NetworkManager[2754]: configuration reloaded
+192.168.1.35 - - [Mar 20 05:35:30] "PUT /checkout HTTP/1.1" 304 444912
+Aug 11 13:12:04 server01 postfix/smtpd[5810]: 0D1BC782C8: client=192.168.1.17
+Sep 15 22:56:21 server01 postfix/smtpd[4427]: 46DC07C4D8: client=192.168.1.7
+Feb 24 04:58:57 server01 postfix/smtpd[4080]: 436A154DCA: client=192.168.1.21
+2025/09/05 12:05:19 [WARN] cache: user session created
+2025-07-09T02:00:18+00:00 server05 kernel[1972]: stopped
+192.168.1.19 - - [Feb 17 02:13:03] "DELETE /css/style.css HTTP/1.1" 502 270026
+2024-10-13T06:34:45+00:00 server05 NetworkManager[7624]: failed to start
+192.168.1.35 - - [Apr 08 11:59:20] "PUT /products HTTP/1.1" 200 407400
+2026/07/04 19:58:03 [ERROR] db: user session created
+2025-04-11T13:23:56+00:00 server01 kernel[331]: stopped
+192.168.1.35 - - [Jun 17 08:16:30] "POST /search HTTP/1.1" 502 50934
+2026/05/11 12:57:40 [DEBUG] web: rate limit exceeded for IP 192.168.1.29
+2026-04-14T07:00:51+00:00 server04 systemd[2495]: error on connection
+192.168.1.34 - - [Mar 28 06:24:47] "POST /checkout HTTP/1.1" 404 463274
+2024-12-18T23:51:34+00:00 server04 kernel[4566]: started
+2025/10/16 18:17:54 [DEBUG] cache: authentication failed for user alice
+Nov 27 06:33:15 server01 postfix/smtpd[7129]: C1EA036149: client=192.168.1.2
+192.168.1.14 - - [Jul 05 06:10:46] "POST /login HTTP/1.1" 404 219228
+192.168.1.35 - - [Feb 19 19:58:03] "POST /css/style.css HTTP/1.1" 400 115121
+Jan 20 16:47:48 server01 postfix/smtpd[8861]: 56699C80A6: client=192.168.1.8
+192.168.1.27 - - [May 02 07:51:31] "DELETE /css/style.css HTTP/1.1" 200 72632
+CUSTOM-LOG: 2026-09-21T07:21:21+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+2024/07/22 05:07:24 [INFO] web: rate limit exceeded for IP 192.168.1.25
+2026/03/06 17:53:59 [INFO] web: connection pool exhausted
+CUSTOM-LOG: 2024-04-24T02:58:28+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+192.168.1.2 - - [Nov 17 00:22:02] "PUT /css/style.css HTTP/1.1" 401 132706
+CUSTOM-LOG: 2026-05-15T03:06:21+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2024-03-23T14:13:30+00:00 server03 systemd[5711]: stopped
+CUSTOM-LOG: 2024-04-01T12:15:58+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+2025-12-03T08:00:05+00:00 server03 dhcpcd[9986]: error on connection
+CUSTOM-LOG: 2025-03-26T01:23:36+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.36 - - [May 15 09:51:05] "POST /css/style.css HTTP/1.1" 502 459217
+2026/10/16 05:06:59 [DEBUG] worker: query executed in 91ms
+2026-03-14T11:35:12+00:00 server02 NetworkManager[6666]: started
+2026/03/05 20:45:49 [WARN] cache: connection pool exhausted
+192.168.1.31 - - [Oct 02 16:59:21] "DELETE /css/style.css HTTP/1.1" 301 203056
+CUSTOM-LOG: 2025-08-26T02:10:54+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+May 23 04:44:14 server01 postfix/smtpd[9682]: E8453D6009: client=192.168.1.4
+CUSTOM-LOG: 2024-10-27T05:08:18+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+192.168.1.37 - - [Nov 02 23:39:34] "PUT /js/app.js HTTP/1.1" 401 50575
+Jun 12 00:22:57 server01 postfix/smtpd[2939]: 4B4CB7E62C: client=192.168.1.42
+Mar 10 15:34:19 server01 postfix/smtpd[1874]: 91029E8080: client=192.168.1.9
+2024/05/16 08:29:02 [ERROR] auth: cache miss for key product:*
+192.168.1.38 - - [Jun 27 02:50:29] "DELETE /checkout HTTP/1.1" 503 482363
+192.168.1.12 - - [Feb 26 20:52:40] "PUT /js/app.js HTTP/1.1" 304 322623
+2024/05/24 06:53:29 [INFO] worker: connection pool exhausted
+2026-04-16T16:10:08+00:00 server04 kernel[260]: stopped
+2025/09/18 17:20:31 [DEBUG] worker: authentication failed for user alice
+CUSTOM-LOG: 2024-10-15T20:22:06+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+192.168.1.2 - - [Apr 19 22:50:37] "PUT /checkout HTTP/1.1" 403 448022
+Jan 01 19:42:14 server01 postfix/smtpd[2648]: B493235335: client=192.168.1.31
+2026/10/20 13:51:04 [WARN] api: authentication failed for user admin
+2025/07/14 23:20:34 [ERROR] web: rate limit exceeded for IP 192.168.1.47
+Jul 20 18:24:20 server01 postfix/smtpd[3073]: AD04633799: client=192.168.1.36
+CUSTOM-LOG: 2025-09-24T00:58:21+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+192.168.1.2 - - [Nov 25 15:08:32] "PUT /css/style.css HTTP/1.1" 404 81070
+2024/03/15 14:49:17 [INFO] web: user session created
+Oct 25 11:32:41 server01 postfix/smtpd[9618]: 897A93452D: client=192.168.1.10
+192.168.1.19 - - [Feb 07 17:31:31] "GET /checkout HTTP/1.1" 404 497753
+Nov 04 19:51:48 server01 postfix/smtpd[9507]: 248293022E: client=192.168.1.23
+May 17 04:57:09 server01 postfix/smtpd[2706]: DB86D96231: client=192.168.1.28
+2025-09-22T02:29:46+00:00 server03 sshd[3947]: error on connection
+192.168.1.29 - - [Jun 02 16:20:43] "DELETE /products HTTP/1.1" 301 319751
+CUSTOM-LOG: 2024-09-01T15:36:40+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+Aug 25 07:25:17 server01 postfix/smtpd[6916]: 238FA78173: client=192.168.1.39
+2025/11/23 17:38:41 [WARN] cache: rate limit exceeded for IP 192.168.1.10
+2025-11-17T18:12:36+00:00 server03 systemd[4493]: configuration reloaded
+192.168.1.11 - - [Aug 18 11:05:28] "GET /cart HTTP/1.1" 403 144767
+2025-06-15T20:27:35+00:00 server02 cron[7485]: started
+May 14 07:44:38 server01 postfix/smtpd[8546]: ADDA21C501: client=192.168.1.37
+CUSTOM-LOG: 2024-11-04T07:43:51+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2026/03/18 08:40:59 [DEBUG] auth: cache miss for key user:*
+Aug 23 11:59:09 server01 postfix/smtpd[4292]: 236D9D1D30: client=192.168.1.40
+Oct 28 17:37:28 server01 postfix/smtpd[8301]: B11964F415: client=192.168.1.43
+2024/10/11 15:55:16 [WARN] auth: authentication failed for user alice
+CUSTOM-LOG: 2024-10-13T14:48:38+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2024-12-06T20:26:01+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+192.168.1.32 - - [Oct 04 10:44:58] "POST /api/users HTTP/1.1" 302 240735
+Mar 07 19:22:01 server01 postfix/smtpd[7647]: 7450AA6B22: client=192.168.1.38
+Dec 03 13:06:19 server01 postfix/smtpd[4667]: 5E7D6E29E1: client=192.168.1.25
+2026/09/18 02:38:28 [INFO] api: rate limit exceeded for IP 192.168.1.27
+2025/06/08 02:55:34 [INFO] db: query executed in 4766ms
+2026/08/12 03:03:25 [WARN] web: user session created
+192.168.1.45 - - [Dec 25 22:31:49] "POST /checkout HTTP/1.1" 404 486490
+2024/10/12 00:19:58 [ERROR] worker: user session created
+2024/12/27 15:54:32 [ERROR] api: request timed out
+CUSTOM-LOG: 2026-09-08T09:05:14+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-07-05T17:21:12+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.15 - - [Dec 11 17:44:58] "POST /checkout HTTP/1.1" 403 397982
+CUSTOM-LOG: 2026-05-24T03:20:42+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+2025/03/14 10:36:37 [ERROR] api: authentication failed for user bob
+2026-09-08T01:51:23+00:00 server02 dhcpcd[7323]: configuration reloaded
+2026-10-19T03:46:02+00:00 server03 kernel[7896]: configuration reloaded
+Sep 21 13:05:08 server01 postfix/smtpd[3627]: 27CE0292EA: client=192.168.1.4
+2024/02/27 20:49:55 [INFO] auth: authentication failed for user bob
+2025-07-16T09:44:08+00:00 server03 sshd[6811]: configuration reloaded
+192.168.1.34 - - [May 25 05:09:36] "GET /api/users HTTP/1.1" 403 256221
+2024-06-02T21:50:09+00:00 server01 NetworkManager[6054]: started
+2024/09/28 20:51:53 [ERROR] web: cache miss for key user:*
+192.168.1.33 - - [Aug 22 20:14:47] "GET /js/app.js HTTP/1.1" 502 150646
+2025/08/10 11:44:26 [ERROR] scheduler: query executed in 3919ms
+2026/02/17 19:42:19 [DEBUG] cache: authentication failed for user admin
+CUSTOM-LOG: 2024-12-01T18:04:04+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2024-11-28T21:58:24+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2024-07-03T12:31:43+00:00 server02 kernel[3680]: configuration reloaded
+Nov 02 10:28:26 server01 postfix/smtpd[5283]: C171948313: client=192.168.1.6
+192.168.1.21 - - [Mar 01 17:03:08] "GET /index.html HTTP/1.1" 403 257955
+2026-04-25T06:07:56+00:00 server01 kernel[8464]: stopped
+2026-07-07T11:53:39+00:00 server05 dhcpcd[1102]: stopped
+2024/04/02 09:18:09 [WARN] auth: request timed out
+2026/01/16 07:39:34 [DEBUG] db: cache miss for key user:*
+Feb 08 15:28:07 server01 postfix/smtpd[4027]: AEA2CC8440: client=192.168.1.30
+2024/03/10 04:34:20 [ERROR] auth: request timed out
+2026/12/19 12:01:40 [ERROR] cache: query executed in 4481ms
+2025-08-13T17:52:34+00:00 server05 systemd[7727]: error on connection
+2024/08/27 20:16:52 [DEBUG] worker: rate limit exceeded for IP 192.168.1.42
+2025-06-17T16:46:00+00:00 server05 dhcpcd[9770]: configuration reloaded
+2024/12/18 01:44:35 [WARN] cache: user session created
+CUSTOM-LOG: 2025-06-09T05:20:39+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2024/07/27 19:50:10 [INFO] auth: query executed in 1262ms
+192.168.1.8 - - [Mar 08 15:51:13] "PUT /js/app.js HTTP/1.1" 503 437493
+192.168.1.50 - - [Feb 07 01:56:18] "GET /search HTTP/1.1" 304 42461
+2024/08/18 11:53:38 [ERROR] web: connection pool exhausted
+Jul 13 15:36:33 server01 postfix/smtpd[7837]: AF74B4089B: client=192.168.1.3
+192.168.1.40 - - [Aug 23 11:01:41] "PUT /index.html HTTP/1.1" 401 230894
+2025-04-14T07:24:12+00:00 server03 sshd[4542]: error on connection
+2026/02/21 07:41:51 [ERROR] worker: user session created
+2024-12-24T01:24:54+00:00 server03 dhcpcd[6491]: stopped
+2025/06/05 09:17:15 [DEBUG] db: authentication failed for user admin
+2024-11-20T06:18:19+00:00 server01 sshd[5666]: failed to start
+2025/07/23 10:28:27 [INFO] auth: connection pool exhausted
+Jan 12 09:37:32 server01 postfix/smtpd[2802]: BC2D49B96C: client=192.168.1.20
+2025-11-19T18:12:41+00:00 server05 sshd[652]: error on connection
+2026-05-11T08:56:39+00:00 server01 cron[6999]: error on connection
+192.168.1.16 - - [Feb 23 05:57:52] "PUT /products HTTP/1.1" 200 241149
+2025/12/21 23:52:12 [DEBUG] api: authentication failed for user alice
+CUSTOM-LOG: 2024-08-26T05:26:09+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+192.168.1.49 - - [Nov 17 01:54:25] "GET /search HTTP/1.1" 401 27890
+Feb 28 15:57:32 server01 postfix/smtpd[5348]: B60AE8C602: client=192.168.1.24
+2025-10-14T22:43:22+00:00 server05 dhcpcd[8159]: failed to start
+2025/10/03 22:06:01 [INFO] web: cache miss for key user:*
+2024-07-25T00:48:20+00:00 server04 cron[3537]: configuration reloaded
+CUSTOM-LOG: 2026-02-01T00:26:41+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+2025-09-24T01:27:00+00:00 server04 systemd[4998]: started
+2026-01-16T14:26:22+00:00 server04 systemd[5586]: configuration reloaded
+CUSTOM-LOG: 2024-10-12T20:56:42+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2026/09/22 02:46:07 [ERROR] worker: rate limit exceeded for IP 192.168.1.38
+2024/12/06 14:29:32 [WARN] web: user session created
+2025/07/27 23:25:32 [INFO] worker: connection pool exhausted
+2025/06/05 19:12:48 [ERROR] scheduler: cache miss for key product:*
+2024-08-12T02:25:39+00:00 server04 dhcpcd[4327]: failed to start
+192.168.1.35 - - [Feb 26 23:30:49] "POST /login HTTP/1.1" 304 184548
+2024-11-11T18:47:37+00:00 server01 dhcpcd[5178]: error on connection
+2026/04/28 16:43:11 [ERROR] web: query executed in 1358ms
+192.168.1.17 - - [Oct 28 15:01:47] "GET /products HTTP/1.1" 301 325193
+Aug 24 00:51:00 server01 postfix/smtpd[4936]: 06CD8B89BD: client=192.168.1.27
+2025-02-10T10:32:40+00:00 server05 NetworkManager[8063]: started
+CUSTOM-LOG: 2025-10-03T06:49:20+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2025-08-26T04:57:58+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.6 - - [Mar 27 02:06:18] "GET /images/logo.png HTTP/1.1" 404 495347
+CUSTOM-LOG: 2024-11-22T23:32:12+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-03-18T19:51:15+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2024-06-02T21:33:25+00:00 server01 NetworkManager[3406]: stopped
+192.168.1.16 - - [Sep 18 16:49:23] "GET /cart HTTP/1.1" 502 231302
+192.168.1.44 - - [Apr 04 22:29:43] "PUT /products HTTP/1.1" 302 75378
+CUSTOM-LOG: 2026-07-01T07:31:10+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+2024/07/06 02:31:44 [WARN] cache: rate limit exceeded for IP 192.168.1.15
+192.168.1.29 - - [Feb 18 17:10:20] "POST /products HTTP/1.1" 503 296718
+192.168.1.14 - - [Jan 02 17:27:15] "POST /products HTTP/1.1" 401 19821
+2024-08-06T01:43:26+00:00 server02 sshd[9960]: failed to start
+2025-07-12T21:01:28+00:00 server01 dhcpcd[7614]: stopped
+2024/03/27 05:06:13 [DEBUG] api: user session created
+192.168.1.25 - - [Sep 06 23:42:15] "GET /index.html HTTP/1.1" 404 289829
+2024/01/21 13:40:23 [DEBUG] cache: user session created
+CUSTOM-LOG: 2026-02-07T19:24:02+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2026-06-15T12:51:49+00:00 server01 sshd[8441]: configuration reloaded
+CUSTOM-LOG: 2025-04-10T22:58:42+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+2024-04-20T13:38:56+00:00 server04 sshd[8922]: configuration reloaded
+192.168.1.22 - - [Oct 16 18:57:41] "DELETE /cart HTTP/1.1" 301 76192
+2025-02-11T18:35:37+00:00 server02 sshd[7652]: error on connection
+2025-07-28T14:53:54+00:00 server05 systemd[250]: failed to start
+2024-06-13T07:45:50+00:00 server01 cron[506]: started
+192.168.1.34 - - [Mar 18 10:44:50] "POST /css/style.css HTTP/1.1" 302 473037
+2026/09/03 20:42:43 [INFO] cache: rate limit exceeded for IP 192.168.1.39
+Mar 10 18:30:59 server01 postfix/smtpd[2422]: 485B0704A3: client=192.168.1.21
+192.168.1.9 - - [Jan 01 13:22:36] "PUT /js/app.js HTTP/1.1" 403 44752
+2025-04-16T19:15:44+00:00 server05 sshd[7792]: started
+Jul 11 03:55:36 server01 postfix/smtpd[2018]: D066DD9DE6: client=192.168.1.20
+192.168.1.38 - - [Aug 22 04:09:13] "PUT /search HTTP/1.1" 302 82532
+2024/12/21 22:36:23 [ERROR] worker: authentication failed for user alice
+192.168.1.26 - - [Jul 23 16:43:57] "DELETE /checkout HTTP/1.1" 400 302235
+192.168.1.11 - - [Dec 03 19:33:50] "POST /search HTTP/1.1" 301 463913
+Feb 09 12:09:35 server01 postfix/smtpd[9608]: 973DE3D31A: client=192.168.1.23
+192.168.1.42 - - [Mar 28 02:15:54] "PUT /css/style.css HTTP/1.1" 403 292327
+CUSTOM-LOG: 2025-05-11T01:14:30+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+192.168.1.33 - - [Nov 05 08:16:30] "GET /js/app.js HTTP/1.1" 401 162613
+Apr 27 22:27:53 server01 postfix/smtpd[6051]: 44CD29A82B: client=192.168.1.30
+2025/02/09 17:14:00 [DEBUG] scheduler: cache miss for key session:*
+CUSTOM-LOG: 2024-03-11T18:48:08+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+Mar 11 21:02:06 server01 postfix/smtpd[7860]: 7FCCF4D2B9: client=192.168.1.39
+2026/02/24 22:42:23 [WARN] worker: rate limit exceeded for IP 192.168.1.21
+2024-11-08T18:24:28+00:00 server01 systemd[5193]: configuration reloaded
+2024/07/08 02:33:02 [DEBUG] web: query executed in 3701ms
+192.168.1.36 - - [Oct 17 15:59:21] "POST /css/style.css HTTP/1.1" 301 18802
+CUSTOM-LOG: 2024-07-06T18:10:46+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+May 13 05:42:33 server01 postfix/smtpd[3063]: DC5CC74A91: client=192.168.1.38
+CUSTOM-LOG: 2024-06-24T15:40:28+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2025-07-15T07:50:25+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+2024-08-24T00:37:20+00:00 server04 kernel[314]: error on connection
+Jan 01 06:20:02 server01 postfix/smtpd[7920]: C49C9DA5B1: client=192.168.1.20
+192.168.1.11 - - [Feb 16 12:24:47] "POST /login HTTP/1.1" 404 141645
+192.168.1.32 - - [Aug 25 05:56:53] "POST /images/logo.png HTTP/1.1" 302 496992
+2024-11-22T16:15:14+00:00 server03 kernel[909]: error on connection
+CUSTOM-LOG: 2026-12-05T02:42:12+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2026-05-22T11:38:47+00:00 server02 cron[6117]: stopped
+192.168.1.45 - - [Feb 05 18:44:14] "GET /api/users HTTP/1.1" 502 456931
+2024/04/04 05:41:27 [WARN] worker: request timed out
+2026-11-19T09:10:26+00:00 server05 sshd[5588]: started
+192.168.1.5 - - [Jun 13 12:45:49] "GET /index.html HTTP/1.1" 304 429771
+192.168.1.29 - - [Apr 23 10:30:24] "DELETE /checkout HTTP/1.1" 304 184594
+2026-11-28T09:13:32+00:00 server05 cron[3770]: stopped
+2026-08-05T08:56:29+00:00 server03 cron[3104]: failed to start
+2026/08/02 01:43:56 [WARN] api: user session created
+Jul 23 07:25:57 server01 postfix/smtpd[2027]: 336C00AB71: client=192.168.1.19
+2025/04/21 07:36:13 [WARN] worker: cache miss for key product:*
+May 19 06:49:36 server01 postfix/smtpd[8270]: B5FB6BA9B3: client=192.168.1.11
+2026/02/27 09:50:08 [WARN] cache: connection pool exhausted
+2024-11-28T03:20:12+00:00 server02 NetworkManager[1630]: error on connection
+Aug 09 03:40:03 server01 postfix/smtpd[3905]: A6BBAB6414: client=192.168.1.49
+2025/05/11 06:16:58 [WARN] db: cache miss for key session:*
+192.168.1.11 - - [Oct 04 05:45:19] "POST /login HTTP/1.1" 404 380404
+192.168.1.24 - - [May 03 22:09:01] "PUT /login HTTP/1.1" 404 284032
+2025/03/09 02:09:57 [INFO] scheduler: rate limit exceeded for IP 192.168.1.17
+2024/09/19 22:07:17 [WARN] web: authentication failed for user alice
+2025/11/01 06:25:43 [ERROR] worker: request timed out
+2026/11/14 19:06:16 [WARN] api: user session created
+2026/11/04 23:53:19 [INFO] scheduler: query executed in 4574ms
+Mar 03 23:05:07 server01 postfix/smtpd[6920]: C0E3E08CC0: client=192.168.1.45
+2025-12-23T01:35:44+00:00 server02 sshd[852]: error on connection
+Dec 25 11:10:57 server01 postfix/smtpd[5199]: 0DECFB9EB5: client=192.168.1.48
+2025/12/25 09:05:49 [WARN] api: query executed in 3729ms
+2024/06/13 19:34:50 [ERROR] worker: rate limit exceeded for IP 192.168.1.5
+2025-10-07T21:23:13+00:00 server03 dhcpcd[2083]: stopped
+192.168.1.7 - - [May 27 08:37:25] "PUT /products HTTP/1.1" 404 143523
+2026/06/05 10:15:21 [DEBUG] db: connection pool exhausted
+2024/07/26 21:25:36 [ERROR] db: authentication failed for user bob
+CUSTOM-LOG: 2024-12-19T13:34:57+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-03-08T23:53:11+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2025/04/28 15:55:19 [WARN] api: authentication failed for user bob
+192.168.1.27 - - [Jun 28 21:04:23] "DELETE /checkout HTTP/1.1" 401 131573
+2025/12/13 12:22:04 [INFO] db: rate limit exceeded for IP 192.168.1.44
+2024-02-05T16:30:02+00:00 server03 NetworkManager[5929]: failed to start
+192.168.1.19 - - [Mar 18 20:36:15] "POST /login HTTP/1.1" 304 399543
+192.168.1.35 - - [Sep 25 18:45:42] "PUT /js/app.js HTTP/1.1" 502 324775
+CUSTOM-LOG: 2026-04-02T04:14:36+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+2025/11/04 12:09:33 [DEBUG] scheduler: authentication failed for user bob
+2024-12-02T06:33:15+00:00 server04 kernel[791]: error on connection
+192.168.1.18 - - [Apr 02 06:55:28] "DELETE /css/style.css HTTP/1.1" 500 359107
+Sep 11 19:09:57 server01 postfix/smtpd[2014]: BF91E5DD22: client=192.168.1.46
+CUSTOM-LOG: 2024-11-03T19:46:38+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+2025/01/23 01:44:32 [ERROR] auth: connection pool exhausted
+CUSTOM-LOG: 2026-11-20T08:50:59+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2025/11/27 18:10:51 [INFO] scheduler: user session created
+Mar 17 10:51:44 server01 postfix/smtpd[5217]: 56BEAF08B3: client=192.168.1.28
+2024-08-08T00:12:15+00:00 server04 cron[3209]: error on connection
+2026/11/23 02:30:45 [DEBUG] web: rate limit exceeded for IP 192.168.1.42
+2024/01/04 05:03:01 [INFO] worker: authentication failed for user bob
+2024/03/12 03:41:53 [ERROR] api: user session created
+CUSTOM-LOG: 2026-11-19T06:49:28+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+192.168.1.31 - - [Dec 24 17:13:07] "GET /js/app.js HTTP/1.1" 401 95820
+192.168.1.17 - - [Dec 22 08:31:43] "PUT /cart HTTP/1.1" 404 485199
+2026-03-27T21:53:45+00:00 server03 systemd[5553]: failed to start
+2026-12-23T01:48:43+00:00 server04 sshd[7334]: error on connection
+2025-04-23T11:03:25+00:00 server05 NetworkManager[2281]: started
+Dec 25 22:04:01 server01 postfix/smtpd[3340]: F2B24B890B: client=192.168.1.44
+2024/02/18 11:35:57 [INFO] web: authentication failed for user alice
+2024/05/26 17:47:37 [DEBUG] web: rate limit exceeded for IP 192.168.1.3
+2026-12-18T05:37:39+00:00 server02 dhcpcd[9866]: stopped
+2026/04/27 00:52:13 [INFO] api: request timed out
+CUSTOM-LOG: 2024-07-28T15:24:51+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+192.168.1.16 - - [Aug 16 01:11:21] "GET /cart HTTP/1.1" 403 460488
+Oct 18 04:27:10 server01 postfix/smtpd[4560]: DE39FC14B5: client=192.168.1.32
+2025/01/10 06:50:50 [DEBUG] cache: cache miss for key product:*
+192.168.1.19 - - [Oct 26 14:11:32] "DELETE /api/users HTTP/1.1" 502 334255
+2024-05-11T10:36:49+00:00 server01 kernel[8830]: error on connection
+192.168.1.40 - - [Jul 09 23:54:09] "PUT /cart HTTP/1.1" 503 424517
+Mar 27 06:58:57 server01 postfix/smtpd[2865]: FEFDBE8A99: client=192.168.1.47
+2025/09/06 10:29:31 [INFO] auth: query executed in 4325ms
+Oct 21 10:11:39 server01 postfix/smtpd[9524]: 2E429EE9D2: client=192.168.1.1
+2025/08/22 04:02:05 [DEBUG] auth: connection pool exhausted
+CUSTOM-LOG: 2026-08-03T05:32:35+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2025-01-12T13:42:55+00:00 server01 kernel[6779]: error on connection
+Feb 04 02:29:41 server01 postfix/smtpd[6222]: 8A8F58413B: client=192.168.1.3
+2025/07/10 11:54:07 [WARN] auth: connection pool exhausted
+Nov 14 04:41:31 server01 postfix/smtpd[4206]: CDB7C1880A: client=192.168.1.26
+Feb 17 23:55:29 server01 postfix/smtpd[4473]: C489294BCB: client=192.168.1.47
+Mar 23 09:10:17 server01 postfix/smtpd[1885]: E8A8B17551: client=192.168.1.13
+Jul 27 23:15:31 server01 postfix/smtpd[9276]: B6A98EE45D: client=192.168.1.15
+CUSTOM-LOG: 2026-09-12T21:06:16+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+192.168.1.16 - - [Aug 05 04:14:18] "DELETE /cart HTTP/1.1" 500 260363
+2026-10-02T20:57:26+00:00 server01 kernel[7459]: started
+2024/01/14 10:54:43 [INFO] web: authentication failed for user admin
+2026-06-02T23:30:40+00:00 server02 kernel[8968]: started
+2024-05-09T12:28:03+00:00 server01 dhcpcd[9121]: started
+2025/09/11 18:31:58 [INFO] api: rate limit exceeded for IP 192.168.1.41
+2025/05/20 12:13:20 [INFO] api: query executed in 4603ms
+2026/04/14 14:03:24 [INFO] scheduler: rate limit exceeded for IP 192.168.1.29
+Apr 27 09:10:12 server01 postfix/smtpd[3699]: DD5899E521: client=192.168.1.36
+2025/01/08 09:29:16 [INFO] cache: user session created
+2025/08/05 03:45:43 [INFO] web: query executed in 642ms
+2026-07-04T03:22:49+00:00 server01 dhcpcd[5089]: failed to start
+2024/11/16 07:09:41 [WARN] worker: connection pool exhausted
+2024/10/10 06:20:58 [DEBUG] worker: user session created
+2025-11-12T13:06:17+00:00 server04 dhcpcd[7186]: failed to start
+192.168.1.33 - - [Feb 22 15:41:17] "GET /index.html HTTP/1.1" 502 334384
+192.168.1.31 - - [Jun 09 17:09:45] "POST /css/style.css HTTP/1.1" 503 448152
+CUSTOM-LOG: 2024-10-14T10:00:52+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+2025/02/24 21:14:06 [DEBUG] web: request timed out
+2024/05/15 18:41:40 [WARN] scheduler: authentication failed for user alice
+192.168.1.26 - - [May 04 09:37:17] "POST /js/app.js HTTP/1.1" 200 355794
+Dec 18 20:37:33 server01 postfix/smtpd[4293]: 06786BDBB3: client=192.168.1.42
+192.168.1.23 - - [Sep 27 17:43:02] "PUT /checkout HTTP/1.1" 503 420244
+CUSTOM-LOG: 2024-03-02T18:56:44+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2025-03-19T02:50:17+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+192.168.1.31 - - [May 01 18:31:09] "POST /search HTTP/1.1" 500 175786
+2026-10-23T14:43:24+00:00 server04 kernel[5020]: stopped
+CUSTOM-LOG: 2025-05-05T09:02:21+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+192.168.1.49 - - [Mar 08 11:28:40] "DELETE /checkout HTTP/1.1" 401 238206
+May 13 23:34:33 server01 postfix/smtpd[9431]: FDD24EEE04: client=192.168.1.31
+192.168.1.1 - - [Aug 27 20:45:01] "DELETE /search HTTP/1.1" 301 417067
+CUSTOM-LOG: 2026-01-24T09:20:23+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+2026-03-03T05:49:39+00:00 server01 systemd[9656]: failed to start
+192.168.1.48 - - [Aug 25 11:44:31] "DELETE /css/style.css HTTP/1.1" 401 429726
+2024-10-24T18:47:47+00:00 server01 dhcpcd[7946]: stopped
+2025-03-05T08:11:41+00:00 server05 kernel[318]: error on connection
+2025/02/23 00:23:15 [ERROR] api: authentication failed for user bob
+Apr 25 09:27:01 server01 postfix/smtpd[9817]: 4F9F9EF203: client=192.168.1.12
+2024/01/26 00:48:36 [INFO] auth: cache miss for key user:*
+192.168.1.1 - - [Aug 22 20:47:30] "PUT /css/style.css HTTP/1.1" 304 248239
+192.168.1.4 - - [Feb 08 06:58:41] "DELETE /checkout HTTP/1.1" 302 282949
+2024-10-06T17:53:55+00:00 server03 kernel[1386]: configuration reloaded
+2024/11/21 23:43:58 [ERROR] scheduler: authentication failed for user bob
+192.168.1.39 - - [Nov 27 19:25:55] "DELETE /images/logo.png HTTP/1.1" 302 332933
+2025/03/27 02:48:30 [DEBUG] scheduler: rate limit exceeded for IP 192.168.1.26
+Jul 19 00:07:57 server01 postfix/smtpd[8865]: F050992ED2: client=192.168.1.5
+2026-01-07T13:04:51+00:00 server04 systemd[8337]: configuration reloaded
+CUSTOM-LOG: 2025-07-03T20:26:19+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+2024-02-01T09:53:51+00:00 server03 sshd[9564]: error on connection
+Apr 19 11:55:56 server01 postfix/smtpd[5664]: BBEF7DAE57: client=192.168.1.14
+2026/09/11 05:31:49 [INFO] db: connection pool exhausted
+2025/09/19 03:38:38 [ERROR] cache: authentication failed for user admin
+2026-09-23T20:30:00+00:00 server05 kernel[7316]: failed to start
+CUSTOM-LOG: 2025-04-13T17:18:17+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+Feb 14 08:37:14 server01 postfix/smtpd[6464]: AE5FCE0761: client=192.168.1.2
+2026/10/02 23:37:50 [DEBUG] scheduler: request timed out
+2024-04-01T19:18:47+00:00 server05 systemd[3405]: failed to start
+Apr 22 03:23:51 server01 postfix/smtpd[6582]: C9E8EB4EDC: client=192.168.1.8
+Aug 11 20:15:58 server01 postfix/smtpd[8969]: CC338578ED: client=192.168.1.45
+2025-01-15T16:06:38+00:00 server03 cron[679]: stopped
+2026/08/23 14:37:50 [INFO] worker: authentication failed for user bob
+2024/04/17 04:49:46 [INFO] api: cache miss for key user:*
+192.168.1.48 - - [Feb 12 14:41:28] "DELETE /images/logo.png HTTP/1.1" 200 486467
+2025-06-16T07:54:53+00:00 server01 sshd[9215]: stopped
+192.168.1.4 - - [Oct 14 20:30:12] "POST /checkout HTTP/1.1" 404 288096
+192.168.1.41 - - [Sep 28 10:30:33] "POST /search HTTP/1.1" 500 230785
+192.168.1.30 - - [Mar 18 04:59:47] "PUT /checkout HTTP/1.1" 304 316854
+2026/07/11 23:24:39 [WARN] auth: request timed out
+2025/04/09 01:11:51 [WARN] scheduler: connection pool exhausted
+2026/02/02 10:17:55 [ERROR] cache: connection pool exhausted
+2025/05/06 16:24:14 [DEBUG] auth: connection pool exhausted
+192.168.1.13 - - [Jun 10 16:21:55] "PUT /cart HTTP/1.1" 200 362400
+2025/10/07 16:26:07 [DEBUG] worker: cache miss for key session:*
+Dec 16 12:03:47 server01 postfix/smtpd[7287]: 2F8633D3A9: client=192.168.1.37
+2024-11-05T10:47:25+00:00 server02 cron[5482]: stopped
+2025-12-07T13:05:27+00:00 server03 sshd[4126]: configuration reloaded
+Nov 22 00:32:31 server01 postfix/smtpd[9206]: 5D9DD9CEDA: client=192.168.1.43
+192.168.1.46 - - [Sep 04 07:40:03] "POST /products HTTP/1.1" 503 454848
+Mar 07 14:01:57 server01 postfix/smtpd[9152]: 542F0EBEC2: client=192.168.1.33
+192.168.1.21 - - [Mar 26 22:24:56] "GET /js/app.js HTTP/1.1" 503 431206
+Oct 04 06:26:26 server01 postfix/smtpd[3482]: FFD3687255: client=192.168.1.46
+192.168.1.37 - - [Aug 19 22:38:54] "GET /css/style.css HTTP/1.1" 304 303427
+2026-08-02T13:38:07+00:00 server01 kernel[2078]: started
+2026/08/01 13:59:22 [INFO] scheduler: rate limit exceeded for IP 192.168.1.31
+2024/04/17 01:34:28 [DEBUG] web: connection pool exhausted
+192.168.1.18 - - [Apr 18 21:20:55] "GET /api/users HTTP/1.1" 502 41856
+2025-06-13T19:09:11+00:00 server02 NetworkManager[3612]: configuration reloaded
+192.168.1.17 - - [Nov 19 02:47:22] "PUT /checkout HTTP/1.1" 500 296875
+CUSTOM-LOG: 2024-07-27T02:03:38+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+2025-04-17T14:42:09+00:00 server03 NetworkManager[1750]: failed to start
+Apr 27 16:59:43 server01 postfix/smtpd[9934]: D9296A4166: client=192.168.1.47
+2025/10/25 10:11:59 [WARN] cache: authentication failed for user bob
+2026-03-02T10:01:41+00:00 server03 dhcpcd[9067]: error on connection
+2026/03/23 15:45:38 [INFO] scheduler: rate limit exceeded for IP 192.168.1.34
+2025/04/11 16:36:31 [WARN] db: connection pool exhausted
+2024-09-02T07:22:40+00:00 server01 cron[5044]: started
+CUSTOM-LOG: 2025-12-21T01:42:17+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+Jul 12 23:09:06 server01 postfix/smtpd[5255]: 7CCA3EC310: client=192.168.1.50
+CUSTOM-LOG: 2026-03-20T01:40:09+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+CUSTOM-LOG: 2024-06-10T12:31:03+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.8 - - [Jul 05 11:56:50] "GET /js/app.js HTTP/1.1" 200 3059
+2025-04-01T15:51:26+00:00 server03 cron[179]: error on connection
+2024/04/02 06:06:38 [INFO] db: authentication failed for user alice
+2025/02/21 00:00:32 [ERROR] scheduler: request timed out
+2024-01-13T04:12:20+00:00 server03 sshd[5540]: error on connection
+192.168.1.43 - - [Oct 27 20:43:25] "PUT /cart HTTP/1.1" 200 310864
+CUSTOM-LOG: 2026-02-01T20:17:22+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2024-06-06T11:07:48+00:00 server03 kernel[1393]: configuration reloaded
+192.168.1.25 - - [Feb 06 09:16:29] "GET /api/users HTTP/1.1" 403 311131
+192.168.1.7 - - [May 03 13:40:56] "PUT /products HTTP/1.1" 503 397944
+192.168.1.34 - - [Jan 05 15:54:41] "GET /search HTTP/1.1" 304 290563
+2026-02-06T23:38:11+00:00 server02 NetworkManager[3758]: failed to start
+2026-09-24T03:03:12+00:00 server01 systemd[2246]: stopped
+CUSTOM-LOG: 2025-11-05T10:13:59+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2026-11-20T20:52:18+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+Jan 01 05:30:08 server01 postfix/smtpd[1618]: BA5CCF6699: client=192.168.1.5
+2024-07-20T06:01:42+00:00 server01 NetworkManager[9732]: error on connection
+2025/06/07 03:33:14 [ERROR] cache: rate limit exceeded for IP 192.168.1.4
+192.168.1.15 - - [Jun 26 03:10:59] "POST /css/style.css HTTP/1.1" 304 106587
+CUSTOM-LOG: 2025-09-25T13:40:01+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+2024-08-16T21:23:58+00:00 server01 dhcpcd[4742]: error on connection
+2024-10-22T22:15:13+00:00 server01 cron[7660]: configuration reloaded
+2026-02-15T06:38:31+00:00 server04 dhcpcd[5500]: stopped
+Jul 06 08:24:17 server01 postfix/smtpd[7263]: D59DEBF67A: client=192.168.1.33
+2024/05/05 23:48:44 [WARN] worker: user session created
+192.168.1.20 - - [Sep 02 12:49:30] "DELETE /login HTTP/1.1" 500 41249
+Sep 28 04:37:07 server01 postfix/smtpd[4153]: AEFBBB2ECB: client=192.168.1.47
+May 25 21:10:34 server01 postfix/smtpd[3558]: 467BCB32B6: client=192.168.1.40
+2024/04/19 18:36:19 [DEBUG] cache: authentication failed for user bob
+2026/04/11 07:05:05 [WARN] scheduler: rate limit exceeded for IP 192.168.1.50
+2024/08/24 04:57:08 [WARN] api: query executed in 4670ms
+192.168.1.33 - - [Apr 18 15:51:05] "PUT /index.html HTTP/1.1" 400 469493
+192.168.1.28 - - [Aug 21 01:19:25] "GET /products HTTP/1.1" 301 261265
+2024-07-28T23:43:12+00:00 server02 sshd[5132]: stopped
+192.168.1.5 - - [Oct 13 13:33:57] "PUT /cart HTTP/1.1" 304 335125
+2024/02/02 00:54:18 [ERROR] api: connection pool exhausted
+2025/10/02 11:05:36 [ERROR] db: query executed in 1385ms
+2025-03-14T18:54:30+00:00 server05 sshd[116]: stopped
+2024/05/17 12:53:15 [DEBUG] worker: user session created
+Sep 24 03:41:10 server01 postfix/smtpd[3084]: 66EF2FA0BA: client=192.168.1.12
+Nov 01 10:51:18 server01 postfix/smtpd[3149]: B717AD214C: client=192.168.1.30
+2026-01-24T07:55:08+00:00 server02 kernel[9989]: error on connection
+192.168.1.11 - - [Feb 05 06:28:58] "PUT /search HTTP/1.1" 500 272105
+Oct 25 19:14:55 server01 postfix/smtpd[2100]: 86522BF2DD: client=192.168.1.8
+2024/09/20 03:22:40 [INFO] worker: authentication failed for user alice
+2025/01/17 23:50:20 [WARN] api: rate limit exceeded for IP 192.168.1.50
+CUSTOM-LOG: 2025-04-21T03:19:56+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+192.168.1.31 - - [Oct 22 10:31:21] "GET /api/users HTTP/1.1" 502 458797
+Apr 18 06:47:11 server01 postfix/smtpd[6573]: 9905DB4EA0: client=192.168.1.49
+2025-06-18T13:11:43+00:00 server03 dhcpcd[988]: failed to start
+CUSTOM-LOG: 2024-09-25T00:03:05+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.23 - - [Oct 09 16:45:08] "DELETE /login HTTP/1.1" 200 239762
+2026-04-09T07:00:11+00:00 server02 kernel[8959]: stopped
+2025/03/26 04:10:52 [INFO] worker: authentication failed for user admin
+Mar 19 08:45:57 server01 postfix/smtpd[3967]: AF1324CEDB: client=192.168.1.48
+CUSTOM-LOG: 2026-05-21T11:24:21+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+CUSTOM-LOG: 2026-08-28T11:03:03+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2026-02-05T04:12:55+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+192.168.1.6 - - [Feb 25 02:03:13] "DELETE /checkout HTTP/1.1" 500 259976
+2026-04-19T02:36:38+00:00 server01 cron[3203]: error on connection
+192.168.1.7 - - [Oct 06 01:18:09] "GET /index.html HTTP/1.1" 503 213991
+2025-06-08T18:39:13+00:00 server01 NetworkManager[7196]: configuration reloaded
+192.168.1.1 - - [Jan 24 02:03:31] "GET /api/users HTTP/1.1" 404 42665
+192.168.1.16 - - [Jul 20 01:49:23] "GET /checkout HTTP/1.1" 200 404126
+Nov 01 15:03:07 server01 postfix/smtpd[1401]: 163F8C56AF: client=192.168.1.46
+192.168.1.48 - - [Aug 06 06:53:30] "PUT /api/users HTTP/1.1" 403 249319
+May 05 07:12:29 server01 postfix/smtpd[3406]: AF15995A0A: client=192.168.1.1
+2024/05/23 01:14:29 [INFO] api: cache miss for key session:*
+2024-03-24T19:58:31+00:00 server05 systemd[6185]: error on connection
+2024/04/06 04:16:26 [INFO] scheduler: query executed in 3672ms
+Jan 09 14:18:33 server01 postfix/smtpd[5392]: 3F567BBED5: client=192.168.1.36
+2024-12-27T09:02:04+00:00 server02 systemd[9188]: failed to start
+Jun 28 03:01:25 server01 postfix/smtpd[7187]: 3E61248D92: client=192.168.1.19
+192.168.1.43 - - [Mar 18 20:24:19] "GET /cart HTTP/1.1" 301 17534
+2025/12/09 14:44:19 [DEBUG] worker: request timed out
+192.168.1.4 - - [Jan 10 23:29:33] "PUT /images/logo.png HTTP/1.1" 301 315296
+192.168.1.46 - - [Apr 12 10:58:54] "GET /api/users HTTP/1.1" 301 171553
+Aug 24 14:15:01 server01 postfix/smtpd[3730]: D0856CFA69: client=192.168.1.12
+2025/12/25 12:17:26 [INFO] db: rate limit exceeded for IP 192.168.1.49
+CUSTOM-LOG: 2025-05-19T02:27:27+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2026-12-25T05:35:13+00:00 server05 dhcpcd[2206]: configuration reloaded
+CUSTOM-LOG: 2025-06-19T10:49:20+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+2025-01-08T11:14:17+00:00 server02 kernel[7409]: configuration reloaded
+2025-09-16T20:13:19+00:00 server04 systemd[8635]: stopped
+Dec 09 00:30:44 server01 postfix/smtpd[3539]: 2C7BF481D6: client=192.168.1.14
+2024-01-24T17:57:56+00:00 server05 kernel[5598]: failed to start
+2026-07-21T09:16:04+00:00 server01 systemd[5003]: failed to start
+2024/12/01 22:35:21 [INFO] worker: user session created
+CUSTOM-LOG: 2025-04-26T16:58:39+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+Sep 20 11:46:33 server01 postfix/smtpd[4131]: BFA3D1F8F9: client=192.168.1.26
+192.168.1.41 - - [Apr 09 10:39:15] "POST /images/logo.png HTTP/1.1" 404 377889
+CUSTOM-LOG: 2024-09-06T02:12:17+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+192.168.1.37 - - [Nov 09 19:47:00] "GET /login HTTP/1.1" 502 229314
+192.168.1.20 - - [Jan 16 22:52:47] "POST /login HTTP/1.1" 401 117010
+May 24 01:09:54 server01 postfix/smtpd[6074]: 122372AA2D: client=192.168.1.16
+CUSTOM-LOG: 2025-10-27T14:50:57+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+Aug 08 10:19:03 server01 postfix/smtpd[2853]: F5CCBDB787: client=192.168.1.40
+CUSTOM-LOG: 2024-11-22T13:45:54+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+192.168.1.12 - - [Nov 20 02:29:58] "GET /css/style.css HTTP/1.1" 503 410006
+May 02 12:34:07 server01 postfix/smtpd[5233]: EDD5EFBFE2: client=192.168.1.7
+Sep 07 14:51:17 server01 postfix/smtpd[9696]: 1C23DB483B: client=192.168.1.19
+Aug 24 02:47:12 server01 postfix/smtpd[4469]: 2E25B585EB: client=192.168.1.40
+192.168.1.1 - - [Mar 03 11:14:10] "POST /images/logo.png HTTP/1.1" 503 59988
+192.168.1.37 - - [Aug 22 16:34:59] "GET /checkout HTTP/1.1" 500 281312
+192.168.1.9 - - [Feb 05 15:13:35] "DELETE /login HTTP/1.1" 503 261360
+2026/07/22 22:14:13 [WARN] worker: user session created
+2025/11/10 23:24:35 [INFO] auth: query executed in 1549ms
+2024-09-05T10:13:48+00:00 server02 cron[9756]: failed to start
+2026-06-20T02:15:03+00:00 server03 cron[1049]: error on connection
+192.168.1.21 - - [Jan 22 16:42:50] "PUT /images/logo.png HTTP/1.1" 500 184749
+2026/04/08 06:24:44 [DEBUG] cache: rate limit exceeded for IP 192.168.1.24
+2026-05-09T19:09:03+00:00 server05 dhcpcd[7091]: started
+2026-11-23T13:00:18+00:00 server02 NetworkManager[9228]: failed to start
+CUSTOM-LOG: 2025-07-03T20:06:37+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2025-06-15T15:35:50+00:00 server01 kernel[6889]: started
+Feb 03 07:51:25 server01 postfix/smtpd[5445]: 3E1E0D6A5C: client=192.168.1.48
+CUSTOM-LOG: 2025-03-17T01:27:34+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+Mar 03 11:53:20 server01 postfix/smtpd[4403]: D38B6E1714: client=192.168.1.43
+CUSTOM-LOG: 2024-02-01T00:58:45+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+Jun 03 14:52:59 server01 postfix/smtpd[5124]: 426355137A: client=192.168.1.48
+2024/11/28 01:22:19 [WARN] auth: cache miss for key session:*
+2026/05/21 00:20:39 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.16
+2024/04/13 05:42:36 [ERROR] web: user session created
+2025-03-14T19:52:09+00:00 server01 NetworkManager[5138]: failed to start
+192.168.1.3 - - [May 16 00:29:45] "PUT /search HTTP/1.1" 304 337426
+192.168.1.13 - - [Mar 06 07:08:44] "DELETE /index.html HTTP/1.1" 404 38217
+Apr 11 13:18:37 server01 postfix/smtpd[3852]: AF6B03E289: client=192.168.1.48
+CUSTOM-LOG: 2025-07-01T18:19:19+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+Sep 26 05:56:16 server01 postfix/smtpd[3060]: F3DD5263FA: client=192.168.1.9
+2026-06-10T03:15:26+00:00 server03 kernel[8103]: configuration reloaded
+2025/03/14 02:25:01 [INFO] api: authentication failed for user admin
+CUSTOM-LOG: 2024-12-12T22:44:33+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+192.168.1.40 - - [Dec 19 11:13:38] "GET /index.html HTTP/1.1" 400 217627
+2026-11-03T05:27:06+00:00 server05 dhcpcd[1947]: failed to start
+192.168.1.47 - - [Dec 04 12:09:28] "POST /api/users HTTP/1.1" 404 315613
+2024/06/20 13:16:09 [WARN] web: rate limit exceeded for IP 192.168.1.41
+2026-02-01T12:52:22+00:00 server05 sshd[8608]: stopped
+192.168.1.24 - - [Sep 14 13:12:03] "DELETE /css/style.css HTTP/1.1" 503 476931
+2025-12-25T22:48:57+00:00 server01 sshd[8800]: failed to start
+2026/07/03 04:01:26 [DEBUG] cache: cache miss for key product:*
+2025/05/05 13:33:52 [ERROR] web: cache miss for key session:*
+CUSTOM-LOG: 2026-03-20T04:35:11+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+May 13 22:10:52 server01 postfix/smtpd[5752]: 493E8BD3E2: client=192.168.1.9
+192.168.1.37 - - [Apr 02 17:28:51] "GET /images/logo.png HTTP/1.1" 400 156433
+192.168.1.30 - - [Aug 26 17:32:36] "GET /api/users HTTP/1.1" 502 260614
+2024/12/25 09:40:48 [DEBUG] scheduler: query executed in 1005ms
+192.168.1.11 - - [Sep 12 05:44:12] "DELETE /checkout HTTP/1.1" 301 358492
+192.168.1.12 - - [Apr 06 20:37:24] "GET /search HTTP/1.1" 503 461350
+2024/05/18 10:39:15 [ERROR] auth: request timed out
+2025-05-22T04:25:40+00:00 server01 systemd[1861]: configuration reloaded
+2025/11/24 10:03:44 [WARN] db: request timed out
+192.168.1.3 - - [Oct 28 11:04:59] "POST /index.html HTTP/1.1" 502 327676
+CUSTOM-LOG: 2025-02-26T16:30:23+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2024-06-02T16:04:12+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.24 - - [May 11 16:13:02] "GET /js/app.js HTTP/1.1" 500 330357
+192.168.1.3 - - [Jun 12 03:44:49] "GET /index.html HTTP/1.1" 503 48889
+2026-06-23T05:15:09+00:00 server01 NetworkManager[4311]: failed to start
+2025-03-19T13:36:51+00:00 server05 kernel[2475]: failed to start
+Jul 22 12:51:41 server01 postfix/smtpd[6218]: 9F427C2771: client=192.168.1.17
+CUSTOM-LOG: 2025-06-18T02:43:22+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+192.168.1.1 - - [May 24 05:05:03] "POST /index.html HTTP/1.1" 200 150166
+2025/03/27 22:08:59 [DEBUG] auth: request timed out
+Mar 07 10:44:39 server01 postfix/smtpd[6871]: F883256EBF: client=192.168.1.45
+2025-07-17T04:37:36+00:00 server05 sshd[8762]: configuration reloaded
+2026/04/02 11:49:57 [INFO] db: user session created
+192.168.1.32 - - [Jun 27 04:44:27] "PUT /search HTTP/1.1" 502 276423
+192.168.1.6 - - [Feb 20 04:56:17] "PUT /css/style.css HTTP/1.1" 500 87110
+Apr 02 05:00:00 server01 postfix/smtpd[1107]: 57BD3E7B4C: client=192.168.1.32
+192.168.1.25 - - [May 05 06:29:39] "GET /search HTTP/1.1" 502 290923
+2025-07-23T21:34:31+00:00 server04 systemd[7979]: stopped
+2026/05/15 07:49:30 [WARN] cache: connection pool exhausted
+Feb 27 18:33:37 server01 postfix/smtpd[9004]: 335308522B: client=192.168.1.33
+2025/12/18 23:42:21 [WARN] web: connection pool exhausted
+Jun 11 03:23:17 server01 postfix/smtpd[7761]: 9C71F00538: client=192.168.1.40
+192.168.1.20 - - [Mar 23 18:44:25] "GET /cart HTTP/1.1" 404 377963
+Nov 27 16:07:52 server01 postfix/smtpd[6763]: DDE9FE337E: client=192.168.1.39
+2026/07/12 11:24:49 [WARN] api: query executed in 3135ms
+Jan 05 15:36:28 server01 postfix/smtpd[2249]: 62D81901CF: client=192.168.1.41
+192.168.1.37 - - [Jul 17 04:20:34] "DELETE /js/app.js HTTP/1.1" 404 214561
+2024/04/01 09:09:12 [WARN] auth: connection pool exhausted
+Sep 02 14:48:13 server01 postfix/smtpd[8440]: A31E2F3BB9: client=192.168.1.36
+192.168.1.50 - - [Mar 20 00:06:18] "DELETE /images/logo.png HTTP/1.1" 200 32297
+Mar 03 11:11:09 server01 postfix/smtpd[7108]: 7BB8ACAEAC: client=192.168.1.36
+CUSTOM-LOG: 2026-03-04T20:39:18+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+2025-04-26T02:06:02+00:00 server03 NetworkManager[603]: error on connection
+CUSTOM-LOG: 2024-06-19T02:28:39+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026/07/12 23:51:53 [DEBUG] auth: user session created
+2025-02-01T06:49:17+00:00 server01 systemd[4887]: started
+CUSTOM-LOG: 2025-06-15T17:46:05+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+Oct 07 15:29:48 server01 postfix/smtpd[4629]: 94B4231930: client=192.168.1.49
+2024/02/09 19:04:41 [ERROR] worker: query executed in 1893ms
+CUSTOM-LOG: 2024-11-15T08:49:39+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+2026/02/27 20:53:34 [INFO] db: query executed in 2632ms
+2025/04/23 17:13:07 [WARN] scheduler: query executed in 852ms
+2025/04/28 01:25:18 [WARN] api: connection pool exhausted
+CUSTOM-LOG: 2024-12-16T13:42:44+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+May 13 05:21:55 server01 postfix/smtpd[1478]: C31F519B2D: client=192.168.1.21
+2026/06/15 18:21:55 [INFO] db: user session created
+Apr 27 08:03:04 server01 postfix/smtpd[9676]: 554BD61D92: client=192.168.1.4
+2025-12-28T04:11:37+00:00 server01 dhcpcd[8501]: stopped
+192.168.1.10 - - [Dec 06 03:02:00] "DELETE /checkout HTTP/1.1" 403 303825
+2025/07/17 16:53:31 [ERROR] auth: connection pool exhausted
+Jan 16 16:38:43 server01 postfix/smtpd[5242]: 35A64F8D3B: client=192.168.1.24
+192.168.1.47 - - [Dec 02 19:55:26] "POST /images/logo.png HTTP/1.1" 301 417516
+2024-06-16T15:43:27+00:00 server04 dhcpcd[6199]: configuration reloaded
+192.168.1.15 - - [Jan 24 00:14:58] "POST /api/users HTTP/1.1" 503 301116
+192.168.1.28 - - [Jan 20 14:46:22] "POST /css/style.css HTTP/1.1" 200 451942
+192.168.1.28 - - [Oct 12 07:29:20] "GET /css/style.css HTTP/1.1" 502 29048
+192.168.1.24 - - [Nov 09 02:21:59] "PUT /cart HTTP/1.1" 301 438411
+192.168.1.14 - - [May 25 00:16:33] "GET /api/users HTTP/1.1" 500 359873
+CUSTOM-LOG: 2026-09-06T05:19:10+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2024/09/21 10:51:40 [DEBUG] scheduler: user session created
+2025/03/14 05:04:39 [WARN] worker: authentication failed for user bob
+Oct 12 20:07:51 server01 postfix/smtpd[7779]: E3F3D68EA5: client=192.168.1.22
+Apr 16 20:29:45 server01 postfix/smtpd[6554]: 2CDAA7CC39: client=192.168.1.48
+Feb 02 15:06:55 server01 postfix/smtpd[3027]: 7A9FB0FB13: client=192.168.1.25
+2025/11/05 13:12:24 [WARN] api: request timed out
+192.168.1.1 - - [Jun 28 06:37:23] "PUT /css/style.css HTTP/1.1" 302 302029
+192.168.1.5 - - [Jun 20 09:18:29] "DELETE /cart HTTP/1.1" 304 123910
+CUSTOM-LOG: 2026-05-14T17:01:34+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+192.168.1.42 - - [Jul 27 22:15:04] "DELETE /search HTTP/1.1" 404 136319
+CUSTOM-LOG: 2024-06-25T13:52:04+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2025-02-10T18:26:06+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+Apr 09 19:33:57 server01 postfix/smtpd[6383]: DCD3603D22: client=192.168.1.48
+192.168.1.28 - - [Feb 27 21:46:12] "DELETE /api/users HTTP/1.1" 400 164492
+2026/04/17 03:16:10 [INFO] cache: request timed out
+Apr 19 08:01:13 server01 postfix/smtpd[2951]: 2081C8D3DB: client=192.168.1.8
+192.168.1.1 - - [Jan 07 10:25:46] "PUT /login HTTP/1.1" 400 455339
+2025/07/05 17:49:50 [INFO] worker: request timed out
+192.168.1.49 - - [Jan 23 01:00:50] "GET /index.html HTTP/1.1" 304 194867
+192.168.1.29 - - [May 12 11:34:24] "POST /checkout HTTP/1.1" 403 6933
+192.168.1.21 - - [Oct 03 22:25:40] "POST /js/app.js HTTP/1.1" 502 237414
+192.168.1.36 - - [May 28 09:38:28] "PUT /api/users HTTP/1.1" 404 46962
+192.168.1.21 - - [Sep 21 15:39:56] "PUT /cart HTTP/1.1" 403 433158
+2026/01/23 19:29:42 [WARN] cache: rate limit exceeded for IP 192.168.1.39
+2025-09-20T20:22:30+00:00 server04 kernel[5154]: started
+Apr 03 20:49:43 server01 postfix/smtpd[7246]: 2A37B66948: client=192.168.1.21
+Jun 13 00:31:36 server01 postfix/smtpd[3304]: 7C8A72E7BB: client=192.168.1.19
+192.168.1.33 - - [Oct 18 08:39:51] "GET /images/logo.png HTTP/1.1" 401 36085
+2025-04-28T16:07:07+00:00 server04 sshd[1467]: error on connection
+CUSTOM-LOG: 2026-12-28T20:47:22+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+192.168.1.11 - - [Jul 02 21:52:28] "POST /images/logo.png HTTP/1.1" 404 115920
+192.168.1.40 - - [Feb 28 09:24:36] "POST /cart HTTP/1.1" 302 449291
+CUSTOM-LOG: 2024-05-16T13:56:36+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2025-12-25T03:37:30+00:00 server03 cron[1948]: stopped
+2025-09-19T22:37:20+00:00 server05 NetworkManager[7296]: failed to start
+192.168.1.49 - - [Jun 13 03:26:35] "POST /images/logo.png HTTP/1.1" 401 247806
+2025/12/08 02:25:09 [DEBUG] web: request timed out
+2025/12/28 19:52:07 [WARN] db: connection pool exhausted
+2025/08/14 12:14:28 [ERROR] auth: request timed out
+Nov 26 23:02:02 server01 postfix/smtpd[1007]: 77CCB96328: client=192.168.1.23
+2024/01/25 03:03:24 [DEBUG] worker: authentication failed for user alice
+192.168.1.41 - - [Aug 26 04:06:26] "DELETE /index.html HTTP/1.1" 404 215138
+2024/12/05 10:19:41 [WARN] auth: rate limit exceeded for IP 192.168.1.10
+2025/06/08 08:20:48 [INFO] auth: connection pool exhausted
+2026-12-16T11:10:59+00:00 server02 sshd[6914]: started
+2024-05-14T09:54:25+00:00 server01 kernel[1650]: started
+192.168.1.42 - - [Dec 22 16:01:43] "DELETE /cart HTTP/1.1" 500 499386
+2025-06-15T22:11:37+00:00 server03 sshd[478]: started
+Mar 15 16:06:31 server01 postfix/smtpd[3585]: 2C5FF7FF43: client=192.168.1.36
+192.168.1.33 - - [Oct 13 19:17:22] "GET /index.html HTTP/1.1" 304 107978
+2026-09-01T01:57:39+00:00 server05 NetworkManager[7132]: configuration reloaded
+2026/05/26 18:42:48 [DEBUG] db: query executed in 1959ms
+192.168.1.2 - - [Aug 16 16:14:53] "POST /images/logo.png HTTP/1.1" 404 195684
+2026-10-11T07:51:02+00:00 server04 NetworkManager[2225]: failed to start
+2025/12/13 04:23:09 [DEBUG] worker: connection pool exhausted
+Apr 11 02:28:23 server01 postfix/smtpd[6892]: 1E71BBA866: client=192.168.1.45
+2025-01-03T12:56:11+00:00 server04 kernel[2196]: stopped
+192.168.1.40 - - [Oct 28 11:27:51] "POST /images/logo.png HTTP/1.1" 301 47864
+192.168.1.37 - - [Jun 19 22:09:17] "POST /login HTTP/1.1" 302 216631
+2024/03/05 14:07:29 [DEBUG] web: query executed in 4095ms
+2026-11-21T17:13:24+00:00 server02 kernel[6744]: configuration reloaded
+192.168.1.50 - - [Sep 28 17:33:31] "PUT /cart HTTP/1.1" 401 471526
+Feb 05 02:45:13 server01 postfix/smtpd[6484]: C02930EB89: client=192.168.1.47
+192.168.1.30 - - [Jun 22 23:14:45] "POST /js/app.js HTTP/1.1" 500 135964
+192.168.1.9 - - [Jul 10 16:59:38] "POST /cart HTTP/1.1" 200 89249
+May 19 22:06:24 server01 postfix/smtpd[1005]: 06D2EBC94E: client=192.168.1.45
+Apr 20 12:08:08 server01 postfix/smtpd[6158]: 8648CDB9F9: client=192.168.1.8
+CUSTOM-LOG: 2026-12-07T04:30:34+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+CUSTOM-LOG: 2025-02-27T00:02:48+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+2024/08/03 09:02:23 [INFO] db: rate limit exceeded for IP 192.168.1.28
+192.168.1.45 - - [Jun 14 11:33:02] "POST /checkout HTTP/1.1" 404 431741
+CUSTOM-LOG: 2025-03-26T06:19:25+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2026-05-18T07:31:12+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+Jan 14 18:37:25 server01 postfix/smtpd[1291]: E5D2FB2B4E: client=192.168.1.10
+2024-12-18T06:26:00+00:00 server02 sshd[1435]: configuration reloaded
+2026/09/19 17:05:57 [WARN] auth: user session created
+2025/11/12 03:57:14 [WARN] web: user session created
+CUSTOM-LOG: 2026-04-27T10:06:20+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2026/02/01 09:43:33 [ERROR] api: request timed out
+2025/01/20 06:50:13 [ERROR] api: query executed in 2881ms
+Apr 26 23:59:52 server01 postfix/smtpd[5421]: 236562B916: client=192.168.1.44
+CUSTOM-LOG: 2025-03-15T23:52:54+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2025/03/19 06:42:25 [WARN] worker: cache miss for key user:*
+192.168.1.47 - - [Apr 02 15:30:15] "DELETE /login HTTP/1.1" 400 23244
+2024/10/15 10:19:34 [DEBUG] cache: rate limit exceeded for IP 192.168.1.34
+CUSTOM-LOG: 2025-07-03T23:57:20+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+May 11 14:15:49 server01 postfix/smtpd[2219]: CB35DE480F: client=192.168.1.36
+192.168.1.41 - - [Jan 14 18:38:50] "GET /search HTTP/1.1" 502 452058
+2026/10/24 17:48:04 [WARN] auth: connection pool exhausted
+2025-11-15T10:49:29+00:00 server02 NetworkManager[6684]: started
+Apr 21 07:18:16 server01 postfix/smtpd[5438]: 32261DE32E: client=192.168.1.8
+2024/07/25 09:33:01 [DEBUG] web: query executed in 2186ms
+2024-05-08T09:15:27+00:00 server01 sshd[2108]: started
+2024/10/15 11:40:00 [WARN] cache: authentication failed for user bob
+Dec 04 07:29:31 server01 postfix/smtpd[3857]: 827B19C98A: client=192.168.1.24
+192.168.1.30 - - [May 22 22:05:15] "POST /js/app.js HTTP/1.1" 400 151759
+192.168.1.20 - - [Dec 27 05:02:47] "DELETE /js/app.js HTTP/1.1" 503 145819
+2025/01/02 14:53:32 [INFO] scheduler: rate limit exceeded for IP 192.168.1.11
+192.168.1.16 - - [Oct 13 19:20:01] "PUT /cart HTTP/1.1" 404 301581
+2025-04-24T17:41:15+00:00 server01 dhcpcd[8350]: failed to start
+2024-08-19T00:07:13+00:00 server02 dhcpcd[3873]: stopped
+2024/09/22 12:02:12 [DEBUG] cache: rate limit exceeded for IP 192.168.1.3
+192.168.1.16 - - [May 16 15:28:01] "POST /images/logo.png HTTP/1.1" 500 56902
+192.168.1.31 - - [Dec 11 05:00:35] "PUT /checkout HTTP/1.1" 500 372904
+192.168.1.19 - - [Apr 15 05:36:41] "DELETE /index.html HTTP/1.1" 400 165813
+2024-03-21T16:30:53+00:00 server02 systemd[7106]: stopped
+May 26 18:49:18 server01 postfix/smtpd[9842]: E4898E5577: client=192.168.1.3
+2025-09-28T07:34:45+00:00 server03 kernel[7753]: failed to start
+Aug 03 00:04:35 server01 postfix/smtpd[8137]: 101143ECA5: client=192.168.1.26
+2026-05-24T09:13:56+00:00 server01 sshd[7936]: error on connection
+192.168.1.18 - - [Jan 26 23:39:12] "GET /css/style.css HTTP/1.1" 500 137720
+2026/10/17 13:31:29 [INFO] db: cache miss for key product:*
+2026-04-19T22:08:50+00:00 server03 cron[2845]: error on connection
+Nov 19 15:41:15 server01 postfix/smtpd[3227]: 829E87D1B2: client=192.168.1.23
+2026-09-21T03:21:43+00:00 server02 sshd[1033]: started
+Jun 12 17:16:48 server01 postfix/smtpd[6133]: BE12E6353A: client=192.168.1.20
+2024-03-27T22:15:06+00:00 server05 kernel[8140]: stopped
+2024/04/12 17:56:31 [INFO] auth: authentication failed for user admin
+192.168.1.29 - - [Oct 12 17:17:23] "GET /css/style.css HTTP/1.1" 400 158940
+192.168.1.23 - - [Jul 14 00:06:07] "GET /index.html HTTP/1.1" 401 448027
+2025-10-09T11:09:23+00:00 server05 cron[6573]: failed to start
+192.168.1.19 - - [Jul 15 06:28:49] "POST /checkout HTTP/1.1" 304 488647
+2025-08-19T18:08:22+00:00 server03 cron[2281]: error on connection
+Feb 06 11:03:00 server01 postfix/smtpd[8344]: 3407A47BCF: client=192.168.1.24
+2024-03-04T08:52:01+00:00 server04 NetworkManager[8530]: failed to start
+CUSTOM-LOG: 2025-02-10T13:46:04+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+192.168.1.15 - - [Aug 10 15:38:38] "GET /js/app.js HTTP/1.1" 404 15229
+Dec 08 12:53:35 server01 postfix/smtpd[6437]: 6690DC1000: client=192.168.1.22
+2025-01-25T04:31:29+00:00 server02 systemd[379]: started
+192.168.1.29 - - [Apr 22 09:14:45] "DELETE /images/logo.png HTTP/1.1" 500 314648
+192.168.1.50 - - [Sep 16 00:54:05] "DELETE /api/users HTTP/1.1" 500 151635
+192.168.1.9 - - [Sep 27 04:24:46] "POST /products HTTP/1.1" 304 407387
+2026/10/20 20:07:40 [DEBUG] db: authentication failed for user admin
+Dec 01 13:39:14 server01 postfix/smtpd[7696]: B4B4A53DE1: client=192.168.1.19
+2025-12-18T11:28:58+00:00 server02 systemd[9176]: error on connection
+2025/04/11 01:12:38 [ERROR] auth: user session created
+2024-05-24T14:16:57+00:00 server02 cron[9365]: started
+2026-04-09T07:08:33+00:00 server02 NetworkManager[954]: stopped
+2024-02-14T19:26:27+00:00 server04 cron[9362]: failed to start
+192.168.1.42 - - [May 28 04:11:46] "POST /api/users HTTP/1.1" 403 349210
+2025-06-09T22:48:01+00:00 server04 systemd[7901]: started
+2024-08-07T03:32:31+00:00 server02 cron[1475]: failed to start
+192.168.1.35 - - [Mar 13 22:06:47] "PUT /css/style.css HTTP/1.1" 502 37971
+2024/11/10 06:00:44 [ERROR] worker: cache miss for key product:*
+CUSTOM-LOG: 2026-05-15T22:25:05+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+CUSTOM-LOG: 2025-08-04T01:47:21+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+2026-11-15T19:02:06+00:00 server01 kernel[4550]: error on connection
+2025/02/04 16:45:33 [INFO] web: authentication failed for user alice
+2025-08-03T17:45:53+00:00 server03 sshd[3922]: error on connection
+192.168.1.39 - - [Nov 08 00:22:26] "POST /images/logo.png HTTP/1.1" 404 499587
+2026-12-03T10:07:16+00:00 server02 kernel[3575]: stopped
+2024/09/02 23:17:10 [ERROR] cache: query executed in 2152ms
+Sep 07 02:49:49 server01 postfix/smtpd[1454]: F33B0FDEE9: client=192.168.1.25
+192.168.1.45 - - [Apr 02 00:14:15] "PUT /js/app.js HTTP/1.1" 200 240608
+2024/01/03 20:56:41 [DEBUG] auth: request timed out
+192.168.1.33 - - [Apr 22 04:22:53] "DELETE /index.html HTTP/1.1" 401 463688
+Aug 16 22:26:17 server01 postfix/smtpd[2653]: 1435E8A0D6: client=192.168.1.20
+192.168.1.37 - - [Jun 16 20:37:36] "PUT /search HTTP/1.1" 200 14063
+CUSTOM-LOG: 2025-01-01T02:04:14+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+Jan 08 01:43:24 server01 postfix/smtpd[6372]: 438BA66E99: client=192.168.1.3
+2024-11-02T04:49:56+00:00 server04 dhcpcd[2299]: error on connection
+2025/10/14 19:19:16 [INFO] api: query executed in 4366ms
+Nov 28 14:09:38 server01 postfix/smtpd[2735]: 1E2962A18A: client=192.168.1.21
+CUSTOM-LOG: 2025-12-25T03:26:22+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+2026/08/17 00:24:41 [WARN] web: user session created
+2024/04/23 01:40:42 [INFO] auth: query executed in 413ms
+192.168.1.45 - - [Jan 27 21:22:40] "POST /js/app.js HTTP/1.1" 200 428945
+192.168.1.17 - - [Jun 09 19:28:43] "PUT /index.html HTTP/1.1" 401 363396
+Oct 20 19:45:03 server01 postfix/smtpd[6617]: 56F8939485: client=192.168.1.15
+2026-02-23T01:34:52+00:00 server05 kernel[7901]: stopped
+2025-10-17T10:32:37+00:00 server01 dhcpcd[3968]: stopped
+192.168.1.14 - - [May 11 20:10:13] "PUT /checkout HTTP/1.1" 502 172023
+192.168.1.49 - - [Jan 11 11:12:25] "POST /css/style.css HTTP/1.1" 301 420096
+2026-09-19T11:25:16+00:00 server05 cron[7910]: started
+Sep 03 09:43:41 server01 postfix/smtpd[8806]: 449062352E: client=192.168.1.13
+Apr 09 02:22:02 server01 postfix/smtpd[6605]: 256CF461C5: client=192.168.1.33
+192.168.1.3 - - [Feb 22 01:22:35] "GET /js/app.js HTTP/1.1" 401 4759
+Sep 24 18:36:41 server01 postfix/smtpd[5105]: 5E78FF38A9: client=192.168.1.48
+2025-11-28T01:51:51+00:00 server02 kernel[8105]: failed to start
+2025/03/25 01:52:59 [WARN] api: request timed out
+2024-02-08T21:50:45+00:00 server02 kernel[7903]: configuration reloaded
+CUSTOM-LOG: 2026-05-13T03:31:58+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2025/04/20 08:38:11 [INFO] auth: query executed in 1417ms
+Sep 23 18:50:56 server01 postfix/smtpd[7186]: 2BF5858983: client=192.168.1.6
+2026-11-19T18:41:35+00:00 server01 sshd[1279]: configuration reloaded
+2024/02/28 10:06:33 [DEBUG] cache: user session created
+192.168.1.1 - - [Jan 11 12:47:33] "PUT /images/logo.png HTTP/1.1" 403 407335
+2024-11-22T13:53:31+00:00 server05 kernel[1151]: failed to start
+CUSTOM-LOG: 2025-01-26T00:11:55+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+192.168.1.26 - - [May 12 08:33:24] "GET /images/logo.png HTTP/1.1" 301 355651
+2024/06/01 23:23:14 [DEBUG] api: cache miss for key user:*
+Sep 11 05:58:28 server01 postfix/smtpd[6687]: 7F77CB5139: client=192.168.1.38
+2025-01-10T19:32:34+00:00 server04 sshd[1791]: started
+2024-05-21T09:17:42+00:00 server01 cron[5747]: configuration reloaded
+2026-12-08T17:45:40+00:00 server05 systemd[7302]: started
+2026-10-10T05:10:46+00:00 server05 NetworkManager[8776]: failed to start
+2025/02/25 23:26:12 [WARN] scheduler: cache miss for key user:*
+2026-09-11T21:18:47+00:00 server04 systemd[8666]: started
+192.168.1.31 - - [Jan 13 19:31:49] "PUT /api/users HTTP/1.1" 502 170887
+2024-04-21T13:32:38+00:00 server02 systemd[845]: started
+CUSTOM-LOG: 2025-07-17T13:33:28+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+Mar 13 16:06:04 server01 postfix/smtpd[2400]: 839C1A982F: client=192.168.1.38
+2024/10/05 10:29:07 [WARN] cache: user session created
+2026/05/17 01:11:38 [WARN] cache: query executed in 1573ms
+CUSTOM-LOG: 2024-12-10T15:23:11+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+2025-05-20T17:19:11+00:00 server04 dhcpcd[5919]: stopped
+2025-11-09T18:05:36+00:00 server04 dhcpcd[7627]: stopped
+192.168.1.26 - - [May 14 11:11:19] "PUT /css/style.css HTTP/1.1" 503 409581
+CUSTOM-LOG: 2026-04-18T04:38:45+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2026-12-11T13:30:08+00:00 server05 NetworkManager[8849]: configuration reloaded
+CUSTOM-LOG: 2025-08-27T02:58:09+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2026-01-04T14:16:18+00:00 server02 dhcpcd[2743]: failed to start
+2025-06-15T11:18:35+00:00 server03 dhcpcd[9473]: stopped
+192.168.1.20 - - [Feb 22 20:30:13] "GET /index.html HTTP/1.1" 403 386252
+2025-06-08T11:55:31+00:00 server03 sshd[8850]: failed to start
+2024-10-08T01:09:07+00:00 server04 systemd[2733]: stopped
+CUSTOM-LOG: 2026-10-07T21:31:02+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+Jan 03 10:36:32 server01 postfix/smtpd[5087]: 37B217C5FE: client=192.168.1.14
+CUSTOM-LOG: 2024-12-13T12:27:06+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+CUSTOM-LOG: 2026-04-23T16:29:54+00:00 LEVEL=WARN MODULE=payment MSG=processing failed
+2026/09/11 01:26:32 [DEBUG] scheduler: authentication failed for user admin
+CUSTOM-LOG: 2025-06-17T01:25:44+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+192.168.1.41 - - [Feb 05 13:35:42] "PUT /index.html HTTP/1.1" 400 199223
+192.168.1.27 - - [Feb 25 11:46:19] "GET /products HTTP/1.1" 400 364980
+Oct 07 22:15:35 server01 postfix/smtpd[8963]: F5E2925E9D: client=192.168.1.14
+2026-05-17T07:58:25+00:00 server04 NetworkManager[3809]: stopped
+Sep 09 21:15:19 server01 postfix/smtpd[1541]: B0B2E38D00: client=192.168.1.14
+2024-11-20T22:54:12+00:00 server04 kernel[7128]: error on connection
+CUSTOM-LOG: 2026-07-13T19:04:00+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+192.168.1.34 - - [Jan 07 15:17:17] "PUT /login HTTP/1.1" 401 191093
+2026-06-07T20:19:27+00:00 server05 systemd[3431]: started
+2026/01/28 10:37:05 [DEBUG] worker: authentication failed for user alice
+192.168.1.9 - - [Jun 04 04:15:07] "POST /cart HTTP/1.1" 301 434685
+CUSTOM-LOG: 2025-07-02T03:57:47+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+CUSTOM-LOG: 2025-05-23T03:46:42+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+192.168.1.26 - - [May 27 12:57:54] "DELETE /cart HTTP/1.1" 403 12734
+192.168.1.39 - - [Jun 19 19:18:50] "DELETE /index.html HTTP/1.1" 200 205508
+192.168.1.42 - - [May 07 02:41:06] "POST /api/users HTTP/1.1" 200 310575
+192.168.1.16 - - [May 09 12:52:19] "PUT /products HTTP/1.1" 302 329714
+Feb 23 22:08:38 server01 postfix/smtpd[1611]: 41EA1AB557: client=192.168.1.6
+CUSTOM-LOG: 2024-10-06T02:38:24+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2025/04/06 07:44:19 [ERROR] web: connection pool exhausted
+192.168.1.49 - - [Jun 18 19:25:58] "GET /cart HTTP/1.1" 200 198204
+Sep 08 16:49:51 server01 postfix/smtpd[2750]: 1F77D876D7: client=192.168.1.40
+2025-12-23T15:28:41+00:00 server03 cron[2713]: configuration reloaded
+Nov 28 12:16:20 server01 postfix/smtpd[4230]: B4C652EF5E: client=192.168.1.4
+CUSTOM-LOG: 2024-10-18T02:37:15+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+2026-12-28T12:43:33+00:00 server04 kernel[8041]: failed to start
+2026-11-12T11:01:56+00:00 server03 sshd[3948]: error on connection
+Feb 28 12:59:39 server01 postfix/smtpd[5565]: 2AE79A0540: client=192.168.1.9
+Jul 24 15:27:05 server01 postfix/smtpd[6488]: 743913D458: client=192.168.1.22
+CUSTOM-LOG: 2024-05-14T09:03:29+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+2025/12/17 23:36:08 [INFO] cache: request timed out
+192.168.1.17 - - [Jun 24 15:35:28] "GET /js/app.js HTTP/1.1" 503 385762
+192.168.1.1 - - [Dec 03 07:41:11] "PUT /js/app.js HTTP/1.1" 301 157205
+2024/10/22 16:12:40 [ERROR] cache: authentication failed for user admin
+2026/08/21 12:28:28 [DEBUG] cache: request timed out
+May 07 07:38:00 server01 postfix/smtpd[6671]: 2E0A12C537: client=192.168.1.30
+192.168.1.30 - - [Nov 24 22:19:46] "PUT /cart HTTP/1.1" 301 95451
+192.168.1.44 - - [Nov 11 06:26:05] "GET /api/users HTTP/1.1" 503 403392
+2026-03-11T21:08:01+00:00 server03 systemd[1135]: started
+2026/09/25 04:45:38 [INFO] cache: authentication failed for user admin
+2025/04/04 06:54:12 [INFO] auth: request timed out
+CUSTOM-LOG: 2026-12-03T00:27:46+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+192.168.1.24 - - [Jan 27 20:46:38] "PUT /search HTTP/1.1" 500 279997
+2026-09-23T09:30:07+00:00 server01 systemd[3242]: started
+2026-05-27T18:47:23+00:00 server02 sshd[3718]: configuration reloaded
+Mar 19 02:44:40 server01 postfix/smtpd[5648]: B3B48A7C24: client=192.168.1.8
+2024-04-04T20:41:11+00:00 server01 systemd[2792]: error on connection
+2025-09-04T10:51:36+00:00 server02 kernel[3628]: configuration reloaded
+CUSTOM-LOG: 2025-08-22T20:36:06+00:00 LEVEL=ERROR MODULE=shipping MSG=processing failed
+2025/07/21 21:08:34 [ERROR] web: request timed out
+2026/01/05 21:19:22 [INFO] auth: user session created
+192.168.1.6 - - [Aug 26 07:08:36] "GET /login HTTP/1.1" 304 457955
+Jul 17 03:37:51 server01 postfix/smtpd[9828]: F119CB1808: client=192.168.1.6
+2026-06-04T06:43:37+00:00 server05 dhcpcd[2013]: stopped
+192.168.1.16 - - [Dec 23 03:23:30] "POST /api/users HTTP/1.1" 302 149625
+CUSTOM-LOG: 2024-04-26T04:55:19+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+Jul 08 04:10:27 server01 postfix/smtpd[4541]: A31DEC7361: client=192.168.1.36
+2025/01/27 02:49:27 [ERROR] auth: authentication failed for user alice
+2026-09-21T07:23:54+00:00 server03 sshd[8457]: configuration reloaded
+2026-10-14T08:40:49+00:00 server02 systemd[7112]: configuration reloaded
+CUSTOM-LOG: 2024-06-21T03:03:23+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+2026-05-21T14:46:27+00:00 server01 dhcpcd[1541]: failed to start
+Sep 07 21:50:45 server01 postfix/smtpd[2490]: 0CBD623C98: client=192.168.1.47
+2025/10/13 13:39:03 [DEBUG] db: cache miss for key product:*
+2026/07/16 20:10:21 [ERROR] web: request timed out
+192.168.1.5 - - [Mar 03 04:12:12] "GET /login HTTP/1.1" 400 483608
+2025/10/06 07:55:07 [WARN] worker: query executed in 1163ms
+2025/03/22 12:27:10 [ERROR] cache: rate limit exceeded for IP 192.168.1.29
+May 02 14:13:58 server01 postfix/smtpd[7935]: 9604D01A0B: client=192.168.1.48
+CUSTOM-LOG: 2025-08-19T18:35:58+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025-05-08T13:41:51+00:00 server03 kernel[7066]: configuration reloaded
+192.168.1.48 - - [Feb 07 00:39:21] "GET /images/logo.png HTTP/1.1" 502 105215
+2024/03/15 12:02:21 [INFO] db: request timed out
+2026-03-07T15:43:16+00:00 server04 sshd[7496]: configuration reloaded
+2025/01/16 12:54:04 [DEBUG] web: cache miss for key product:*
+Nov 12 21:23:07 server01 postfix/smtpd[4429]: 4F038D4861: client=192.168.1.31
+Mar 19 14:08:18 server01 postfix/smtpd[4518]: 18AAA33246: client=192.168.1.38
+2024/03/17 08:34:24 [ERROR] web: query executed in 806ms
+192.168.1.48 - - [Aug 25 00:37:32] "DELETE /cart HTTP/1.1" 301 90916
+Aug 03 05:06:10 server01 postfix/smtpd[2972]: 9CEA248D74: client=192.168.1.43
+2026-05-05T17:39:45+00:00 server01 cron[8791]: error on connection
+192.168.1.4 - - [Jan 10 09:35:37] "DELETE /css/style.css HTTP/1.1" 304 64428
+2024-02-08T18:05:11+00:00 server01 NetworkManager[2815]: failed to start
+2026-04-17T04:45:07+00:00 server05 kernel[4021]: stopped
+2024-07-24T18:41:33+00:00 server01 NetworkManager[828]: stopped
+2026/03/26 13:34:32 [DEBUG] worker: rate limit exceeded for IP 192.168.1.14
+192.168.1.48 - - [May 21 23:37:52] "DELETE /login HTTP/1.1" 304 165196
+Feb 17 19:39:43 server01 postfix/smtpd[2045]: 52F9E34F42: client=192.168.1.9
+2026-02-22T06:09:31+00:00 server03 NetworkManager[3632]: error on connection
+Nov 13 05:22:35 server01 postfix/smtpd[7342]: F13753160C: client=192.168.1.33
+Sep 20 10:41:17 server01 postfix/smtpd[8322]: F824E74710: client=192.168.1.50
+2026/06/21 08:39:17 [DEBUG] worker: authentication failed for user alice
+2024/05/19 19:02:57 [INFO] db: request timed out
+Nov 11 16:50:54 server01 postfix/smtpd[2986]: 08CCE20400: client=192.168.1.43
+2026-12-05T20:50:02+00:00 server05 cron[6604]: configuration reloaded
+2026/11/04 02:18:40 [ERROR] worker: rate limit exceeded for IP 192.168.1.5
+2024-01-21T23:34:46+00:00 server03 sshd[509]: error on connection
+Sep 02 11:04:41 server01 postfix/smtpd[8086]: C538D60726: client=192.168.1.8
+CUSTOM-LOG: 2026-10-01T20:13:17+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+192.168.1.39 - - [Feb 17 02:05:52] "DELETE /api/users HTTP/1.1" 304 473173
+192.168.1.35 - - [May 23 00:35:50] "DELETE /index.html HTTP/1.1" 502 318254
+192.168.1.16 - - [Sep 16 17:52:16] "GET /images/logo.png HTTP/1.1" 400 47617
+192.168.1.24 - - [Jun 03 08:10:35] "DELETE /js/app.js HTTP/1.1" 404 214132
+2025/07/23 10:08:40 [DEBUG] db: cache miss for key user:*
+CUSTOM-LOG: 2025-12-27T22:44:25+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+2026-01-03T15:45:49+00:00 server04 cron[2113]: configuration reloaded
+2025-08-05T03:15:16+00:00 server02 systemd[9384]: failed to start
+CUSTOM-LOG: 2026-10-03T15:19:12+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2024-07-18T09:16:11+00:00 server03 systemd[7391]: failed to start
+CUSTOM-LOG: 2025-02-10T10:42:36+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2026-10-03T14:38:56+00:00 server02 NetworkManager[5656]: error on connection
+2024-09-17T21:19:17+00:00 server01 NetworkManager[6631]: stopped
+CUSTOM-LOG: 2024-06-17T10:45:58+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+192.168.1.21 - - [May 21 03:30:15] "PUT /index.html HTTP/1.1" 302 345901
+192.168.1.50 - - [Nov 03 16:29:50] "GET /api/users HTTP/1.1" 302 120100
+192.168.1.34 - - [Apr 13 23:29:44] "DELETE /search HTTP/1.1" 304 273804
+2026-05-08T12:20:09+00:00 server05 sshd[5706]: stopped
+2026/01/23 00:18:47 [ERROR] api: cache miss for key session:*
+2026/03/15 17:01:54 [DEBUG] worker: connection pool exhausted
+192.168.1.22 - - [Aug 15 12:33:43] "GET /css/style.css HTTP/1.1" 304 429411
+192.168.1.35 - - [Jul 28 16:50:49] "POST /index.html HTTP/1.1" 403 121242
+Aug 09 00:08:39 server01 postfix/smtpd[7528]: 660F533346: client=192.168.1.44
+2026/09/01 06:09:33 [WARN] cache: user session created
+2025/11/18 16:48:58 [ERROR] api: request timed out
+Jun 16 16:56:01 server01 postfix/smtpd[1768]: C87D072EAB: client=192.168.1.13
+192.168.1.49 - - [Aug 22 13:56:24] "GET /products HTTP/1.1" 401 370288
+192.168.1.5 - - [Feb 03 16:07:21] "PUT /login HTTP/1.1" 502 119711
+Mar 25 10:30:18 server01 postfix/smtpd[7617]: 238C4FB644: client=192.168.1.27
+2025-06-14T22:48:55+00:00 server05 dhcpcd[7265]: error on connection
+2026-06-11T02:26:34+00:00 server04 cron[169]: configuration reloaded
+2026/11/07 17:05:08 [DEBUG] scheduler: query executed in 3689ms
+2024-06-11T16:25:41+00:00 server01 NetworkManager[5999]: error on connection
+Oct 21 17:48:58 server01 postfix/smtpd[1568]: 4FCCFDF287: client=192.168.1.32
+CUSTOM-LOG: 2024-06-12T00:48:31+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2025-10-21T00:55:44+00:00 server03 cron[1152]: stopped
+2024-07-25T15:07:23+00:00 server05 systemd[299]: error on connection
+2025/03/01 21:58:44 [DEBUG] auth: query executed in 422ms
+2025/05/25 04:41:00 [DEBUG] cache: query executed in 763ms
+2025-03-07T16:00:08+00:00 server05 dhcpcd[480]: stopped
+2025-10-01T18:46:51+00:00 server02 NetworkManager[1561]: stopped
+Mar 04 04:52:14 server01 postfix/smtpd[1193]: A60607E7E4: client=192.168.1.32
+2025/01/23 05:32:58 [DEBUG] worker: authentication failed for user admin
+Aug 22 16:43:25 server01 postfix/smtpd[1604]: 6F44B62412: client=192.168.1.14
+CUSTOM-LOG: 2025-11-26T05:22:54+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+CUSTOM-LOG: 2025-09-09T11:56:42+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+192.168.1.37 - - [Oct 23 15:10:42] "PUT /checkout HTTP/1.1" 500 130831
+192.168.1.37 - - [Oct 04 06:04:45] "POST /login HTTP/1.1" 500 137196
+2026/05/20 19:20:23 [WARN] scheduler: query executed in 3598ms
+2025-09-24T12:24:41+00:00 server05 sshd[6616]: failed to start
+2026-09-15T00:23:59+00:00 server05 NetworkManager[5600]: stopped
+2024/01/23 05:56:10 [ERROR] db: authentication failed for user admin
+2025/10/21 20:06:54 [ERROR] web: cache miss for key session:*
+2026/05/10 03:12:46 [DEBUG] worker: user session created
+2025-05-18T13:14:30+00:00 server04 NetworkManager[4441]: configuration reloaded
+2024/12/12 19:40:45 [ERROR] cache: authentication failed for user alice
+Mar 05 06:19:01 server01 postfix/smtpd[2510]: 266AD2C77F: client=192.168.1.43
+Dec 12 18:38:29 server01 postfix/smtpd[7038]: DE13B30FFF: client=192.168.1.12
+192.168.1.31 - - [Jan 26 21:28:00] "DELETE /search HTTP/1.1" 200 478367
+2026-03-05T10:44:51+00:00 server04 kernel[4895]: stopped
+2025/05/27 04:25:50 [ERROR] auth: query executed in 2344ms
+2025/05/27 02:44:26 [DEBUG] worker: request timed out
+2024/04/19 18:56:44 [ERROR] cache: authentication failed for user bob
+Oct 12 03:20:01 server01 postfix/smtpd[8147]: 0538F3696A: client=192.168.1.16
+192.168.1.8 - - [Jun 16 03:05:30] "DELETE /api/users HTTP/1.1" 400 79571
+Dec 10 03:09:11 server01 postfix/smtpd[1891]: C439661287: client=192.168.1.8
+192.168.1.36 - - [May 12 09:13:48] "GET /checkout HTTP/1.1" 400 11794
+2026/03/19 21:32:37 [WARN] api: cache miss for key session:*
+Jan 14 09:02:59 server01 postfix/smtpd[1784]: 26F4AB5C5B: client=192.168.1.11
+2025/04/05 16:22:35 [DEBUG] scheduler: rate limit exceeded for IP 192.168.1.39
+2025/02/13 23:00:45 [WARN] api: authentication failed for user alice
+192.168.1.7 - - [Oct 14 10:18:43] "POST /js/app.js HTTP/1.1" 400 159937
+2026/03/13 10:16:48 [ERROR] worker: connection pool exhausted
+192.168.1.43 - - [Oct 19 10:01:41] "GET /js/app.js HTTP/1.1" 301 67523
+2025/06/06 16:00:59 [WARN] web: user session created
+Oct 24 19:06:26 server01 postfix/smtpd[5549]: B965F8CC1C: client=192.168.1.26
+2024/07/14 04:48:30 [DEBUG] worker: user session created
+2026/11/27 20:14:53 [DEBUG] worker: user session created
+192.168.1.26 - - [Mar 14 16:00:59] "DELETE /products HTTP/1.1" 302 412010
+2026/05/24 15:52:38 [INFO] db: authentication failed for user bob
+2025-11-02T21:57:28+00:00 server01 dhcpcd[6332]: failed to start
+192.168.1.34 - - [Dec 26 11:18:18] "PUT /products HTTP/1.1" 404 421997
+192.168.1.7 - - [Jun 26 19:30:51] "DELETE /checkout HTTP/1.1" 502 286212
+Jan 09 04:46:58 server01 postfix/smtpd[1295]: 8D6419699D: client=192.168.1.20
+2025-05-16T20:50:56+00:00 server01 dhcpcd[882]: stopped
+2026-09-24T22:27:54+00:00 server03 cron[2869]: configuration reloaded
+2026/09/17 17:49:21 [DEBUG] auth: cache miss for key session:*
+Aug 06 18:29:11 server01 postfix/smtpd[6060]: A057AFF4D0: client=192.168.1.44
+192.168.1.10 - - [Sep 22 18:13:23] "POST /search HTTP/1.1" 304 480667
+2024-06-12T19:10:24+00:00 server01 kernel[7399]: failed to start
+2026/07/08 09:34:36 [ERROR] api: rate limit exceeded for IP 192.168.1.33
+192.168.1.3 - - [Jan 19 00:15:06] "PUT /login HTTP/1.1" 401 406334
+2026/08/25 11:09:38 [ERROR] web: request timed out
+2026-03-08T14:53:06+00:00 server02 systemd[2070]: error on connection
+2026/11/26 05:31:56 [ERROR] scheduler: connection pool exhausted
+2025-04-01T04:03:58+00:00 server02 systemd[4501]: stopped
+2026/06/14 00:52:36 [ERROR] worker: rate limit exceeded for IP 192.168.1.45
+192.168.1.21 - - [Apr 02 19:47:05] "DELETE /images/logo.png HTTP/1.1" 500 29247
+2025-01-28T10:31:34+00:00 server03 sshd[6711]: failed to start
+2025-02-24T20:10:34+00:00 server03 cron[3616]: started
+CUSTOM-LOG: 2025-07-16T05:04:45+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+Apr 24 19:57:33 server01 postfix/smtpd[7515]: CA720927CF: client=192.168.1.6
+2026/12/23 13:02:36 [INFO] db: request timed out
+192.168.1.17 - - [Mar 13 06:58:57] "PUT /index.html HTTP/1.1" 503 223227
+2026/03/13 06:41:35 [DEBUG] cache: user session created
+Oct 17 02:29:52 server01 postfix/smtpd[2873]: 6F7AEBE7EC: client=192.168.1.38
+CUSTOM-LOG: 2025-07-13T13:03:41+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+Aug 03 07:37:19 server01 postfix/smtpd[5218]: 230A4C8C22: client=192.168.1.24
+2026-05-01T16:03:25+00:00 server05 cron[596]: stopped
+2025-07-14T13:21:19+00:00 server04 dhcpcd[8618]: configuration reloaded
+2026/10/06 01:54:05 [ERROR] api: cache miss for key session:*
+2025-10-19T13:14:17+00:00 server02 dhcpcd[3188]: failed to start
+CUSTOM-LOG: 2025-01-27T06:54:36+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+192.168.1.27 - - [Apr 20 08:21:12] "GET /login HTTP/1.1" 503 31017
+192.168.1.49 - - [Jan 07 11:32:10] "DELETE /api/users HTTP/1.1" 502 458627
+2024-12-27T02:14:04+00:00 server04 sshd[2477]: error on connection
+2024-03-16T09:58:47+00:00 server04 dhcpcd[4389]: started
+192.168.1.36 - - [May 14 12:30:44] "GET /images/logo.png HTTP/1.1" 503 207601
+Jun 26 02:29:17 server01 postfix/smtpd[4688]: 93C1819E30: client=192.168.1.48
+CUSTOM-LOG: 2024-07-18T10:02:25+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+2026/06/17 22:43:59 [DEBUG] auth: request timed out
+192.168.1.44 - - [Jun 25 18:17:27] "POST /login HTTP/1.1" 304 90425
+192.168.1.30 - - [Jan 20 21:27:12] "POST /search HTTP/1.1" 500 114359
+Mar 12 17:46:05 server01 postfix/smtpd[1307]: 6E96A37198: client=192.168.1.41
+CUSTOM-LOG: 2026-12-23T15:23:04+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+2026-06-06T18:57:48+00:00 server05 systemd[312]: started
+2025-04-04T07:27:59+00:00 server03 sshd[6902]: started
+2025-08-22T05:10:46+00:00 server01 cron[6155]: error on connection
+192.168.1.20 - - [Aug 09 21:47:33] "DELETE /css/style.css HTTP/1.1" 304 231311
+2026-12-26T12:59:25+00:00 server01 sshd[4411]: started
+192.168.1.48 - - [Aug 15 13:24:50] "GET /js/app.js HTTP/1.1" 500 464871
+2025/04/24 18:33:47 [WARN] worker: query executed in 2019ms
+2026-04-26T07:12:25+00:00 server02 sshd[6824]: stopped
+2024/01/08 12:17:46 [DEBUG] db: cache miss for key product:*
+2026/07/22 05:11:56 [ERROR] api: authentication failed for user bob
+2024-05-16T19:58:54+00:00 server02 cron[978]: started
+192.168.1.29 - - [Apr 09 06:27:33] "PUT /index.html HTTP/1.1" 200 231251
+Sep 14 03:58:58 server01 postfix/smtpd[4797]: B3BA16241A: client=192.168.1.44
+Dec 06 08:28:47 server01 postfix/smtpd[6342]: 3A3A9E5715: client=192.168.1.7
+192.168.1.16 - - [May 10 23:08:58] "POST /cart HTTP/1.1" 301 194353
+2024-08-17T10:45:06+00:00 server02 systemd[9187]: failed to start
+192.168.1.44 - - [Oct 14 00:02:20] "DELETE /checkout HTTP/1.1" 500 435889
+192.168.1.23 - - [Nov 14 13:02:08] "PUT /products HTTP/1.1" 500 326724
+2024/08/06 19:34:13 [INFO] cache: request timed out
+2025-04-02T01:35:14+00:00 server04 cron[176]: failed to start
+CUSTOM-LOG: 2025-11-25T00:09:35+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.48 - - [Oct 13 23:41:17] "PUT /products HTTP/1.1" 503 321135
+Aug 11 12:44:12 server01 postfix/smtpd[1501]: 0676CCF1EB: client=192.168.1.5
+2024/06/03 00:01:12 [INFO] scheduler: authentication failed for user admin
+Oct 21 08:45:06 server01 postfix/smtpd[5917]: ADA661739C: client=192.168.1.45
+192.168.1.36 - - [Apr 24 06:49:00] "GET /cart HTTP/1.1" 500 165547
+2024/05/08 16:11:06 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.14
+2026/09/23 18:46:21 [WARN] api: connection pool exhausted
+2024-06-22T20:18:55+00:00 server01 systemd[6406]: started
+Jan 07 15:49:42 server01 postfix/smtpd[8942]: 5288A2E985: client=192.168.1.15
+2026/12/02 19:43:58 [WARN] web: rate limit exceeded for IP 192.168.1.16
+2026-03-16T01:21:58+00:00 server03 sshd[5549]: failed to start
+192.168.1.49 - - [Jan 17 06:31:01] "POST /cart HTTP/1.1" 400 413109
+192.168.1.50 - - [Aug 13 23:20:39] "DELETE /cart HTTP/1.1" 500 52533
+2026-02-05T06:34:07+00:00 server02 sshd[6386]: started
+Apr 17 16:34:57 server01 postfix/smtpd[9578]: EDC415796C: client=192.168.1.8
+2025/02/28 15:28:02 [DEBUG] auth: query executed in 2212ms
+Sep 12 05:11:48 server01 postfix/smtpd[7986]: B591FE1B87: client=192.168.1.41
+2024/10/18 01:29:53 [DEBUG] cache: connection pool exhausted
+Aug 04 21:02:21 server01 postfix/smtpd[6029]: 05AB24A7B7: client=192.168.1.17
+2024/07/25 01:03:46 [DEBUG] cache: rate limit exceeded for IP 192.168.1.12
+CUSTOM-LOG: 2025-03-05T02:33:10+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+2025/01/23 03:27:43 [INFO] cache: connection pool exhausted
+2025/08/27 04:55:29 [INFO] scheduler: connection pool exhausted
+192.168.1.11 - - [Apr 22 09:59:20] "GET /checkout HTTP/1.1" 200 120863
+2024-04-06T20:55:39+00:00 server05 NetworkManager[3378]: started
+192.168.1.21 - - [Feb 17 12:52:08] "DELETE /api/users HTTP/1.1" 301 369348
+2025-06-05T12:47:27+00:00 server04 dhcpcd[1492]: error on connection
+192.168.1.23 - - [May 23 12:50:50] "DELETE /products HTTP/1.1" 301 246391
+192.168.1.21 - - [Nov 22 21:17:54] "DELETE /search HTTP/1.1" 401 370464
+2026-01-04T00:01:14+00:00 server04 NetworkManager[9104]: failed to start
+2026-09-15T10:59:34+00:00 server03 cron[7447]: error on connection
+192.168.1.33 - - [Mar 20 17:42:06] "DELETE /api/users HTTP/1.1" 200 212178
+2024-07-23T05:00:18+00:00 server01 dhcpcd[1807]: failed to start
+Apr 23 08:26:49 server01 postfix/smtpd[1797]: 124D9A0713: client=192.168.1.3
+2024/06/21 15:20:27 [INFO] web: user session created
+2025/01/07 05:07:39 [DEBUG] db: rate limit exceeded for IP 192.168.1.16
+192.168.1.48 - - [Sep 12 04:46:28] "POST /css/style.css HTTP/1.1" 403 89523
+192.168.1.9 - - [Apr 18 20:59:55] "GET /css/style.css HTTP/1.1" 500 475569
+192.168.1.3 - - [Aug 15 07:33:54] "PUT /login HTTP/1.1" 403 330369
+2024/05/12 17:53:34 [WARN] db: rate limit exceeded for IP 192.168.1.47
+Feb 24 09:36:59 server01 postfix/smtpd[1820]: 655B1896F5: client=192.168.1.11
+192.168.1.47 - - [Mar 18 03:59:27] "POST /products HTTP/1.1" 503 149985
+192.168.1.18 - - [Feb 25 12:35:41] "GET /images/logo.png HTTP/1.1" 401 241810
+192.168.1.36 - - [Sep 23 12:01:35] "POST /css/style.css HTTP/1.1" 404 42959
+2025/01/15 00:25:21 [DEBUG] web: user session created
+192.168.1.2 - - [Dec 09 14:54:41] "GET /products HTTP/1.1" 200 332298
+CUSTOM-LOG: 2024-03-13T16:51:07+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+2025-10-13T09:35:34+00:00 server05 cron[1243]: stopped
+192.168.1.12 - - [May 28 18:19:29] "POST /api/users HTTP/1.1" 200 377492
+2024-08-01T23:31:20+00:00 server03 sshd[1738]: stopped
+192.168.1.39 - - [Jan 04 00:59:54] "PUT /images/logo.png HTTP/1.1" 200 122377
+2025/09/18 07:29:28 [ERROR] api: connection pool exhausted
+2024-06-06T18:30:00+00:00 server03 sshd[4543]: failed to start
+CUSTOM-LOG: 2024-09-06T21:41:04+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.19 - - [Nov 21 17:59:55] "PUT /api/users HTTP/1.1" 502 40541
+2024/09/27 20:22:37 [WARN] db: authentication failed for user bob
+2024-08-16T14:29:46+00:00 server01 sshd[547]: started
+CUSTOM-LOG: 2025-12-28T11:37:14+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025-06-05T20:45:19+00:00 server03 cron[6550]: error on connection
+2024/08/04 04:38:57 [ERROR] worker: connection pool exhausted
+CUSTOM-LOG: 2024-02-20T22:59:44+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2025-02-05T22:04:50+00:00 server01 sshd[5645]: started
+CUSTOM-LOG: 2025-11-24T08:48:01+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+192.168.1.38 - - [Sep 04 11:23:53] "POST /checkout HTTP/1.1" 400 4002
+192.168.1.25 - - [Jul 15 17:07:53] "GET /api/users HTTP/1.1" 404 165114
+2025/04/14 04:31:16 [DEBUG] web: cache miss for key product:*
+CUSTOM-LOG: 2024-10-14T04:59:10+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+2025/08/19 16:39:13 [INFO] web: cache miss for key product:*
+2026-08-21T23:14:47+00:00 server01 NetworkManager[6393]: started
+Apr 17 14:34:40 server01 postfix/smtpd[1584]: 681DAC2677: client=192.168.1.4
+192.168.1.12 - - [Aug 01 00:42:33] "POST /api/users HTTP/1.1" 502 57438
+192.168.1.12 - - [May 01 17:32:19] "GET /js/app.js HTTP/1.1" 400 464900
+2024/11/04 14:11:13 [INFO] cache: cache miss for key product:*
+2024-12-09T05:07:42+00:00 server05 cron[1735]: error on connection
+CUSTOM-LOG: 2026-07-08T09:14:39+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+2024-12-28T08:57:12+00:00 server04 sshd[6337]: error on connection
+2024/12/25 08:08:07 [DEBUG] web: request timed out
+CUSTOM-LOG: 2025-04-03T08:41:58+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2026/08/06 12:40:34 [INFO] api: authentication failed for user bob
+2026-11-26T06:42:18+00:00 server01 dhcpcd[6341]: started
+2024-12-15T16:22:50+00:00 server01 systemd[4471]: configuration reloaded
+Jan 06 11:32:58 server01 postfix/smtpd[9243]: 171FFB86F1: client=192.168.1.12
+Apr 17 02:04:03 server01 postfix/smtpd[6955]: 01F53059A2: client=192.168.1.22
+2026-06-16T00:08:19+00:00 server01 NetworkManager[9074]: configuration reloaded
+2024/12/12 06:15:22 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.35
+2024/12/01 11:24:14 [INFO] scheduler: query executed in 811ms
+CUSTOM-LOG: 2025-03-27T03:02:23+00:00 LEVEL=ERROR MODULE=notifications MSG=service unavailable
+192.168.1.18 - - [Jan 18 02:15:51] "DELETE /login HTTP/1.1" 304 143679
+CUSTOM-LOG: 2026-07-01T11:29:09+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+192.168.1.3 - - [Jul 27 10:02:02] "POST /index.html HTTP/1.1" 302 475999
+2026/11/01 17:29:16 [DEBUG] db: query executed in 710ms
+2024/07/27 03:31:12 [DEBUG] db: connection pool exhausted
+2024/10/15 19:59:03 [ERROR] web: rate limit exceeded for IP 192.168.1.35
+2025/06/11 20:52:20 [ERROR] web: rate limit exceeded for IP 192.168.1.7
+192.168.1.31 - - [Nov 04 04:14:13] "POST /search HTTP/1.1" 200 98676
+2026-02-21T21:03:08+00:00 server04 cron[5224]: stopped
+Dec 09 21:59:57 server01 postfix/smtpd[6871]: 05A75FFAC1: client=192.168.1.32
+Jan 10 03:38:28 server01 postfix/smtpd[8568]: 611B7F9BD7: client=192.168.1.33
+192.168.1.3 - - [Mar 19 10:35:35] "PUT /api/users HTTP/1.1" 502 260884
+2024/11/16 17:39:11 [ERROR] worker: rate limit exceeded for IP 192.168.1.14
+2026/01/13 23:15:52 [WARN] db: query executed in 2183ms
+2024-04-13T10:06:49+00:00 server04 cron[8680]: failed to start
+2026/08/22 15:26:32 [DEBUG] worker: authentication failed for user alice
+2025/08/17 09:38:04 [ERROR] cache: authentication failed for user admin
+2026-01-26T00:12:45+00:00 server02 dhcpcd[6883]: error on connection
+2026-02-19T11:26:11+00:00 server04 cron[9398]: configuration reloaded
+2024-12-28T04:00:49+00:00 server05 sshd[4940]: error on connection
+2026/10/20 10:35:54 [DEBUG] cache: request timed out
+Jan 02 18:03:34 server01 postfix/smtpd[9813]: D6671CE076: client=192.168.1.45
+2025/02/10 19:06:02 [DEBUG] auth: rate limit exceeded for IP 192.168.1.45
+2025-08-04T06:42:33+00:00 server03 NetworkManager[6256]: error on connection
+CUSTOM-LOG: 2025-05-18T13:18:22+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.29 - - [Sep 19 00:11:22] "DELETE /checkout HTTP/1.1" 404 73831
+2024/10/09 14:29:55 [WARN] scheduler: user session created
+2024-07-23T20:29:23+00:00 server01 systemd[4649]: configuration reloaded
+2026/05/18 00:22:57 [WARN] cache: connection pool exhausted
+192.168.1.41 - - [May 27 04:48:06] "POST /checkout HTTP/1.1" 200 217146
+2024/05/14 13:45:47 [INFO] worker: query executed in 3147ms
+2024-10-11T14:32:11+00:00 server02 cron[5679]: configuration reloaded
+2024-04-18T10:36:40+00:00 server03 dhcpcd[3743]: started
+192.168.1.46 - - [Sep 15 15:34:56] "POST /search HTTP/1.1" 404 440471
+Mar 09 15:09:52 server01 postfix/smtpd[8068]: 17C8290944: client=192.168.1.34
+2026-12-20T19:48:04+00:00 server05 cron[359]: configuration reloaded
+2024-11-08T06:44:33+00:00 server03 dhcpcd[348]: failed to start
+2024-08-23T16:04:05+00:00 server05 cron[1572]: error on connection
+192.168.1.3 - - [Jul 28 03:32:12] "POST /css/style.css HTTP/1.1" 404 413845
+Jul 01 08:19:40 server01 postfix/smtpd[3948]: AE396E66FA: client=192.168.1.2
+Jun 04 18:40:15 server01 postfix/smtpd[9998]: 846DD38924: client=192.168.1.50
+2024/01/24 11:50:22 [WARN] cache: authentication failed for user alice
+2026-10-22T08:46:43+00:00 server04 dhcpcd[4809]: error on connection
+192.168.1.4 - - [Apr 23 06:08:49] "PUT /index.html HTTP/1.1" 502 102057
+2025/12/11 13:05:17 [DEBUG] auth: cache miss for key user:*
+2025-04-02T11:10:08+00:00 server04 dhcpcd[6200]: stopped
+2026-01-21T05:58:27+00:00 server05 cron[5766]: configuration reloaded
+2026-04-05T17:23:15+00:00 server04 cron[1582]: configuration reloaded
+2024-06-16T13:32:09+00:00 server01 sshd[5977]: stopped
+2025/10/28 14:13:36 [WARN] db: authentication failed for user alice
+192.168.1.19 - - [Apr 20 12:38:24] "POST /cart HTTP/1.1" 503 143895
+192.168.1.21 - - [Nov 02 18:22:13] "PUT /js/app.js HTTP/1.1" 403 57251
+2025-01-23T08:14:22+00:00 server04 kernel[1349]: failed to start
+2026/11/07 16:42:25 [DEBUG] api: connection pool exhausted
+2025/04/23 04:47:39 [ERROR] web: rate limit exceeded for IP 192.168.1.40
+Jul 16 11:37:05 server01 postfix/smtpd[7701]: 75D77A48F3: client=192.168.1.15
+192.168.1.32 - - [Oct 12 05:04:44] "GET /products HTTP/1.1" 403 22271
+2026-10-04T23:23:38+00:00 server05 cron[1092]: started
+2026/06/15 21:52:11 [INFO] web: authentication failed for user admin
+192.168.1.20 - - [Apr 18 23:43:40] "PUT /products HTTP/1.1" 302 20707
+192.168.1.8 - - [Apr 12 15:40:54] "POST /images/logo.png HTTP/1.1" 304 189139
+CUSTOM-LOG: 2025-07-20T03:57:27+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+192.168.1.30 - - [Feb 03 03:45:24] "GET /js/app.js HTTP/1.1" 502 134726
+192.168.1.36 - - [Nov 09 11:19:24] "PUT /js/app.js HTTP/1.1" 200 162955
+2026/09/08 21:45:36 [DEBUG] worker: cache miss for key product:*
+CUSTOM-LOG: 2026-05-16T13:49:04+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+192.168.1.3 - - [Dec 27 23:51:11] "DELETE /products HTTP/1.1" 301 109641
+Oct 01 10:44:14 server01 postfix/smtpd[9660]: C681A192CA: client=192.168.1.48
+2025/02/15 02:00:20 [ERROR] web: user session created
+192.168.1.14 - - [Nov 10 07:24:46] "DELETE /search HTTP/1.1" 503 182790
+CUSTOM-LOG: 2026-08-02T13:06:32+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.37 - - [Jun 26 01:02:38] "PUT /search HTTP/1.1" 503 112276
+192.168.1.13 - - [Jan 09 23:16:35] "DELETE /js/app.js HTTP/1.1" 304 240003
+2024-01-09T08:57:13+00:00 server05 cron[6385]: configuration reloaded
+2026-08-18T23:58:28+00:00 server05 cron[9816]: configuration reloaded
+192.168.1.8 - - [Sep 03 22:12:15] "POST /login HTTP/1.1" 401 418656
+CUSTOM-LOG: 2025-01-21T04:21:06+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+Oct 18 14:02:23 server01 postfix/smtpd[3261]: C2A7783D50: client=192.168.1.46
+2026-09-19T16:47:31+00:00 server05 dhcpcd[1221]: configuration reloaded
+2024-07-24T01:33:45+00:00 server05 NetworkManager[3937]: configuration reloaded
+CUSTOM-LOG: 2025-05-10T12:11:03+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2026/01/09 21:07:07 [WARN] worker: connection pool exhausted
+Mar 06 02:36:40 server01 postfix/smtpd[8980]: B788C37B25: client=192.168.1.25
+2024/08/16 20:37:11 [ERROR] api: query executed in 1530ms
+2025-02-17T00:14:49+00:00 server04 sshd[1551]: configuration reloaded
+2025-08-17T07:15:39+00:00 server01 dhcpcd[3022]: started
+192.168.1.40 - - [May 05 15:44:37] "POST /index.html HTTP/1.1" 502 276748
+Mar 17 03:58:08 server01 postfix/smtpd[2245]: 0147A0295F: client=192.168.1.24
+2026/01/04 11:18:23 [ERROR] cache: connection pool exhausted
+192.168.1.21 - - [Jun 20 10:10:25] "PUT /api/users HTTP/1.1" 304 408434
+Jul 06 12:58:04 server01 postfix/smtpd[5481]: C3EF37F0A1: client=192.168.1.25
+192.168.1.14 - - [Nov 05 17:18:59] "PUT /api/users HTTP/1.1" 304 416678
+2024/08/07 19:08:29 [ERROR] db: authentication failed for user admin
+192.168.1.1 - - [Jul 11 23:18:29] "DELETE /css/style.css HTTP/1.1" 503 221790
+192.168.1.8 - - [Sep 21 22:11:33] "DELETE /js/app.js HTTP/1.1" 200 362950
+Nov 22 15:36:57 server01 postfix/smtpd[4354]: 6997E09625: client=192.168.1.27
+Jan 10 21:29:06 server01 postfix/smtpd[2776]: 802B5DC2F0: client=192.168.1.21
+192.168.1.24 - - [Jun 01 22:31:11] "PUT /js/app.js HTTP/1.1" 503 466272
+2024-09-19T14:24:36+00:00 server05 sshd[421]: started
+2025-04-09T13:19:25+00:00 server04 sshd[1284]: failed to start
+Sep 11 13:04:14 server01 postfix/smtpd[8235]: A2A7628744: client=192.168.1.11
+192.168.1.2 - - [Aug 26 18:24:01] "POST /login HTTP/1.1" 200 165351
+CUSTOM-LOG: 2025-03-19T21:37:40+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025/08/19 03:27:56 [WARN] api: user session created
+192.168.1.39 - - [Jul 06 02:15:52] "DELETE /products HTTP/1.1" 304 60783
+Feb 22 20:36:38 server01 postfix/smtpd[1900]: 31C0077D20: client=192.168.1.43
+Jan 15 08:32:32 server01 postfix/smtpd[8056]: 031DDB49A6: client=192.168.1.37
+2026-08-27T21:05:48+00:00 server02 kernel[7982]: error on connection
+192.168.1.14 - - [Oct 07 05:32:17] "POST /cart HTTP/1.1" 404 452948
+192.168.1.42 - - [Aug 04 23:54:01] "POST /checkout HTTP/1.1" 503 399345
+2026/10/07 22:40:29 [WARN] web: authentication failed for user alice
+2025/09/12 11:08:43 [DEBUG] web: request timed out
+CUSTOM-LOG: 2026-11-05T15:56:32+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+2025-04-16T19:49:33+00:00 server03 cron[1740]: error on connection
+Aug 08 12:11:00 server01 postfix/smtpd[3986]: 0C3EE37AC3: client=192.168.1.28
+2025/08/03 14:35:26 [DEBUG] db: user session created
+2024/11/10 05:11:42 [INFO] scheduler: cache miss for key user:*
+192.168.1.39 - - [Oct 21 11:29:02] "DELETE /products HTTP/1.1" 400 463917
+2026-09-03T02:07:03+00:00 server01 NetworkManager[2990]: failed to start
+2025/02/27 01:20:05 [INFO] worker: request timed out
+192.168.1.30 - - [Sep 13 05:20:23] "POST /search HTTP/1.1" 400 327778
+2026-02-18T00:50:42+00:00 server05 systemd[8437]: configuration reloaded
+May 01 02:25:14 server01 postfix/smtpd[1358]: C9B2A2370D: client=192.168.1.22
+Sep 10 09:55:35 server01 postfix/smtpd[3452]: E3DAC5FEC8: client=192.168.1.9
+CUSTOM-LOG: 2025-05-24T23:37:18+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2025/03/23 21:48:53 [INFO] api: query executed in 606ms
+192.168.1.11 - - [Jan 18 03:30:04] "GET /products HTTP/1.1" 301 7334
+2025/12/09 18:11:37 [INFO] auth: query executed in 1425ms
+CUSTOM-LOG: 2024-04-10T07:04:07+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+Jul 03 12:50:59 server01 postfix/smtpd[8285]: 4FF7629DA0: client=192.168.1.6
+2026-12-19T09:38:06+00:00 server01 systemd[2134]: error on connection
+2024-04-13T10:00:40+00:00 server05 dhcpcd[659]: error on connection
+192.168.1.24 - - [Jul 12 04:00:10] "DELETE /index.html HTTP/1.1" 301 283499
+192.168.1.46 - - [Sep 17 21:33:54] "GET /api/users HTTP/1.1" 500 332979
+2026/01/27 17:08:27 [WARN] auth: authentication failed for user admin
+2026/10/24 23:07:44 [ERROR] worker: query executed in 4672ms
+2025/05/02 10:52:42 [ERROR] auth: rate limit exceeded for IP 192.168.1.21
+192.168.1.4 - - [Nov 25 09:33:35] "PUT /cart HTTP/1.1" 301 76680
+2025/12/20 22:23:50 [WARN] auth: connection pool exhausted
+192.168.1.11 - - [Aug 04 04:20:52] "POST /cart HTTP/1.1" 302 294286
+2024-01-03T07:53:01+00:00 server04 systemd[8800]: failed to start
+2024-01-18T10:14:40+00:00 server05 NetworkManager[6394]: stopped
+2025-11-20T08:51:28+00:00 server02 systemd[2729]: failed to start
+192.168.1.37 - - [Jan 06 06:05:26] "POST /js/app.js HTTP/1.1" 403 435365
+192.168.1.43 - - [Aug 05 12:36:11] "PUT /products HTTP/1.1" 200 491835
+2025-04-20T15:12:05+00:00 server04 dhcpcd[720]: started
+CUSTOM-LOG: 2024-04-07T22:11:06+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+Nov 05 08:29:20 server01 postfix/smtpd[7047]: A15DA3F1CD: client=192.168.1.37
+Mar 27 11:59:35 server01 postfix/smtpd[7469]: 8B78B93509: client=192.168.1.33
+CUSTOM-LOG: 2025-01-05T16:40:21+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+Feb 15 11:05:37 server01 postfix/smtpd[7910]: 7993B5F744: client=192.168.1.31
+2025-04-14T11:33:43+00:00 server05 sshd[8257]: configuration reloaded
+2024/07/23 02:54:36 [DEBUG] api: query executed in 227ms
+2026/09/08 21:59:33 [WARN] cache: connection pool exhausted
+192.168.1.5 - - [Jul 05 09:53:25] "PUT /search HTTP/1.1" 304 128977
+192.168.1.18 - - [Jun 20 05:54:32] "PUT /api/users HTTP/1.1" 404 118954
+2026-07-18T00:32:45+00:00 server04 dhcpcd[8402]: configuration reloaded
+2025/05/11 21:39:20 [INFO] db: query executed in 2714ms
+2025-08-20T04:53:23+00:00 server03 NetworkManager[193]: stopped
+2024/11/02 11:13:57 [INFO] api: cache miss for key user:*
+192.168.1.30 - - [May 09 07:15:21] "PUT /checkout HTTP/1.1" 404 351187
+2026-11-10T10:14:54+00:00 server02 kernel[6616]: error on connection
+2025-02-12T19:04:21+00:00 server04 kernel[9798]: started
+192.168.1.26 - - [May 21 09:00:51] "POST /api/users HTTP/1.1" 200 460677
+Sep 16 02:09:08 server01 postfix/smtpd[6369]: 9D6A10ECFC: client=192.168.1.40
+2026-07-16T20:16:00+00:00 server02 systemd[3985]: stopped
+192.168.1.15 - - [Mar 04 15:54:06] "DELETE /products HTTP/1.1" 500 102446
+192.168.1.34 - - [Jul 06 12:22:34] "POST /checkout HTTP/1.1" 400 243640
+2024-06-13T07:29:50+00:00 server05 NetworkManager[4880]: configuration reloaded
+2025-07-14T20:39:28+00:00 server02 dhcpcd[6502]: configuration reloaded
+2024/03/05 20:04:25 [INFO] db: authentication failed for user alice
+2026/08/04 22:08:53 [ERROR] scheduler: authentication failed for user alice
+2025-02-14T23:36:01+00:00 server05 NetworkManager[983]: configuration reloaded
+192.168.1.12 - - [Sep 23 11:51:26] "DELETE /api/users HTTP/1.1" 301 430599
+Sep 19 23:42:01 server01 postfix/smtpd[5930]: C53615DABB: client=192.168.1.7
+2024-09-07T14:37:21+00:00 server04 kernel[4006]: failed to start
+192.168.1.8 - - [May 23 15:29:57] "DELETE /products HTTP/1.1" 400 499770
+2025-06-01T08:29:39+00:00 server03 NetworkManager[2596]: failed to start
+2026-04-14T00:24:34+00:00 server03 sshd[7087]: stopped
+2024-07-23T23:14:07+00:00 server05 systemd[7954]: started
+2025-11-12T01:15:31+00:00 server01 cron[725]: error on connection
+May 18 23:07:14 server01 postfix/smtpd[1695]: 8816B5BBCA: client=192.168.1.6
+192.168.1.6 - - [May 11 00:34:44] "GET /search HTTP/1.1" 503 116256
+192.168.1.24 - - [Jun 07 00:46:17] "PUT /products HTTP/1.1" 500 482267
+CUSTOM-LOG: 2025-09-25T18:55:01+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2024/04/03 15:38:50 [INFO] worker: query executed in 3277ms
+2024-07-15T15:12:29+00:00 server01 NetworkManager[9630]: stopped
+CUSTOM-LOG: 2026-07-05T12:19:23+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+192.168.1.44 - - [Jan 11 16:27:34] "GET /login HTTP/1.1" 301 71233
+2025-05-20T22:18:21+00:00 server03 kernel[3979]: error on connection
+2024-02-21T22:18:15+00:00 server04 systemd[3740]: error on connection
+2024/04/23 04:54:20 [WARN] worker: rate limit exceeded for IP 192.168.1.15
+2026-07-10T10:51:55+00:00 server01 cron[4562]: failed to start
+2025-03-25T05:46:00+00:00 server02 kernel[5581]: stopped
+192.168.1.18 - - [Sep 09 06:04:42] "PUT /api/users HTTP/1.1" 500 499738
+192.168.1.18 - - [Jul 17 23:17:07] "GET /cart HTTP/1.1" 301 290672
+CUSTOM-LOG: 2026-08-13T13:40:43+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.10 - - [Oct 03 13:18:27] "GET /login HTTP/1.1" 302 110197
+Dec 04 12:44:58 server01 postfix/smtpd[7569]: D516ED605D: client=192.168.1.23
+2024/09/15 01:21:08 [ERROR] api: authentication failed for user alice
+Jan 08 15:41:55 server01 postfix/smtpd[9967]: 93BE4321EC: client=192.168.1.32
+2026/04/17 04:39:39 [WARN] worker: connection pool exhausted
+192.168.1.47 - - [Sep 07 19:23:51] "GET /login HTTP/1.1" 502 429466
+192.168.1.11 - - [Jul 24 16:40:28] "POST /css/style.css HTTP/1.1" 302 488561
+2026/11/17 21:08:21 [INFO] worker: cache miss for key user:*
+Jul 12 06:00:19 server01 postfix/smtpd[1440]: 371CBE9277: client=192.168.1.21
+Jun 18 16:53:50 server01 postfix/smtpd[6511]: 074520868B: client=192.168.1.50
+2025-10-26T04:20:35+00:00 server04 systemd[9409]: failed to start
+Nov 13 14:51:26 server01 postfix/smtpd[7120]: ADA1E05697: client=192.168.1.49
+192.168.1.7 - - [Dec 11 15:09:48] "POST /products HTTP/1.1" 404 489061
+2025/04/04 10:27:26 [DEBUG] api: connection pool exhausted
+2026/06/14 03:22:06 [INFO] db: user session created
+May 07 08:55:20 server01 postfix/smtpd[3880]: 436916BAD6: client=192.168.1.20
+Apr 01 06:38:24 server01 postfix/smtpd[7870]: 080A839425: client=192.168.1.33
+May 28 03:47:42 server01 postfix/smtpd[9551]: 03A9406B21: client=192.168.1.37
+2024-11-21T13:43:41+00:00 server01 sshd[6699]: error on connection
+CUSTOM-LOG: 2025-08-21T03:01:43+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+2025-07-26T14:15:16+00:00 server02 dhcpcd[9701]: started
+2024/04/02 03:06:10 [WARN] scheduler: request timed out
+2026/04/22 00:43:31 [DEBUG] cache: connection pool exhausted
+2026-07-04T12:32:57+00:00 server05 NetworkManager[9139]: failed to start
+192.168.1.26 - - [Nov 03 14:56:57] "GET /index.html HTTP/1.1" 403 335834
+2025/08/23 02:42:04 [DEBUG] db: user session created
+2025/04/08 11:12:04 [WARN] worker: authentication failed for user admin
+2025-04-10T12:17:37+00:00 server01 kernel[7193]: failed to start
+192.168.1.4 - - [May 05 17:14:02] "DELETE /search HTTP/1.1" 404 376295
+Jun 17 05:13:25 server01 postfix/smtpd[7931]: 53980B6461: client=192.168.1.24
+Oct 18 22:50:36 server01 postfix/smtpd[4785]: D2FC11A5D9: client=192.168.1.45
+Mar 12 11:19:39 server01 postfix/smtpd[3336]: B36BACF925: client=192.168.1.40
+2026/02/16 14:57:12 [INFO] api: query executed in 3530ms
+192.168.1.17 - - [Oct 28 07:16:29] "DELETE /login HTTP/1.1" 502 282267
+192.168.1.44 - - [May 16 09:46:00] "GET /api/users HTTP/1.1" 403 484840
+CUSTOM-LOG: 2025-03-27T00:40:46+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+Nov 13 00:39:44 server01 postfix/smtpd[9118]: 070830D4BA: client=192.168.1.33
+2024/05/28 21:16:18 [INFO] scheduler: cache miss for key user:*
+Sep 10 10:30:02 server01 postfix/smtpd[4624]: 14711B0E69: client=192.168.1.16
+Apr 04 11:09:27 server01 postfix/smtpd[1769]: 5F74E9FC64: client=192.168.1.13
+CUSTOM-LOG: 2026-12-14T12:16:26+00:00 LEVEL=WARN MODULE=shipping MSG=retry exhausted
+CUSTOM-LOG: 2026-05-17T21:57:39+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+192.168.1.15 - - [Nov 10 22:21:48] "GET /products HTTP/1.1" 400 365101
+CUSTOM-LOG: 2024-09-16T16:45:33+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-10-08T23:48:54+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+Jul 02 10:03:56 server01 postfix/smtpd[1298]: 11515E8BFD: client=192.168.1.50
+2024-07-04T09:24:06+00:00 server02 sshd[1634]: failed to start
+2026-10-05T17:39:42+00:00 server04 kernel[9030]: started
+Jul 26 00:15:44 server01 postfix/smtpd[9251]: 76D708F310: client=192.168.1.49
+Oct 22 20:58:02 server01 postfix/smtpd[7974]: 2AC1251387: client=192.168.1.14
+2024-12-28T06:59:57+00:00 server04 cron[5178]: error on connection
+2026/04/04 00:03:41 [INFO] cache: rate limit exceeded for IP 192.168.1.12
+192.168.1.28 - - [Feb 05 14:15:51] "GET /cart HTTP/1.1" 200 256713
+2025/08/09 14:17:40 [INFO] web: authentication failed for user admin
+192.168.1.28 - - [Jan 05 09:04:35] "PUT /css/style.css HTTP/1.1" 301 394049
+Sep 15 02:36:53 server01 postfix/smtpd[1806]: 3232C40683: client=192.168.1.49
+2025/06/24 05:39:38 [ERROR] db: authentication failed for user bob
+2025-11-21T06:33:30+00:00 server04 dhcpcd[8750]: started
+2026/08/16 23:31:28 [INFO] cache: authentication failed for user admin
+2026-06-02T03:06:26+00:00 server02 cron[4495]: stopped
+2026/03/25 04:40:26 [DEBUG] web: cache miss for key user:*
+2024-01-01T12:39:09+00:00 server05 systemd[2809]: stopped
+Dec 11 05:13:00 server01 postfix/smtpd[1461]: 2CF309EA5D: client=192.168.1.21
+2025/09/17 07:42:37 [INFO] cache: rate limit exceeded for IP 192.168.1.29
+2024/02/14 22:58:48 [ERROR] scheduler: request timed out
+2025-11-04T05:28:37+00:00 server05 cron[6688]: started
+2026/06/10 22:55:59 [INFO] auth: request timed out
+CUSTOM-LOG: 2025-10-14T10:01:53+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2024/11/01 11:55:14 [ERROR] db: user session created
+Jul 11 08:46:51 server01 postfix/smtpd[5214]: 063B7B1DF4: client=192.168.1.48
+2025/02/23 22:49:17 [WARN] auth: authentication failed for user alice
+2026/06/12 05:12:58 [DEBUG] auth: query executed in 4926ms
+2026/09/20 02:06:47 [ERROR] scheduler: cache miss for key session:*
+192.168.1.19 - - [Feb 02 03:00:56] "DELETE /images/logo.png HTTP/1.1" 500 208263
+192.168.1.46 - - [Oct 05 04:59:46] "GET /api/users HTTP/1.1" 400 274219
+CUSTOM-LOG: 2026-08-06T20:50:02+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+Mar 01 20:38:52 server01 postfix/smtpd[9673]: 6A60A382EB: client=192.168.1.6
+CUSTOM-LOG: 2024-10-08T02:47:16+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-06-13T09:12:34+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026/05/07 18:52:02 [WARN] auth: authentication failed for user alice
+2026-02-25T09:00:25+00:00 server02 cron[9905]: stopped
+2025/03/07 23:21:10 [DEBUG] cache: rate limit exceeded for IP 192.168.1.10
+Nov 17 06:40:45 server01 postfix/smtpd[2314]: 3A520AB706: client=192.168.1.30
+CUSTOM-LOG: 2025-01-28T04:13:07+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+2024-01-04T16:30:29+00:00 server02 NetworkManager[6147]: configuration reloaded
+2024-08-17T20:19:48+00:00 server05 NetworkManager[1785]: failed to start
+May 19 21:09:04 server01 postfix/smtpd[7391]: B0B7DA8E39: client=192.168.1.10
+CUSTOM-LOG: 2024-06-23T23:08:16+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+Jan 02 12:46:55 server01 postfix/smtpd[2491]: CF700CBDAB: client=192.168.1.43
+2024-10-23T20:10:43+00:00 server03 cron[8757]: failed to start
+2024-09-19T02:05:03+00:00 server02 NetworkManager[5957]: started
+192.168.1.2 - - [Feb 20 20:48:24] "GET /images/logo.png HTTP/1.1" 500 257017
+2024/10/22 06:52:25 [ERROR] scheduler: request timed out
+2026/10/03 13:20:58 [WARN] worker: authentication failed for user bob
+192.168.1.10 - - [Sep 13 01:08:55] "GET /products HTTP/1.1" 404 83132
+192.168.1.19 - - [May 04 23:11:51] "POST /search HTTP/1.1" 404 82372
+Dec 11 04:39:26 server01 postfix/smtpd[5804]: 50C1C0A417: client=192.168.1.37
+CUSTOM-LOG: 2024-11-28T15:12:28+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+Apr 15 23:36:46 server01 postfix/smtpd[2182]: 4E86956FC3: client=192.168.1.4
+2025/11/28 00:17:19 [ERROR] api: rate limit exceeded for IP 192.168.1.24
+192.168.1.15 - - [Jun 04 22:57:26] "POST /index.html HTTP/1.1" 302 173529
+192.168.1.13 - - [Oct 09 07:10:06] "GET /images/logo.png HTTP/1.1" 304 185815
+2025-03-06T21:14:45+00:00 server03 NetworkManager[9098]: configuration reloaded
+Mar 09 06:06:28 server01 postfix/smtpd[4521]: 0DE7CE65D7: client=192.168.1.19
+2024/06/17 14:03:43 [WARN] cache: connection pool exhausted
+Nov 21 01:15:14 server01 postfix/smtpd[1130]: 7032A8A398: client=192.168.1.46
+2026-04-27T09:29:54+00:00 server05 systemd[7164]: started
+2026-11-15T03:49:15+00:00 server02 NetworkManager[4560]: error on connection
+2025/03/10 00:56:53 [WARN] cache: user session created
+2024-09-21T00:19:24+00:00 server03 sshd[8528]: configuration reloaded
+192.168.1.21 - - [Feb 20 16:42:31] "DELETE /login HTTP/1.1" 503 84109
+2026/12/03 18:58:32 [ERROR] api: request timed out
+192.168.1.47 - - [Dec 02 14:14:43] "GET /search HTTP/1.1" 302 444434
+192.168.1.19 - - [May 04 03:16:30] "PUT /api/users HTTP/1.1" 500 21639
+2026/02/03 01:43:58 [ERROR] web: connection pool exhausted
+2025-09-20T11:52:06+00:00 server04 NetworkManager[2960]: failed to start
+May 21 07:03:42 server01 postfix/smtpd[7971]: CF11238A9C: client=192.168.1.32
+2026-09-17T07:01:04+00:00 server05 systemd[2870]: error on connection
+192.168.1.12 - - [Mar 25 16:33:25] "DELETE /products HTTP/1.1" 503 396942
+Jul 06 19:44:22 server01 postfix/smtpd[7293]: 102CFDC7EE: client=192.168.1.19
+2026-11-01T22:11:28+00:00 server01 cron[1209]: configuration reloaded
+2025/02/21 06:35:30 [WARN] db: rate limit exceeded for IP 192.168.1.19
+2024-09-17T15:39:26+00:00 server04 sshd[5252]: started
+2024-09-18T21:53:31+00:00 server04 cron[8548]: started
+2026/06/06 05:09:06 [DEBUG] scheduler: authentication failed for user bob
+2025/05/24 09:36:26 [WARN] api: rate limit exceeded for IP 192.168.1.40
+192.168.1.25 - - [Sep 17 14:32:23] "PUT /css/style.css HTTP/1.1" 401 121873
+192.168.1.41 - - [Jul 26 01:31:35] "POST /products HTTP/1.1" 401 194157
+2026-08-18T04:44:59+00:00 server03 dhcpcd[611]: error on connection
+192.168.1.12 - - [Jan 17 20:49:38] "POST /js/app.js HTTP/1.1" 500 372701
+192.168.1.31 - - [Mar 03 13:10:56] "POST /login HTTP/1.1" 500 32882
+Mar 21 10:23:48 server01 postfix/smtpd[7001]: E1792EA5F9: client=192.168.1.48
+2026-10-19T12:54:35+00:00 server03 dhcpcd[4208]: failed to start
+CUSTOM-LOG: 2026-06-15T04:19:40+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+192.168.1.35 - - [Sep 16 10:29:30] "DELETE /api/users HTTP/1.1" 301 202155
+CUSTOM-LOG: 2026-02-23T16:51:35+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+2026-04-06T09:15:05+00:00 server04 systemd[4614]: started
+2024/08/15 11:06:15 [INFO] worker: authentication failed for user admin
+2026-09-09T13:47:42+00:00 server01 dhcpcd[9009]: stopped
+Feb 07 17:30:29 server01 postfix/smtpd[8652]: 33E9BA0182: client=192.168.1.23
+2024/04/13 01:06:24 [WARN] api: request timed out
+CUSTOM-LOG: 2025-04-03T07:52:43+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2024-05-17T11:09:02+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026/07/26 20:12:00 [INFO] api: connection pool exhausted
+Nov 01 15:12:57 server01 postfix/smtpd[4948]: 19FFD092F6: client=192.168.1.1
+2025-11-13T01:29:17+00:00 server01 kernel[4726]: error on connection
+2026/11/24 03:40:33 [WARN] web: user session created
+2026-11-28T05:28:40+00:00 server03 NetworkManager[9515]: error on connection
+CUSTOM-LOG: 2026-03-17T13:58:02+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2024-03-13T06:28:36+00:00 server05 systemd[4292]: error on connection
+2025/06/04 22:45:42 [ERROR] auth: connection pool exhausted
+2025/04/04 04:24:04 [WARN] scheduler: request timed out
+2025/03/04 22:26:40 [ERROR] auth: authentication failed for user bob
+CUSTOM-LOG: 2024-08-08T05:23:39+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+192.168.1.25 - - [Jun 28 02:06:56] "DELETE /css/style.css HTTP/1.1" 500 217628
+2026-05-09T11:46:42+00:00 server03 dhcpcd[571]: error on connection
+2024-12-10T06:51:49+00:00 server05 cron[7837]: stopped
+192.168.1.25 - - [Mar 01 04:18:15] "POST /css/style.css HTTP/1.1" 401 469306
+CUSTOM-LOG: 2024-02-26T15:49:58+00:00 LEVEL=ERROR MODULE=notifications MSG=processing failed
+192.168.1.25 - - [Jan 06 20:31:11] "GET /api/users HTTP/1.1" 500 432106
+192.168.1.2 - - [Jan 09 09:10:42] "POST /products HTTP/1.1" 401 65200
+2024/11/28 05:02:05 [WARN] web: authentication failed for user alice
+Apr 15 15:51:38 server01 postfix/smtpd[3703]: 025F5ED698: client=192.168.1.23
+May 21 04:09:33 server01 postfix/smtpd[4106]: 53FFDA2AD8: client=192.168.1.12
+2025/06/19 02:10:47 [ERROR] web: rate limit exceeded for IP 192.168.1.20
+Jun 14 20:49:53 server01 postfix/smtpd[6643]: 7E103549FD: client=192.168.1.40
+2024-03-23T01:26:56+00:00 server04 dhcpcd[1166]: configuration reloaded
+CUSTOM-LOG: 2025-03-07T18:43:16+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+192.168.1.10 - - [Aug 25 08:42:58] "DELETE /checkout HTTP/1.1" 400 262772
+192.168.1.26 - - [Aug 07 04:21:48] "POST /products HTTP/1.1" 403 453923
+CUSTOM-LOG: 2024-12-21T07:24:31+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2025-02-27T13:52:13+00:00 server03 cron[6116]: stopped
+192.168.1.40 - - [Dec 18 19:37:24] "POST /js/app.js HTTP/1.1" 304 349055
+192.168.1.37 - - [Aug 20 17:49:39] "DELETE /index.html HTTP/1.1" 302 211187
+192.168.1.7 - - [Dec 06 05:54:30] "PUT /index.html HTTP/1.1" 304 175600
+2026/05/19 05:42:12 [INFO] auth: rate limit exceeded for IP 192.168.1.29
+2025/06/07 05:38:49 [ERROR] auth: connection pool exhausted
+CUSTOM-LOG: 2024-06-15T02:30:16+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+2024/01/13 02:21:25 [DEBUG] cache: query executed in 1043ms
+192.168.1.15 - - [Oct 26 01:27:40] "DELETE /css/style.css HTTP/1.1" 200 33370
+2024-08-28T11:18:43+00:00 server03 kernel[4295]: stopped
+2024/09/28 06:46:41 [DEBUG] db: connection pool exhausted
+192.168.1.29 - - [Oct 05 20:56:15] "PUT /api/users HTTP/1.1" 404 100965
+192.168.1.23 - - [Jul 22 05:55:29] "PUT /index.html HTTP/1.1" 302 79447
+CUSTOM-LOG: 2026-02-28T01:22:01+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+2026-08-06T14:47:00+00:00 server03 NetworkManager[6998]: started
+Apr 21 03:04:36 server01 postfix/smtpd[3484]: 4042565657: client=192.168.1.45
+2026-12-09T15:01:07+00:00 server01 NetworkManager[7514]: configuration reloaded
+192.168.1.19 - - [Oct 22 13:13:20] "POST /login HTTP/1.1" 403 36622
+2025-11-12T06:10:16+00:00 server01 NetworkManager[3152]: stopped
+2024-11-14T06:03:09+00:00 server01 NetworkManager[8821]: stopped
+192.168.1.18 - - [Aug 14 08:06:29] "POST /index.html HTTP/1.1" 304 296200
+2025/04/13 09:39:28 [DEBUG] auth: rate limit exceeded for IP 192.168.1.3
+192.168.1.10 - - [Jun 11 08:29:32] "POST /js/app.js HTTP/1.1" 403 59323
+CUSTOM-LOG: 2025-09-28T16:53:16+00:00 LEVEL=FATAL MODULE=shipping MSG=retry exhausted
+192.168.1.30 - - [Jun 16 03:42:55] "PUT /search HTTP/1.1" 403 285746
+Feb 28 10:46:48 server01 postfix/smtpd[2998]: 32C03EF555: client=192.168.1.1
+2026/02/16 01:10:01 [ERROR] auth: query executed in 4734ms
+2025/11/12 15:01:46 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.32
+2025-07-25T04:35:39+00:00 server04 sshd[2563]: started
+CUSTOM-LOG: 2026-03-25T16:43:43+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026-04-09T05:18:33+00:00 server01 NetworkManager[7449]: failed to start
+CUSTOM-LOG: 2025-09-28T03:37:17+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2024-12-09T19:34:33+00:00 LEVEL=WARN MODULE=payment MSG=service unavailable
+192.168.1.22 - - [Jul 10 10:14:49] "POST /css/style.css HTTP/1.1" 302 367697
+192.168.1.10 - - [Nov 18 17:45:21] "DELETE /products HTTP/1.1" 301 432681
+2026/06/20 01:59:06 [WARN] cache: request timed out
+192.168.1.48 - - [Mar 09 13:07:45] "GET /search HTTP/1.1" 302 342612
+2024-09-01T02:54:48+00:00 server03 NetworkManager[8957]: error on connection
+2024/02/03 05:09:15 [DEBUG] auth: cache miss for key session:*
+CUSTOM-LOG: 2025-08-20T03:49:22+00:00 LEVEL=FATAL MODULE=shipping MSG=service unavailable
+Feb 26 05:33:43 server01 postfix/smtpd[9053]: 5C244558C0: client=192.168.1.5
+192.168.1.17 - - [May 05 22:42:34] "GET /images/logo.png HTTP/1.1" 302 425594
+May 24 17:31:01 server01 postfix/smtpd[1561]: 6ACE2779F1: client=192.168.1.2
+Aug 03 16:13:01 server01 postfix/smtpd[1699]: 9FDC5F0705: client=192.168.1.11
+2026-09-10T19:33:43+00:00 server02 kernel[3013]: configuration reloaded
+2024-09-01T01:11:11+00:00 server04 cron[3151]: configuration reloaded
+2025/09/10 23:12:47 [INFO] auth: user session created
+CUSTOM-LOG: 2025-01-20T23:56:32+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+Apr 02 04:23:38 server01 postfix/smtpd[7415]: E585E9CF98: client=192.168.1.46
+192.168.1.5 - - [Sep 10 00:42:52] "DELETE /login HTTP/1.1" 500 162952
+2024/10/14 15:08:54 [WARN] api: rate limit exceeded for IP 192.168.1.12
+CUSTOM-LOG: 2025-05-01T08:34:29+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+2024-08-04T08:25:01+00:00 server04 systemd[2770]: stopped
+2026/11/26 11:56:26 [INFO] worker: query executed in 4552ms
+2025/10/26 02:20:51 [DEBUG] worker: connection pool exhausted
+2025-03-12T19:25:14+00:00 server01 NetworkManager[8051]: started
+CUSTOM-LOG: 2024-09-23T18:30:53+00:00 LEVEL=ERROR MODULE=payment MSG=service unavailable
+192.168.1.26 - - [Oct 25 05:35:14] "POST /search HTTP/1.1" 200 409923
+Nov 10 05:23:57 server01 postfix/smtpd[7897]: FFC11B3C17: client=192.168.1.25
+2024/03/05 20:19:15 [DEBUG] api: connection pool exhausted
+192.168.1.44 - - [Mar 17 23:18:35] "GET /images/logo.png HTTP/1.1" 401 112533
+2025/11/15 04:04:28 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.17
+2024/04/28 21:19:35 [WARN] cache: authentication failed for user alice
+192.168.1.8 - - [Dec 10 01:19:56] "DELETE /index.html HTTP/1.1" 500 38761
+2026/01/24 14:37:16 [ERROR] scheduler: authentication failed for user alice
+Sep 21 16:38:50 server01 postfix/smtpd[7023]: 8BA7AEF464: client=192.168.1.36
+2025/12/23 02:44:09 [INFO] scheduler: rate limit exceeded for IP 192.168.1.7
+192.168.1.30 - - [Oct 28 04:02:20] "GET /index.html HTTP/1.1" 500 493833
+2025/08/12 22:00:41 [ERROR] auth: cache miss for key session:*
+2024/06/04 17:02:36 [INFO] cache: query executed in 3174ms
+2025-09-24T19:10:34+00:00 server04 systemd[4151]: started
+2025-03-16T18:00:47+00:00 server04 kernel[1958]: stopped
+192.168.1.11 - - [Jan 26 17:20:15] "DELETE /cart HTTP/1.1" 304 404066
+May 05 02:35:38 server01 postfix/smtpd[4574]: D32AD3AC1C: client=192.168.1.14
+192.168.1.26 - - [Sep 06 06:16:25] "POST /checkout HTTP/1.1" 502 391677
+192.168.1.35 - - [Dec 24 00:13:15] "POST /search HTTP/1.1" 502 329661
+192.168.1.47 - - [Feb 14 13:43:25] "GET /api/users HTTP/1.1" 200 289544
+2026-02-19T14:52:05+00:00 server05 kernel[5736]: configuration reloaded
+CUSTOM-LOG: 2026-09-11T01:56:46+00:00 LEVEL=FATAL MODULE=notifications MSG=processing failed
+2025/01/17 23:23:45 [WARN] scheduler: cache miss for key product:*
+2025-09-22T22:31:50+00:00 server03 systemd[1167]: started
+CUSTOM-LOG: 2026-03-21T02:23:19+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+192.168.1.16 - - [Apr 22 12:09:38] "DELETE /search HTTP/1.1" 404 494918
+2025/10/21 03:16:49 [DEBUG] web: connection pool exhausted
+2025-12-13T21:50:30+00:00 server01 sshd[7244]: started
+2025/02/05 03:16:14 [ERROR] web: cache miss for key product:*
+192.168.1.27 - - [May 04 06:29:10] "GET /cart HTTP/1.1" 404 174008
+192.168.1.2 - - [Nov 18 00:43:59] "DELETE /login HTTP/1.1" 304 494378
+Apr 08 03:28:43 server01 postfix/smtpd[9131]: CF70C63324: client=192.168.1.26
+May 13 23:21:00 server01 postfix/smtpd[9528]: 3219037274: client=192.168.1.30
+192.168.1.3 - - [Oct 09 10:09:15] "DELETE /images/logo.png HTTP/1.1" 301 299961
+Oct 24 02:19:15 server01 postfix/smtpd[5298]: 9DC3286CB7: client=192.168.1.22
+192.168.1.38 - - [Oct 05 13:55:42] "GET /index.html HTTP/1.1" 304 134147
+2024/07/08 14:38:42 [INFO] cache: connection pool exhausted
+CUSTOM-LOG: 2024-10-28T00:07:05+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2026/03/05 14:47:43 [WARN] web: authentication failed for user bob
+Feb 04 02:54:44 server01 postfix/smtpd[4429]: 2E39D28559: client=192.168.1.24
+2025-11-19T04:11:03+00:00 server05 NetworkManager[4684]: failed to start
+CUSTOM-LOG: 2024-04-27T08:16:06+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026/08/19 17:58:28 [INFO] auth: cache miss for key session:*
+Nov 10 02:59:11 server01 postfix/smtpd[9082]: 736822D3CD: client=192.168.1.31
+2026-03-13T02:38:20+00:00 server04 NetworkManager[6532]: failed to start
+Nov 23 21:07:35 server01 postfix/smtpd[4316]: 1A84CAF401: client=192.168.1.2
+2025-05-03T07:20:06+00:00 server03 NetworkManager[9831]: failed to start
+2025-06-21T20:00:14+00:00 server04 kernel[1486]: stopped
+2024-08-25T06:53:43+00:00 server01 NetworkManager[1038]: started
+2025/01/12 22:02:56 [DEBUG] cache: user session created
+192.168.1.24 - - [Jun 08 07:56:23] "DELETE /images/logo.png HTTP/1.1" 200 214908
+2026/07/25 11:25:02 [DEBUG] api: authentication failed for user admin
+2024-10-08T07:53:53+00:00 server04 cron[8771]: failed to start
+192.168.1.27 - - [Oct 22 03:52:13] "PUT /cart HTTP/1.1" 503 292911
+192.168.1.4 - - [Sep 26 16:56:40] "PUT /css/style.css HTTP/1.1" 304 295480
+Jul 20 05:51:17 server01 postfix/smtpd[7266]: 4C8810A5C6: client=192.168.1.6
+192.168.1.15 - - [Jul 03 00:13:23] "POST /login HTTP/1.1" 301 473470
+CUSTOM-LOG: 2024-04-23T09:47:25+00:00 LEVEL=FATAL MODULE=notifications MSG=service unavailable
+192.168.1.9 - - [Feb 07 05:17:00] "GET /index.html HTTP/1.1" 503 356765
+2024/10/13 16:02:14 [ERROR] scheduler: user session created
+2024-03-01T00:38:00+00:00 server03 kernel[7969]: failed to start
+2025-05-14T18:51:30+00:00 server01 systemd[9598]: configuration reloaded
+2026/08/12 03:06:13 [DEBUG] api: user session created
+Dec 21 18:15:07 server01 postfix/smtpd[8158]: 3A08E0EDBD: client=192.168.1.49
+CUSTOM-LOG: 2025-02-04T03:47:39+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+2026/05/24 16:23:24 [DEBUG] scheduler: connection pool exhausted
+CUSTOM-LOG: 2025-09-20T11:34:17+00:00 LEVEL=ERROR MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2025-08-05T07:29:36+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+Dec 01 01:33:12 server01 postfix/smtpd[5062]: 668CFB9A89: client=192.168.1.3
+2024-11-02T01:14:50+00:00 server01 cron[181]: failed to start
+2024-10-23T23:15:15+00:00 server04 kernel[3212]: stopped
+192.168.1.38 - - [Aug 16 00:07:11] "POST /cart HTTP/1.1" 503 164625
+192.168.1.35 - - [Apr 23 19:22:18] "PUT /checkout HTTP/1.1" 400 173630
+2025-12-13T12:17:46+00:00 server01 cron[9422]: configuration reloaded
+2025-09-04T03:27:19+00:00 server05 systemd[6213]: configuration reloaded
+2026/11/14 15:40:04 [ERROR] api: query executed in 1029ms
+192.168.1.23 - - [Jul 26 10:28:24] "DELETE /api/users HTTP/1.1" 304 386759
+CUSTOM-LOG: 2025-04-21T19:36:25+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+CUSTOM-LOG: 2026-08-18T18:48:27+00:00 LEVEL=ERROR MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2025-10-16T18:46:48+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+CUSTOM-LOG: 2026-05-15T03:14:26+00:00 LEVEL=FATAL MODULE=payment MSG=processing failed
+192.168.1.36 - - [Aug 04 20:41:14] "PUT /cart HTTP/1.1" 301 379035
+2026/10/17 22:00:10 [ERROR] cache: request timed out
+Jul 23 13:53:42 server01 postfix/smtpd[1442]: B54F664C8D: client=192.168.1.27
+2026/09/09 21:15:21 [WARN] web: authentication failed for user bob
+192.168.1.28 - - [May 14 09:15:51] "POST /index.html HTTP/1.1" 502 457379
+Apr 07 19:04:31 server01 postfix/smtpd[1004]: AB48856597: client=192.168.1.2
+2024/02/18 10:41:56 [ERROR] worker: connection pool exhausted
+2024/12/26 10:22:33 [WARN] scheduler: request timed out
+2025/05/20 07:56:52 [WARN] auth: rate limit exceeded for IP 192.168.1.7
+2025/06/15 00:44:23 [DEBUG] api: query executed in 2361ms
+CUSTOM-LOG: 2024-02-09T15:18:22+00:00 LEVEL=WARN MODULE=payment MSG=retry exhausted
+2026/08/28 11:25:31 [INFO] web: authentication failed for user alice
+CUSTOM-LOG: 2024-11-11T00:58:39+00:00 LEVEL=ERROR MODULE=shipping MSG=service unavailable
+192.168.1.20 - - [Nov 03 10:51:03] "POST /css/style.css HTTP/1.1" 502 372061
+2026-12-21T16:58:13+00:00 server05 systemd[6957]: configuration reloaded
+2024/02/01 18:36:16 [DEBUG] worker: request timed out
+CUSTOM-LOG: 2026-02-18T23:38:07+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026-10-20T14:10:20+00:00 server02 kernel[4028]: error on connection
+2026-12-08T04:17:42+00:00 server04 sshd[3438]: started
+Sep 27 13:13:14 server01 postfix/smtpd[8321]: CFE7C256FF: client=192.168.1.48
+192.168.1.37 - - [Aug 26 22:48:39] "POST /products HTTP/1.1" 302 467070
+192.168.1.34 - - [Feb 05 07:13:42] "PUT /cart HTTP/1.1" 502 382297
+Mar 19 01:41:14 server01 postfix/smtpd[1853]: C56EEB8764: client=192.168.1.15
+192.168.1.7 - - [Oct 12 05:19:58] "GET /checkout HTTP/1.1" 403 292259
+2025-10-22T10:29:21+00:00 server05 dhcpcd[891]: configuration reloaded
+Jun 10 01:46:20 server01 postfix/smtpd[1828]: 17C9BC30A1: client=192.168.1.15
+Dec 07 14:40:00 server01 postfix/smtpd[7281]: 93ECF9C96A: client=192.168.1.3
+2025/09/10 21:49:29 [DEBUG] worker: query executed in 3939ms
+2026-11-05T12:28:42+00:00 server04 systemd[1473]: configuration reloaded
+Sep 22 17:06:20 server01 postfix/smtpd[6862]: B683E389B4: client=192.168.1.27
+192.168.1.11 - - [Sep 17 03:48:12] "DELETE /cart HTTP/1.1" 502 157919
+Feb 10 16:50:45 server01 postfix/smtpd[9627]: 3345DB1453: client=192.168.1.6
+Nov 26 07:13:17 server01 postfix/smtpd[1246]: 89CF4C0E53: client=192.168.1.50
+192.168.1.14 - - [Dec 13 06:52:53] "PUT /js/app.js HTTP/1.1" 403 366867
+2026/07/17 06:10:04 [INFO] worker: connection pool exhausted
+192.168.1.21 - - [Mar 11 01:43:11] "GET /login HTTP/1.1" 400 203800
+CUSTOM-LOG: 2024-11-26T20:32:29+00:00 LEVEL=FATAL MODULE=shipping MSG=processing failed
+2025/07/02 15:39:52 [INFO] scheduler: query executed in 1528ms
+192.168.1.43 - - [Jan 28 01:12:49] "POST /checkout HTTP/1.1" 503 281361
+CUSTOM-LOG: 2024-01-02T01:09:10+00:00 LEVEL=FATAL MODULE=payment MSG=service unavailable
+2025/04/12 15:17:05 [ERROR] web: cache miss for key user:*
+2024/01/04 11:54:47 [ERROR] web: cache miss for key session:*
+2025-07-05T14:10:41+00:00 server04 systemd[4478]: failed to start
+2026/01/18 23:09:34 [DEBUG] scheduler: authentication failed for user admin
+2024/01/12 11:33:58 [WARN] worker: cache miss for key session:*
+Nov 14 09:49:10 server01 postfix/smtpd[2087]: 4AE7B18167: client=192.168.1.26
+Oct 14 11:07:55 server01 postfix/smtpd[2872]: 8526F6B22C: client=192.168.1.1
+192.168.1.38 - - [Dec 04 21:40:25] "POST /js/app.js HTTP/1.1" 503 156896
+2026-10-27T09:21:07+00:00 server02 dhcpcd[2579]: configuration reloaded
+CUSTOM-LOG: 2025-09-25T23:49:19+00:00 LEVEL=WARN MODULE=notifications MSG=retry exhausted
+CUSTOM-LOG: 2026-05-27T18:54:22+00:00 LEVEL=FATAL MODULE=notifications MSG=retry exhausted
+2025/07/14 00:40:37 [WARN] auth: user session created
+2025-12-06T20:19:40+00:00 server03 NetworkManager[2410]: started
+2026/09/10 15:51:35 [INFO] web: user session created
+2024-07-03T06:26:09+00:00 server01 cron[3280]: stopped
+2025-12-13T00:03:15+00:00 server05 cron[7070]: started
+2025-10-20T05:52:05+00:00 server01 sshd[7266]: stopped
+192.168.1.24 - - [Jul 20 15:23:10] "GET /api/users HTTP/1.1" 302 419725
+2025/10/22 08:13:29 [WARN] cache: cache miss for key session:*
+2025-09-08T09:10:58+00:00 server02 sshd[298]: configuration reloaded
+2026/06/27 03:22:07 [DEBUG] worker: request timed out
+2025/12/13 14:24:05 [ERROR] api: request timed out
+2024/07/07 07:55:13 [ERROR] scheduler: rate limit exceeded for IP 192.168.1.10
+2026-12-28T17:39:07+00:00 server04 NetworkManager[4460]: failed to start
+Jun 28 22:31:10 server01 postfix/smtpd[1962]: BE58A94E6D: client=192.168.1.46
+2025-10-19T03:30:34+00:00 server05 sshd[8208]: stopped
+2026-08-07T17:16:22+00:00 server03 cron[4642]: failed to start
+Aug 15 12:41:50 server01 postfix/smtpd[4626]: 064B34ED07: client=192.168.1.38
+192.168.1.21 - - [Mar 06 17:24:01] "POST /checkout HTTP/1.1" 404 421018
+2026-05-10T02:41:13+00:00 server01 kernel[2629]: configuration reloaded
+192.168.1.19 - - [Mar 02 12:59:50] "DELETE /images/logo.png HTTP/1.1" 502 405590
+192.168.1.11 - - [Feb 21 14:08:42] "PUT /js/app.js HTTP/1.1" 503 4526
+2025/11/03 04:48:05 [WARN] auth: rate limit exceeded for IP 192.168.1.45
+2024-05-02T10:48:18+00:00 server04 sshd[162]: configuration reloaded
+192.168.1.46 - - [Jan 12 23:28:39] "GET /login HTTP/1.1" 500 433717
+192.168.1.33 - - [Jul 16 21:51:05] "PUT /images/logo.png HTTP/1.1" 500 405316
+2025-02-17T08:08:52+00:00 server03 sshd[6487]: started
+2026/12/15 18:09:56 [DEBUG] db: authentication failed for user bob
+2024-11-06T20:43:16+00:00 server02 systemd[2339]: stopped
+2025-09-02T15:45:04+00:00 server05 NetworkManager[8984]: configuration reloaded
+CUSTOM-LOG: 2025-01-14T15:25:35+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+2026/06/10 15:38:06 [DEBUG] db: cache miss for key user:*
+Oct 21 23:00:01 server01 postfix/smtpd[6072]: 1915481AE0: client=192.168.1.45
+May 09 20:46:32 server01 postfix/smtpd[3848]: 42DF72ACD7: client=192.168.1.36
+2024/01/17 09:10:27 [ERROR] db: cache miss for key product:*
+192.168.1.40 - - [Feb 21 00:59:07] "POST /api/users HTTP/1.1" 302 73961
+2024-12-28T12:02:23+00:00 server02 systemd[8221]: stopped
+CUSTOM-LOG: 2024-01-19T16:00:11+00:00 LEVEL=ERROR MODULE=payment MSG=processing failed
+2026-11-17T06:33:24+00:00 server01 dhcpcd[7761]: error on connection
+2025-04-28T10:59:44+00:00 server01 sshd[296]: stopped
+Nov 04 16:34:55 server01 postfix/smtpd[7597]: 157399E595: client=192.168.1.19
+192.168.1.42 - - [Jan 22 21:43:44] "DELETE /css/style.css HTTP/1.1" 304 297344
+2025-03-24T01:38:14+00:00 server02 dhcpcd[7876]: started
+192.168.1.8 - - [Jun 22 13:29:48] "GET /api/users HTTP/1.1" 302 190086
+2026/05/25 13:43:25 [INFO] worker: request timed out
+2025-12-07T23:42:29+00:00 server05 systemd[1383]: started
+192.168.1.8 - - [Nov 09 22:34:21] "POST /api/users HTTP/1.1" 502 73262
+Aug 13 17:58:54 server01 postfix/smtpd[4062]: BAB4B76B4E: client=192.168.1.14
+2024-06-22T23:09:29+00:00 server05 dhcpcd[5731]: configuration reloaded
+2024/08/05 22:29:58 [INFO] worker: connection pool exhausted
+CUSTOM-LOG: 2026-03-18T20:07:19+00:00 LEVEL=WARN MODULE=notifications MSG=processing failed
+192.168.1.17 - - [Jul 02 04:17:03] "POST /css/style.css HTTP/1.1" 302 49718
+Oct 11 01:41:53 server01 postfix/smtpd[5733]: 4E02D076B6: client=192.168.1.24
+2024/08/25 18:31:00 [WARN] api: cache miss for key user:*
+CUSTOM-LOG: 2025-08-07T01:16:59+00:00 LEVEL=ERROR MODULE=shipping MSG=retry exhausted
+192.168.1.25 - - [Dec 20 20:04:34] "PUT /images/logo.png HTTP/1.1" 500 381438
+CUSTOM-LOG: 2024-12-10T15:35:54+00:00 LEVEL=WARN MODULE=notifications MSG=service unavailable
+2024/11/08 15:55:47 [WARN] auth: query executed in 4852ms
+CUSTOM-LOG: 2024-05-03T22:45:34+00:00 LEVEL=WARN MODULE=shipping MSG=processing failed
+Aug 12 15:59:38 server01 postfix/smtpd[5724]: 5D3E626854: client=192.168.1.46
+2024/03/25 18:04:24 [INFO] api: rate limit exceeded for IP 192.168.1.42
+Sep 28 04:42:01 server01 postfix/smtpd[8732]: 7B747AAE46: client=192.168.1.40
+192.168.1.27 - - [Apr 16 19:25:08] "POST /products HTTP/1.1" 403 136073
+2024-10-06T04:57:51+00:00 server01 NetworkManager[2662]: failed to start
+Mar 04 03:50:40 server01 postfix/smtpd[6054]: 182AE88EAF: client=192.168.1.10
+2025-08-20T02:44:33+00:00 server05 kernel[396]: stopped
+192.168.1.31 - - [Jan 12 18:02:29] "GET /search HTTP/1.1" 200 312861
+2025-06-01T16:54:54+00:00 server05 systemd[8608]: stopped
+2024-09-21T03:54:14+00:00 server01 dhcpcd[9963]: error on connection
+CUSTOM-LOG: 2026-05-22T14:02:46+00:00 LEVEL=WARN MODULE=shipping MSG=service unavailable
+192.168.1.41 - - [May 22 18:47:59] "GET /products HTTP/1.1" 304 397582
+2024-01-12T16:35:48+00:00 server03 NetworkManager[1347]: error on connection
+CUSTOM-LOG: 2024-01-06T20:35:21+00:00 LEVEL=FATAL MODULE=payment MSG=retry exhausted
+192.168.1.45 - - [Apr 10 05:20:43] "DELETE /login HTTP/1.1" 302 189063
+2024-11-18T04:55:46+00:00 server04 kernel[3589]: configuration reloaded
+2025/08/27 01:27:41 [INFO] worker: cache miss for key user:*
+2024-02-23T09:34:44+00:00 server03 systemd[5037]: failed to start
+2025-10-23T12:01:35+00:00 server04 NetworkManager[5041]: error on connection
+Apr 17 08:57:47 server01 postfix/smtpd[1425]: BBF6C137E8: client=192.168.1.42
+2024-10-26T18:32:35+00:00 server01 dhcpcd[368]: stopped
+2024-06-17T23:44:31+00:00 server01 cron[3867]: configuration reloaded
+192.168.1.22 - - [May 15 04:53:33] "DELETE /js/app.js HTTP/1.1" 404 227510
+192.168.1.33 - - [Oct 18 15:08:55] "DELETE /css/style.css HTTP/1.1" 503 330152
+2025/09/07 20:05:45 [DEBUG] web: request timed out
+192.168.1.4 - - [Mar 01 10:22:13] "POST /products HTTP/1.1" 200 202092
+192.168.1.48 - - [Dec 26 19:50:51] "GET /js/app.js HTTP/1.1" 503 152731
+2026-07-20T16:47:15+00:00 server04 dhcpcd[9106]: stopped
+2026-05-13T08:39:01+00:00 server05 kernel[1033]: error on connection

@@ -1,0 +1,2200 @@
+SECTION: NETWORK
+INFO: [bob] Entry #0 in NETWORK - Operation status detail
+WARN: [alice] Entry #1 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #2 in NETWORK - Operation status detail
+WARN: [alice] Entry #3 in NETWORK - Operation status detail
+INFO: [alice] Entry #4 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #5 in NETWORK - Operation status detail
+ERROR: [eve] Entry #6 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+ERROR: [dave] Entry #10 in NETWORK - Operation status detail
+WARN: [dave] Entry #11 in NETWORK - Operation status detail
+INFO: [charlie] Entry #12 in NETWORK - Operation status detail
+WARN: [eve] Entry #13 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #14 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #15 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [charlie] Entry #20 in NETWORK - Operation status detail
+INFO: [eve] Entry #21 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #22 in NETWORK - Operation status detail
+ERROR: [alice] Entry #23 in NETWORK - Operation status detail
+INFO: [charlie] Entry #24 in NETWORK - Operation status detail
+CRITICAL: [alice] Entry #25 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+WARN: [eve] Entry #30 in NETWORK - Operation status detail
+DEBUG: [bob] Entry #31 in NETWORK - Operation status detail
+INFO: [dave] Entry #32 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #33 in NETWORK - Operation status detail
+ERROR: [bob] Entry #34 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [eve] Entry #40 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #41 in NETWORK - Operation status detail
+ERROR: [charlie] Entry #42 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #43 in NETWORK - Operation status detail
+DEBUG: [dave] Entry #44 in NETWORK - Operation status detail
+DEBUG: [eve] Entry #45 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #46 in NETWORK - Operation status detail
+DEBUG: [eve] Entry #47 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [eve] Entry #50 in NETWORK - Operation status detail
+INFO: [charlie] Entry #51 in NETWORK - Operation status detail
+CRITICAL: [eve] Entry #52 in NETWORK - Operation status detail
+WARN: [alice] Entry #53 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [alice] Entry #60 in NETWORK - Operation status detail
+INFO: [eve] Entry #61 in NETWORK - Operation status detail
+ERROR: [bob] Entry #62 in NETWORK - Operation status detail
+INFO: [charlie] Entry #63 in NETWORK - Operation status detail
+ERROR: [charlie] Entry #64 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+ERROR: [alice] Entry #70 in NETWORK - Operation status detail
+INFO: [eve] Entry #71 in NETWORK - Operation status detail
+INFO: [alice] Entry #72 in NETWORK - Operation status detail
+ERROR: [eve] Entry #73 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [bob] Entry #80 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #81 in NETWORK - Operation status detail
+ERROR: [charlie] Entry #82 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #83 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [alice] Entry #90 in NETWORK - Operation status detail
+INFO: [dave] Entry #91 in NETWORK - Operation status detail
+INFO: [eve] Entry #92 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #93 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #94 in NETWORK - Operation status detail
+INFO: [eve] Entry #95 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #96 in NETWORK - Operation status detail
+WARN: [eve] Entry #97 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [eve] Entry #100 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #101 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #102 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #103 in NETWORK - Operation status detail
+ERROR: [eve] Entry #104 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #105 in NETWORK - Operation status detail
+CRITICAL: [charlie] Entry #106 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [dave] Entry #110 in NETWORK - Operation status detail
+CRITICAL: [eve] Entry #111 in NETWORK - Operation status detail
+WARN: [bob] Entry #112 in NETWORK - Operation status detail
+WARN: [bob] Entry #113 in NETWORK - Operation status detail
+ERROR: [alice] Entry #114 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [charlie] Entry #120 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #121 in NETWORK - Operation status detail
+WARN: [dave] Entry #122 in NETWORK - Operation status detail
+WARN: [charlie] Entry #123 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [dave] Entry #130 in NETWORK - Operation status detail
+DEBUG: [dave] Entry #131 in NETWORK - Operation status detail
+WARN: [eve] Entry #132 in NETWORK - Operation status detail
+INFO: [alice] Entry #133 in NETWORK - Operation status detail
+DEBUG: [eve] Entry #134 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [dave] Entry #140 in NETWORK - Operation status detail
+ERROR: [eve] Entry #141 in NETWORK - Operation status detail
+INFO: [dave] Entry #142 in NETWORK - Operation status detail
+ERROR: [dave] Entry #143 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [eve] Entry #150 in NETWORK - Operation status detail
+INFO: [charlie] Entry #151 in NETWORK - Operation status detail
+ERROR: [alice] Entry #152 in NETWORK - Operation status detail
+INFO: [eve] Entry #153 in NETWORK - Operation status detail
+INFO: [dave] Entry #154 in NETWORK - Operation status detail
+WARN: [dave] Entry #155 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [bob] Entry #160 in NETWORK - Operation status detail
+INFO: [charlie] Entry #161 in NETWORK - Operation status detail
+WARN: [alice] Entry #162 in NETWORK - Operation status detail
+WARN: [alice] Entry #163 in NETWORK - Operation status detail
+ERROR: [eve] Entry #164 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #165 in NETWORK - Operation status detail
+INFO: [eve] Entry #166 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [alice] Entry #170 in NETWORK - Operation status detail
+WARN: [charlie] Entry #171 in NETWORK - Operation status detail
+WARN: [charlie] Entry #172 in NETWORK - Operation status detail
+ERROR: [eve] Entry #173 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #174 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [bob] Entry #180 in NETWORK - Operation status detail
+ERROR: [eve] Entry #181 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #182 in NETWORK - Operation status detail
+ERROR: [dave] Entry #183 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #184 in NETWORK - Operation status detail
+WARN: [dave] Entry #185 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #186 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+ERROR: [alice] Entry #190 in NETWORK - Operation status detail
+INFO: [bob] Entry #191 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #192 in NETWORK - Operation status detail
+ERROR: [alice] Entry #193 in NETWORK - Operation status detail
+CRITICAL: [charlie] Entry #194 in NETWORK - Operation status detail
+ERROR: [bob] Entry #195 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [charlie] Entry #200 in NETWORK - Operation status detail
+WARN: [charlie] Entry #201 in NETWORK - Operation status detail
+ERROR: [dave] Entry #202 in NETWORK - Operation status detail
+ERROR: [bob] Entry #203 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #204 in NETWORK - Operation status detail
+WARN: [eve] Entry #205 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [dave] Entry #210 in NETWORK - Operation status detail
+WARN: [alice] Entry #211 in NETWORK - Operation status detail
+INFO: [dave] Entry #212 in NETWORK - Operation status detail
+ERROR: [bob] Entry #213 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [bob] Entry #220 in NETWORK - Operation status detail
+ERROR: [bob] Entry #221 in NETWORK - Operation status detail
+DEBUG: [bob] Entry #222 in NETWORK - Operation status detail
+DEBUG: [dave] Entry #223 in NETWORK - Operation status detail
+INFO: [dave] Entry #224 in NETWORK - Operation status detail
+INFO: [dave] Entry #225 in NETWORK - Operation status detail
+INFO: [eve] Entry #226 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [alice] Entry #230 in NETWORK - Operation status detail
+INFO: [dave] Entry #231 in NETWORK - Operation status detail
+CRITICAL: [eve] Entry #232 in NETWORK - Operation status detail
+WARN: [dave] Entry #233 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #234 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+DEBUG: [alice] Entry #240 in NETWORK - Operation status detail
+CRITICAL: [charlie] Entry #241 in NETWORK - Operation status detail
+WARN: [bob] Entry #242 in NETWORK - Operation status detail
+INFO: [eve] Entry #243 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+WARN: [alice] Entry #250 in NETWORK - Operation status detail
+INFO: [dave] Entry #251 in NETWORK - Operation status detail
+WARN: [eve] Entry #252 in NETWORK - Operation status detail
+ERROR: [dave] Entry #253 in NETWORK - Operation status detail
+CRITICAL: [eve] Entry #254 in NETWORK - Operation status detail
+INFO: [charlie] Entry #255 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [bob] Entry #260 in NETWORK - Operation status detail
+INFO: [bob] Entry #261 in NETWORK - Operation status detail
+INFO: [alice] Entry #262 in NETWORK - Operation status detail
+WARN: [bob] Entry #263 in NETWORK - Operation status detail
+DEBUG: [charlie] Entry #264 in NETWORK - Operation status detail
+WARN: [eve] Entry #265 in NETWORK - Operation status detail
+INFO: [bob] Entry #266 in NETWORK - Operation status detail
+DEBUG: [dave] Entry #267 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+INFO: [eve] Entry #270 in NETWORK - Operation status detail
+ERROR: [bob] Entry #271 in NETWORK - Operation status detail
+INFO: [charlie] Entry #272 in NETWORK - Operation status detail
+DEBUG: [dave] Entry #273 in NETWORK - Operation status detail
+DEBUG: [alice] Entry #274 in NETWORK - Operation status detail
+CRITICAL: [dave] Entry #275 in NETWORK - Operation status detail
+CRITICAL: [bob] Entry #276 in NETWORK - Operation status detail
+INFO: [bob] Entry #277 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+ERROR: [charlie] Entry #280 in NETWORK - Operation status detail
+ERROR: [charlie] Entry #281 in NETWORK - Operation status detail
+INFO: [dave] Entry #282 in NETWORK - Operation status detail
+DEBUG: [bob] Entry #283 in NETWORK - Operation status detail
+END SECTION
+SECTION: NETWORK
+CRITICAL: [charlie] Entry #290 in NETWORK - Operation status detail
+WARN: [eve] Entry #291 in NETWORK - Operation status detail
+INFO: [eve] Entry #292 in NETWORK - Operation status detail
+INFO: [alice] Entry #293 in NETWORK - Operation status detail
+DEBUG: [bob] Entry #294 in NETWORK - Operation status detail
+INFO: [eve] Entry #295 in NETWORK - Operation status detail
+END SECTION
+SECTION: SECURITY
+INFO: [dave] Entry #0 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #1 in SECURITY - Operation status detail
+WARN: [eve] Entry #2 in SECURITY - Operation status detail
+ERROR: [alice] Entry #3 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [alice] Entry #10 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #11 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #12 in SECURITY - Operation status detail
+WARN: [alice] Entry #13 in SECURITY - Operation status detail
+INFO: [dave] Entry #14 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [charlie] Entry #20 in SECURITY - Operation status detail
+WARN: [bob] Entry #21 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #22 in SECURITY - Operation status detail
+INFO: [eve] Entry #23 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+CRITICAL: [eve] Entry #30 in SECURITY - Operation status detail
+ERROR: [alice] Entry #31 in SECURITY - Operation status detail
+ERROR: [charlie] Entry #32 in SECURITY - Operation status detail
+INFO: [bob] Entry #33 in SECURITY - Operation status detail
+INFO: [alice] Entry #34 in SECURITY - Operation status detail
+ERROR: [dave] Entry #35 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #36 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [bob] Entry #40 in SECURITY - Operation status detail
+WARN: [eve] Entry #41 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #42 in SECURITY - Operation status detail
+INFO: [dave] Entry #43 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #44 in SECURITY - Operation status detail
+WARN: [charlie] Entry #45 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [eve] Entry #50 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #51 in SECURITY - Operation status detail
+DEBUG: [bob] Entry #52 in SECURITY - Operation status detail
+INFO: [charlie] Entry #53 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+CRITICAL: [eve] Entry #60 in SECURITY - Operation status detail
+INFO: [bob] Entry #61 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #62 in SECURITY - Operation status detail
+ERROR: [eve] Entry #63 in SECURITY - Operation status detail
+WARN: [bob] Entry #64 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #65 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #66 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [charlie] Entry #70 in SECURITY - Operation status detail
+INFO: [eve] Entry #71 in SECURITY - Operation status detail
+DEBUG: [bob] Entry #72 in SECURITY - Operation status detail
+INFO: [eve] Entry #73 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #74 in SECURITY - Operation status detail
+INFO: [charlie] Entry #75 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #76 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [alice] Entry #80 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #81 in SECURITY - Operation status detail
+WARN: [bob] Entry #82 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #83 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #84 in SECURITY - Operation status detail
+INFO: [eve] Entry #85 in SECURITY - Operation status detail
+WARN: [eve] Entry #86 in SECURITY - Operation status detail
+ERROR: [alice] Entry #87 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [charlie] Entry #90 in SECURITY - Operation status detail
+DEBUG: [bob] Entry #91 in SECURITY - Operation status detail
+ERROR: [bob] Entry #92 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #93 in SECURITY - Operation status detail
+WARN: [eve] Entry #94 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [charlie] Entry #100 in SECURITY - Operation status detail
+WARN: [eve] Entry #101 in SECURITY - Operation status detail
+INFO: [alice] Entry #102 in SECURITY - Operation status detail
+ERROR: [eve] Entry #103 in SECURITY - Operation status detail
+INFO: [charlie] Entry #104 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #105 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [alice] Entry #110 in SECURITY - Operation status detail
+INFO: [bob] Entry #111 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #112 in SECURITY - Operation status detail
+ERROR: [eve] Entry #113 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #114 in SECURITY - Operation status detail
+WARN: [charlie] Entry #115 in SECURITY - Operation status detail
+ERROR: [alice] Entry #116 in SECURITY - Operation status detail
+ERROR: [charlie] Entry #117 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+CRITICAL: [charlie] Entry #120 in SECURITY - Operation status detail
+WARN: [alice] Entry #121 in SECURITY - Operation status detail
+WARN: [eve] Entry #122 in SECURITY - Operation status detail
+ERROR: [bob] Entry #123 in SECURITY - Operation status detail
+CRITICAL: [dave] Entry #124 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #125 in SECURITY - Operation status detail
+WARN: [alice] Entry #126 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [alice] Entry #130 in SECURITY - Operation status detail
+INFO: [charlie] Entry #131 in SECURITY - Operation status detail
+WARN: [eve] Entry #132 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #133 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #134 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #135 in SECURITY - Operation status detail
+WARN: [dave] Entry #136 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #137 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [dave] Entry #140 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #141 in SECURITY - Operation status detail
+INFO: [dave] Entry #142 in SECURITY - Operation status detail
+WARN: [dave] Entry #143 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #144 in SECURITY - Operation status detail
+WARN: [eve] Entry #145 in SECURITY - Operation status detail
+INFO: [eve] Entry #146 in SECURITY - Operation status detail
+INFO: [alice] Entry #147 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+INFO: [alice] Entry #150 in SECURITY - Operation status detail
+ERROR: [alice] Entry #151 in SECURITY - Operation status detail
+WARN: [alice] Entry #152 in SECURITY - Operation status detail
+WARN: [bob] Entry #153 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #154 in SECURITY - Operation status detail
+ERROR: [dave] Entry #155 in SECURITY - Operation status detail
+INFO: [charlie] Entry #156 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [bob] Entry #160 in SECURITY - Operation status detail
+WARN: [alice] Entry #161 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #162 in SECURITY - Operation status detail
+INFO: [dave] Entry #163 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #164 in SECURITY - Operation status detail
+WARN: [bob] Entry #165 in SECURITY - Operation status detail
+INFO: [charlie] Entry #166 in SECURITY - Operation status detail
+CRITICAL: [dave] Entry #167 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [eve] Entry #170 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #171 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #172 in SECURITY - Operation status detail
+INFO: [alice] Entry #173 in SECURITY - Operation status detail
+ERROR: [bob] Entry #174 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [charlie] Entry #180 in SECURITY - Operation status detail
+ERROR: [alice] Entry #181 in SECURITY - Operation status detail
+INFO: [eve] Entry #182 in SECURITY - Operation status detail
+INFO: [bob] Entry #183 in SECURITY - Operation status detail
+INFO: [eve] Entry #184 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+INFO: [alice] Entry #190 in SECURITY - Operation status detail
+WARN: [alice] Entry #191 in SECURITY - Operation status detail
+ERROR: [dave] Entry #192 in SECURITY - Operation status detail
+INFO: [dave] Entry #193 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #194 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #195 in SECURITY - Operation status detail
+ERROR: [charlie] Entry #196 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [dave] Entry #200 in SECURITY - Operation status detail
+INFO: [bob] Entry #201 in SECURITY - Operation status detail
+ERROR: [eve] Entry #202 in SECURITY - Operation status detail
+ERROR: [charlie] Entry #203 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [alice] Entry #210 in SECURITY - Operation status detail
+INFO: [charlie] Entry #211 in SECURITY - Operation status detail
+ERROR: [charlie] Entry #212 in SECURITY - Operation status detail
+INFO: [charlie] Entry #213 in SECURITY - Operation status detail
+INFO: [eve] Entry #214 in SECURITY - Operation status detail
+WARN: [bob] Entry #215 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #216 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [eve] Entry #220 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #221 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #222 in SECURITY - Operation status detail
+CRITICAL: [dave] Entry #223 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [dave] Entry #230 in SECURITY - Operation status detail
+INFO: [bob] Entry #231 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #232 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #233 in SECURITY - Operation status detail
+DEBUG: [bob] Entry #234 in SECURITY - Operation status detail
+ERROR: [dave] Entry #235 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #236 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #237 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [charlie] Entry #240 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #241 in SECURITY - Operation status detail
+INFO: [bob] Entry #242 in SECURITY - Operation status detail
+INFO: [eve] Entry #243 in SECURITY - Operation status detail
+INFO: [charlie] Entry #244 in SECURITY - Operation status detail
+CRITICAL: [dave] Entry #245 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #246 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [eve] Entry #250 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #251 in SECURITY - Operation status detail
+DEBUG: [eve] Entry #252 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #253 in SECURITY - Operation status detail
+DEBUG: [alice] Entry #254 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+CRITICAL: [charlie] Entry #260 in SECURITY - Operation status detail
+CRITICAL: [charlie] Entry #261 in SECURITY - Operation status detail
+CRITICAL: [alice] Entry #262 in SECURITY - Operation status detail
+ERROR: [alice] Entry #263 in SECURITY - Operation status detail
+WARN: [bob] Entry #264 in SECURITY - Operation status detail
+DEBUG: [dave] Entry #265 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+WARN: [dave] Entry #270 in SECURITY - Operation status detail
+ERROR: [alice] Entry #271 in SECURITY - Operation status detail
+DEBUG: [bob] Entry #272 in SECURITY - Operation status detail
+ERROR: [eve] Entry #273 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #274 in SECURITY - Operation status detail
+INFO: [charlie] Entry #275 in SECURITY - Operation status detail
+WARN: [alice] Entry #276 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+DEBUG: [dave] Entry #280 in SECURITY - Operation status detail
+CRITICAL: [dave] Entry #281 in SECURITY - Operation status detail
+CRITICAL: [eve] Entry #282 in SECURITY - Operation status detail
+ERROR: [alice] Entry #283 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #284 in SECURITY - Operation status detail
+WARN: [alice] Entry #285 in SECURITY - Operation status detail
+END SECTION
+SECTION: SECURITY
+ERROR: [dave] Entry #290 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #291 in SECURITY - Operation status detail
+DEBUG: [charlie] Entry #292 in SECURITY - Operation status detail
+CRITICAL: [bob] Entry #293 in SECURITY - Operation status detail
+ERROR: [dave] Entry #294 in SECURITY - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [charlie] Entry #0 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #1 in DATABASE - Operation status detail
+WARN: [dave] Entry #2 in DATABASE - Operation status detail
+WARN: [charlie] Entry #3 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+INFO: [eve] Entry #10 in DATABASE - Operation status detail
+WARN: [bob] Entry #11 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #12 in DATABASE - Operation status detail
+ERROR: [charlie] Entry #13 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [bob] Entry #20 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #21 in DATABASE - Operation status detail
+INFO: [dave] Entry #22 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #23 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #24 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #25 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [bob] Entry #30 in DATABASE - Operation status detail
+ERROR: [eve] Entry #31 in DATABASE - Operation status detail
+WARN: [dave] Entry #32 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #33 in DATABASE - Operation status detail
+ERROR: [dave] Entry #34 in DATABASE - Operation status detail
+INFO: [bob] Entry #35 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+DEBUG: [dave] Entry #40 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #41 in DATABASE - Operation status detail
+WARN: [charlie] Entry #42 in DATABASE - Operation status detail
+ERROR: [bob] Entry #43 in DATABASE - Operation status detail
+INFO: [bob] Entry #44 in DATABASE - Operation status detail
+ERROR: [bob] Entry #45 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+DEBUG: [dave] Entry #50 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #51 in DATABASE - Operation status detail
+ERROR: [charlie] Entry #52 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #53 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+INFO: [charlie] Entry #60 in DATABASE - Operation status detail
+WARN: [alice] Entry #61 in DATABASE - Operation status detail
+WARN: [charlie] Entry #62 in DATABASE - Operation status detail
+INFO: [bob] Entry #63 in DATABASE - Operation status detail
+WARN: [eve] Entry #64 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #65 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #66 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #67 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [eve] Entry #70 in DATABASE - Operation status detail
+INFO: [eve] Entry #71 in DATABASE - Operation status detail
+INFO: [eve] Entry #72 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #73 in DATABASE - Operation status detail
+INFO: [charlie] Entry #74 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #75 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #76 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [alice] Entry #80 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #81 in DATABASE - Operation status detail
+INFO: [charlie] Entry #82 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #83 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #84 in DATABASE - Operation status detail
+ERROR: [alice] Entry #85 in DATABASE - Operation status detail
+DEBUG: [dave] Entry #86 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #87 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [bob] Entry #90 in DATABASE - Operation status detail
+WARN: [charlie] Entry #91 in DATABASE - Operation status detail
+WARN: [alice] Entry #92 in DATABASE - Operation status detail
+WARN: [charlie] Entry #93 in DATABASE - Operation status detail
+ERROR: [bob] Entry #94 in DATABASE - Operation status detail
+WARN: [dave] Entry #95 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #96 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+DEBUG: [alice] Entry #100 in DATABASE - Operation status detail
+INFO: [dave] Entry #101 in DATABASE - Operation status detail
+ERROR: [dave] Entry #102 in DATABASE - Operation status detail
+ERROR: [bob] Entry #103 in DATABASE - Operation status detail
+INFO: [dave] Entry #104 in DATABASE - Operation status detail
+INFO: [eve] Entry #105 in DATABASE - Operation status detail
+INFO: [dave] Entry #106 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+ERROR: [bob] Entry #110 in DATABASE - Operation status detail
+ERROR: [alice] Entry #111 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #112 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #113 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [eve] Entry #120 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #121 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #122 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #123 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+DEBUG: [charlie] Entry #130 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #131 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #132 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #133 in DATABASE - Operation status detail
+ERROR: [dave] Entry #134 in DATABASE - Operation status detail
+ERROR: [eve] Entry #135 in DATABASE - Operation status detail
+INFO: [charlie] Entry #136 in DATABASE - Operation status detail
+ERROR: [eve] Entry #137 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [dave] Entry #140 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #141 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #142 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #143 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #144 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [eve] Entry #150 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #151 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #152 in DATABASE - Operation status detail
+ERROR: [dave] Entry #153 in DATABASE - Operation status detail
+WARN: [eve] Entry #154 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+ERROR: [bob] Entry #160 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #161 in DATABASE - Operation status detail
+WARN: [bob] Entry #162 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #163 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [charlie] Entry #170 in DATABASE - Operation status detail
+WARN: [alice] Entry #171 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #172 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #173 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #174 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #175 in DATABASE - Operation status detail
+ERROR: [eve] Entry #176 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+INFO: [bob] Entry #180 in DATABASE - Operation status detail
+INFO: [eve] Entry #181 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #182 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #183 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+ERROR: [dave] Entry #190 in DATABASE - Operation status detail
+INFO: [eve] Entry #191 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #192 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #193 in DATABASE - Operation status detail
+INFO: [dave] Entry #194 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #195 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+ERROR: [alice] Entry #200 in DATABASE - Operation status detail
+INFO: [alice] Entry #201 in DATABASE - Operation status detail
+ERROR: [eve] Entry #202 in DATABASE - Operation status detail
+ERROR: [alice] Entry #203 in DATABASE - Operation status detail
+WARN: [bob] Entry #204 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #205 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #206 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+DEBUG: [dave] Entry #210 in DATABASE - Operation status detail
+WARN: [eve] Entry #211 in DATABASE - Operation status detail
+CRITICAL: [charlie] Entry #212 in DATABASE - Operation status detail
+WARN: [alice] Entry #213 in DATABASE - Operation status detail
+ERROR: [dave] Entry #214 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #215 in DATABASE - Operation status detail
+ERROR: [bob] Entry #216 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [dave] Entry #220 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #221 in DATABASE - Operation status detail
+ERROR: [bob] Entry #222 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #223 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #224 in DATABASE - Operation status detail
+ERROR: [eve] Entry #225 in DATABASE - Operation status detail
+WARN: [eve] Entry #226 in DATABASE - Operation status detail
+ERROR: [dave] Entry #227 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+INFO: [dave] Entry #230 in DATABASE - Operation status detail
+ERROR: [eve] Entry #231 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #232 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #233 in DATABASE - Operation status detail
+WARN: [eve] Entry #234 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #235 in DATABASE - Operation status detail
+INFO: [eve] Entry #236 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+ERROR: [bob] Entry #240 in DATABASE - Operation status detail
+DEBUG: [alice] Entry #241 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #242 in DATABASE - Operation status detail
+DEBUG: [charlie] Entry #243 in DATABASE - Operation status detail
+WARN: [eve] Entry #244 in DATABASE - Operation status detail
+INFO: [dave] Entry #245 in DATABASE - Operation status detail
+INFO: [alice] Entry #246 in DATABASE - Operation status detail
+WARN: [eve] Entry #247 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [charlie] Entry #250 in DATABASE - Operation status detail
+ERROR: [bob] Entry #251 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #252 in DATABASE - Operation status detail
+ERROR: [alice] Entry #253 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #254 in DATABASE - Operation status detail
+WARN: [alice] Entry #255 in DATABASE - Operation status detail
+CRITICAL: [alice] Entry #256 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+WARN: [dave] Entry #260 in DATABASE - Operation status detail
+DEBUG: [bob] Entry #261 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #262 in DATABASE - Operation status detail
+INFO: [alice] Entry #263 in DATABASE - Operation status detail
+INFO: [charlie] Entry #264 in DATABASE - Operation status detail
+INFO: [charlie] Entry #265 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [bob] Entry #270 in DATABASE - Operation status detail
+CRITICAL: [eve] Entry #271 in DATABASE - Operation status detail
+ERROR: [bob] Entry #272 in DATABASE - Operation status detail
+WARN: [eve] Entry #273 in DATABASE - Operation status detail
+DEBUG: [dave] Entry #274 in DATABASE - Operation status detail
+WARN: [alice] Entry #275 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [dave] Entry #280 in DATABASE - Operation status detail
+CRITICAL: [bob] Entry #281 in DATABASE - Operation status detail
+ERROR: [bob] Entry #282 in DATABASE - Operation status detail
+INFO: [alice] Entry #283 in DATABASE - Operation status detail
+INFO: [bob] Entry #284 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #285 in DATABASE - Operation status detail
+ERROR: [dave] Entry #286 in DATABASE - Operation status detail
+INFO: [eve] Entry #287 in DATABASE - Operation status detail
+END SECTION
+SECTION: DATABASE
+CRITICAL: [charlie] Entry #290 in DATABASE - Operation status detail
+WARN: [dave] Entry #291 in DATABASE - Operation status detail
+DEBUG: [eve] Entry #292 in DATABASE - Operation status detail
+CRITICAL: [dave] Entry #293 in DATABASE - Operation status detail
+WARN: [dave] Entry #294 in DATABASE - Operation status detail
+END SECTION
+SECTION: STORAGE
+CRITICAL: [bob] Entry #0 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #1 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #2 in STORAGE - Operation status detail
+INFO: [charlie] Entry #3 in STORAGE - Operation status detail
+WARN: [alice] Entry #4 in STORAGE - Operation status detail
+ERROR: [eve] Entry #5 in STORAGE - Operation status detail
+ERROR: [dave] Entry #6 in STORAGE - Operation status detail
+INFO: [eve] Entry #7 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [eve] Entry #10 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #11 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #12 in STORAGE - Operation status detail
+ERROR: [eve] Entry #13 in STORAGE - Operation status detail
+CRITICAL: [eve] Entry #14 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [eve] Entry #20 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #21 in STORAGE - Operation status detail
+INFO: [eve] Entry #22 in STORAGE - Operation status detail
+WARN: [alice] Entry #23 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [bob] Entry #30 in STORAGE - Operation status detail
+INFO: [eve] Entry #31 in STORAGE - Operation status detail
+CRITICAL: [bob] Entry #32 in STORAGE - Operation status detail
+INFO: [dave] Entry #33 in STORAGE - Operation status detail
+CRITICAL: [bob] Entry #34 in STORAGE - Operation status detail
+WARN: [dave] Entry #35 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [dave] Entry #40 in STORAGE - Operation status detail
+ERROR: [bob] Entry #41 in STORAGE - Operation status detail
+INFO: [eve] Entry #42 in STORAGE - Operation status detail
+CRITICAL: [eve] Entry #43 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #44 in STORAGE - Operation status detail
+INFO: [alice] Entry #45 in STORAGE - Operation status detail
+INFO: [alice] Entry #46 in STORAGE - Operation status detail
+ERROR: [eve] Entry #47 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [dave] Entry #50 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #51 in STORAGE - Operation status detail
+ERROR: [eve] Entry #52 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #53 in STORAGE - Operation status detail
+INFO: [dave] Entry #54 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #55 in STORAGE - Operation status detail
+INFO: [bob] Entry #56 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #57 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [eve] Entry #60 in STORAGE - Operation status detail
+INFO: [dave] Entry #61 in STORAGE - Operation status detail
+WARN: [dave] Entry #62 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #63 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #64 in STORAGE - Operation status detail
+ERROR: [eve] Entry #65 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #66 in STORAGE - Operation status detail
+INFO: [bob] Entry #67 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [eve] Entry #70 in STORAGE - Operation status detail
+ERROR: [alice] Entry #71 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #72 in STORAGE - Operation status detail
+INFO: [charlie] Entry #73 in STORAGE - Operation status detail
+INFO: [eve] Entry #74 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #75 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #76 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [charlie] Entry #80 in STORAGE - Operation status detail
+WARN: [alice] Entry #81 in STORAGE - Operation status detail
+ERROR: [alice] Entry #82 in STORAGE - Operation status detail
+INFO: [bob] Entry #83 in STORAGE - Operation status detail
+ERROR: [alice] Entry #84 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #85 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #86 in STORAGE - Operation status detail
+ERROR: [bob] Entry #87 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [charlie] Entry #90 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #91 in STORAGE - Operation status detail
+ERROR: [alice] Entry #92 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #93 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #94 in STORAGE - Operation status detail
+ERROR: [bob] Entry #95 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #96 in STORAGE - Operation status detail
+INFO: [dave] Entry #97 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [dave] Entry #100 in STORAGE - Operation status detail
+WARN: [bob] Entry #101 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #102 in STORAGE - Operation status detail
+WARN: [alice] Entry #103 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #104 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [charlie] Entry #110 in STORAGE - Operation status detail
+WARN: [charlie] Entry #111 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #112 in STORAGE - Operation status detail
+INFO: [charlie] Entry #113 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #114 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #115 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #116 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #117 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [eve] Entry #120 in STORAGE - Operation status detail
+INFO: [eve] Entry #121 in STORAGE - Operation status detail
+ERROR: [dave] Entry #122 in STORAGE - Operation status detail
+WARN: [charlie] Entry #123 in STORAGE - Operation status detail
+WARN: [eve] Entry #124 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #125 in STORAGE - Operation status detail
+ERROR: [bob] Entry #126 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [bob] Entry #130 in STORAGE - Operation status detail
+INFO: [dave] Entry #131 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #132 in STORAGE - Operation status detail
+CRITICAL: [eve] Entry #133 in STORAGE - Operation status detail
+INFO: [bob] Entry #134 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #135 in STORAGE - Operation status detail
+ERROR: [bob] Entry #136 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #137 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [eve] Entry #140 in STORAGE - Operation status detail
+WARN: [dave] Entry #141 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #142 in STORAGE - Operation status detail
+ERROR: [dave] Entry #143 in STORAGE - Operation status detail
+CRITICAL: [bob] Entry #144 in STORAGE - Operation status detail
+CRITICAL: [charlie] Entry #145 in STORAGE - Operation status detail
+WARN: [bob] Entry #146 in STORAGE - Operation status detail
+ERROR: [bob] Entry #147 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [charlie] Entry #150 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #151 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #152 in STORAGE - Operation status detail
+ERROR: [eve] Entry #153 in STORAGE - Operation status detail
+ERROR: [bob] Entry #154 in STORAGE - Operation status detail
+INFO: [bob] Entry #155 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [eve] Entry #160 in STORAGE - Operation status detail
+ERROR: [bob] Entry #161 in STORAGE - Operation status detail
+INFO: [dave] Entry #162 in STORAGE - Operation status detail
+INFO: [alice] Entry #163 in STORAGE - Operation status detail
+WARN: [alice] Entry #164 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #165 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #166 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [alice] Entry #170 in STORAGE - Operation status detail
+ERROR: [dave] Entry #171 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #172 in STORAGE - Operation status detail
+INFO: [charlie] Entry #173 in STORAGE - Operation status detail
+INFO: [alice] Entry #174 in STORAGE - Operation status detail
+INFO: [bob] Entry #175 in STORAGE - Operation status detail
+CRITICAL: [charlie] Entry #176 in STORAGE - Operation status detail
+ERROR: [alice] Entry #177 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [charlie] Entry #180 in STORAGE - Operation status detail
+ERROR: [dave] Entry #181 in STORAGE - Operation status detail
+ERROR: [bob] Entry #182 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #183 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [dave] Entry #190 in STORAGE - Operation status detail
+ERROR: [bob] Entry #191 in STORAGE - Operation status detail
+ERROR: [eve] Entry #192 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #193 in STORAGE - Operation status detail
+INFO: [bob] Entry #194 in STORAGE - Operation status detail
+CRITICAL: [charlie] Entry #195 in STORAGE - Operation status detail
+ERROR: [alice] Entry #196 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [charlie] Entry #200 in STORAGE - Operation status detail
+INFO: [dave] Entry #201 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #202 in STORAGE - Operation status detail
+ERROR: [alice] Entry #203 in STORAGE - Operation status detail
+WARN: [dave] Entry #204 in STORAGE - Operation status detail
+ERROR: [bob] Entry #205 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+INFO: [eve] Entry #210 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #211 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #212 in STORAGE - Operation status detail
+WARN: [charlie] Entry #213 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+CRITICAL: [alice] Entry #220 in STORAGE - Operation status detail
+INFO: [dave] Entry #221 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #222 in STORAGE - Operation status detail
+WARN: [eve] Entry #223 in STORAGE - Operation status detail
+WARN: [alice] Entry #224 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [eve] Entry #230 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #231 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #232 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #233 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #234 in STORAGE - Operation status detail
+ERROR: [alice] Entry #235 in STORAGE - Operation status detail
+ERROR: [eve] Entry #236 in STORAGE - Operation status detail
+ERROR: [alice] Entry #237 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [dave] Entry #240 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #241 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #242 in STORAGE - Operation status detail
+CRITICAL: [eve] Entry #243 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [dave] Entry #250 in STORAGE - Operation status detail
+WARN: [dave] Entry #251 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #252 in STORAGE - Operation status detail
+WARN: [dave] Entry #253 in STORAGE - Operation status detail
+INFO: [eve] Entry #254 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+DEBUG: [charlie] Entry #260 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #261 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #262 in STORAGE - Operation status detail
+DEBUG: [eve] Entry #263 in STORAGE - Operation status detail
+DEBUG: [charlie] Entry #264 in STORAGE - Operation status detail
+WARN: [dave] Entry #265 in STORAGE - Operation status detail
+DEBUG: [bob] Entry #266 in STORAGE - Operation status detail
+ERROR: [alice] Entry #267 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+CRITICAL: [charlie] Entry #270 in STORAGE - Operation status detail
+ERROR: [charlie] Entry #271 in STORAGE - Operation status detail
+CRITICAL: [alice] Entry #272 in STORAGE - Operation status detail
+ERROR: [dave] Entry #273 in STORAGE - Operation status detail
+DEBUG: [alice] Entry #274 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+ERROR: [charlie] Entry #280 in STORAGE - Operation status detail
+INFO: [bob] Entry #281 in STORAGE - Operation status detail
+CRITICAL: [dave] Entry #282 in STORAGE - Operation status detail
+INFO: [alice] Entry #283 in STORAGE - Operation status detail
+INFO: [dave] Entry #284 in STORAGE - Operation status detail
+END SECTION
+SECTION: STORAGE
+WARN: [dave] Entry #290 in STORAGE - Operation status detail
+INFO: [eve] Entry #291 in STORAGE - Operation status detail
+ERROR: [bob] Entry #292 in STORAGE - Operation status detail
+WARN: [alice] Entry #293 in STORAGE - Operation status detail
+CRITICAL: [charlie] Entry #294 in STORAGE - Operation status detail
+CRITICAL: [bob] Entry #295 in STORAGE - Operation status detail
+DEBUG: [dave] Entry #296 in STORAGE - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [charlie] Entry #0 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #1 in AUTHENTICATION - Operation status detail
+INFO: [bob] Entry #2 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #3 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #4 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #5 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #6 in AUTHENTICATION - Operation status detail
+ERROR: [eve] Entry #7 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [bob] Entry #10 in AUTHENTICATION - Operation status detail
+WARN: [bob] Entry #11 in AUTHENTICATION - Operation status detail
+CRITICAL: [bob] Entry #12 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #13 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [charlie] Entry #20 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #21 in AUTHENTICATION - Operation status detail
+CRITICAL: [eve] Entry #22 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #23 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [alice] Entry #30 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #31 in AUTHENTICATION - Operation status detail
+INFO: [eve] Entry #32 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #33 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #34 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #35 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #36 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [alice] Entry #40 in AUTHENTICATION - Operation status detail
+WARN: [alice] Entry #41 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #42 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #43 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #44 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #45 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [bob] Entry #50 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #51 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #52 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #53 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #54 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #55 in AUTHENTICATION - Operation status detail
+INFO: [charlie] Entry #56 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [dave] Entry #60 in AUTHENTICATION - Operation status detail
+CRITICAL: [bob] Entry #61 in AUTHENTICATION - Operation status detail
+DEBUG: [bob] Entry #62 in AUTHENTICATION - Operation status detail
+CRITICAL: [dave] Entry #63 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #64 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #65 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #66 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #67 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [charlie] Entry #70 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #71 in AUTHENTICATION - Operation status detail
+ERROR: [alice] Entry #72 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #73 in AUTHENTICATION - Operation status detail
+WARN: [bob] Entry #74 in AUTHENTICATION - Operation status detail
+INFO: [eve] Entry #75 in AUTHENTICATION - Operation status detail
+CRITICAL: [eve] Entry #76 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+ERROR: [eve] Entry #80 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #81 in AUTHENTICATION - Operation status detail
+CRITICAL: [bob] Entry #82 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #83 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #84 in AUTHENTICATION - Operation status detail
+DEBUG: [bob] Entry #85 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #86 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+ERROR: [charlie] Entry #90 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #91 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #92 in AUTHENTICATION - Operation status detail
+CRITICAL: [bob] Entry #93 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #94 in AUTHENTICATION - Operation status detail
+CRITICAL: [bob] Entry #95 in AUTHENTICATION - Operation status detail
+WARN: [alice] Entry #96 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+DEBUG: [eve] Entry #100 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #101 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #102 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #103 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #104 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #105 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #106 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #107 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [eve] Entry #110 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #111 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #112 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #113 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #114 in AUTHENTICATION - Operation status detail
+WARN: [alice] Entry #115 in AUTHENTICATION - Operation status detail
+WARN: [alice] Entry #116 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [eve] Entry #120 in AUTHENTICATION - Operation status detail
+INFO: [eve] Entry #121 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #122 in AUTHENTICATION - Operation status detail
+CRITICAL: [dave] Entry #123 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #124 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #125 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #126 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [alice] Entry #130 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #131 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #132 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #133 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [dave] Entry #140 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #141 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #142 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #143 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #144 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #145 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #146 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [alice] Entry #150 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #151 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #152 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #153 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #154 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+ERROR: [charlie] Entry #160 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #161 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #162 in AUTHENTICATION - Operation status detail
+INFO: [charlie] Entry #163 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [eve] Entry #170 in AUTHENTICATION - Operation status detail
+DEBUG: [eve] Entry #171 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #172 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #173 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #174 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+INFO: [eve] Entry #180 in AUTHENTICATION - Operation status detail
+ERROR: [eve] Entry #181 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #182 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #183 in AUTHENTICATION - Operation status detail
+ERROR: [eve] Entry #184 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #185 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #186 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [dave] Entry #190 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #191 in AUTHENTICATION - Operation status detail
+CRITICAL: [eve] Entry #192 in AUTHENTICATION - Operation status detail
+WARN: [bob] Entry #193 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #194 in AUTHENTICATION - Operation status detail
+INFO: [charlie] Entry #195 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #196 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #197 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [dave] Entry #200 in AUTHENTICATION - Operation status detail
+CRITICAL: [eve] Entry #201 in AUTHENTICATION - Operation status detail
+ERROR: [alice] Entry #202 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #203 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #204 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #205 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+DEBUG: [dave] Entry #210 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #211 in AUTHENTICATION - Operation status detail
+DEBUG: [eve] Entry #212 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #213 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #214 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #215 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+WARN: [charlie] Entry #220 in AUTHENTICATION - Operation status detail
+DEBUG: [eve] Entry #221 in AUTHENTICATION - Operation status detail
+INFO: [charlie] Entry #222 in AUTHENTICATION - Operation status detail
+DEBUG: [bob] Entry #223 in AUTHENTICATION - Operation status detail
+INFO: [bob] Entry #224 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #225 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #226 in AUTHENTICATION - Operation status detail
+ERROR: [eve] Entry #227 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [bob] Entry #230 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #231 in AUTHENTICATION - Operation status detail
+ERROR: [bob] Entry #232 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #233 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+DEBUG: [bob] Entry #240 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #241 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #242 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #243 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [bob] Entry #250 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #251 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #252 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #253 in AUTHENTICATION - Operation status detail
+CRITICAL: [dave] Entry #254 in AUTHENTICATION - Operation status detail
+CRITICAL: [charlie] Entry #255 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [alice] Entry #260 in AUTHENTICATION - Operation status detail
+DEBUG: [eve] Entry #261 in AUTHENTICATION - Operation status detail
+DEBUG: [charlie] Entry #262 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #263 in AUTHENTICATION - Operation status detail
+DEBUG: [alice] Entry #264 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #265 in AUTHENTICATION - Operation status detail
+WARN: [dave] Entry #266 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+CRITICAL: [bob] Entry #270 in AUTHENTICATION - Operation status detail
+INFO: [dave] Entry #271 in AUTHENTICATION - Operation status detail
+INFO: [alice] Entry #272 in AUTHENTICATION - Operation status detail
+WARN: [charlie] Entry #273 in AUTHENTICATION - Operation status detail
+ERROR: [alice] Entry #274 in AUTHENTICATION - Operation status detail
+WARN: [eve] Entry #275 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #276 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+DEBUG: [eve] Entry #280 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #281 in AUTHENTICATION - Operation status detail
+CRITICAL: [dave] Entry #282 in AUTHENTICATION - Operation status detail
+DEBUG: [dave] Entry #283 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: AUTHENTICATION
+DEBUG: [eve] Entry #290 in AUTHENTICATION - Operation status detail
+CRITICAL: [alice] Entry #291 in AUTHENTICATION - Operation status detail
+ERROR: [eve] Entry #292 in AUTHENTICATION - Operation status detail
+ERROR: [charlie] Entry #293 in AUTHENTICATION - Operation status detail
+WARN: [alice] Entry #294 in AUTHENTICATION - Operation status detail
+INFO: [bob] Entry #295 in AUTHENTICATION - Operation status detail
+ERROR: [dave] Entry #296 in AUTHENTICATION - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+DEBUG: [dave] Entry #0 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #1 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #2 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #3 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #4 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [charlie] Entry #10 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #11 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #12 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #13 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #14 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [alice] Entry #20 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #21 in SCHEDULER - Operation status detail
+ERROR: [charlie] Entry #22 in SCHEDULER - Operation status detail
+ERROR: [alice] Entry #23 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #24 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #25 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #26 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [dave] Entry #30 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #31 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #32 in SCHEDULER - Operation status detail
+DEBUG: [bob] Entry #33 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #34 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #35 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [dave] Entry #40 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #41 in SCHEDULER - Operation status detail
+INFO: [charlie] Entry #42 in SCHEDULER - Operation status detail
+CRITICAL: [dave] Entry #43 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #44 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #45 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+INFO: [bob] Entry #50 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #51 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #52 in SCHEDULER - Operation status detail
+ERROR: [charlie] Entry #53 in SCHEDULER - Operation status detail
+DEBUG: [charlie] Entry #54 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [eve] Entry #60 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #61 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #62 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #63 in SCHEDULER - Operation status detail
+INFO: [alice] Entry #64 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+INFO: [alice] Entry #70 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #71 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #72 in SCHEDULER - Operation status detail
+DEBUG: [dave] Entry #73 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #74 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #75 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+INFO: [dave] Entry #80 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #81 in SCHEDULER - Operation status detail
+DEBUG: [charlie] Entry #82 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #83 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #84 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #85 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #86 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #87 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [charlie] Entry #90 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #91 in SCHEDULER - Operation status detail
+INFO: [charlie] Entry #92 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #93 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #94 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [dave] Entry #100 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #101 in SCHEDULER - Operation status detail
+DEBUG: [dave] Entry #102 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #103 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [charlie] Entry #110 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #111 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #112 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #113 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #114 in SCHEDULER - Operation status detail
+DEBUG: [dave] Entry #115 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [alice] Entry #120 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #121 in SCHEDULER - Operation status detail
+CRITICAL: [dave] Entry #122 in SCHEDULER - Operation status detail
+INFO: [charlie] Entry #123 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+DEBUG: [bob] Entry #130 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #131 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #132 in SCHEDULER - Operation status detail
+CRITICAL: [dave] Entry #133 in SCHEDULER - Operation status detail
+CRITICAL: [dave] Entry #134 in SCHEDULER - Operation status detail
+DEBUG: [alice] Entry #135 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #136 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #137 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+ERROR: [alice] Entry #140 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #141 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #142 in SCHEDULER - Operation status detail
+WARN: [charlie] Entry #143 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #144 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [alice] Entry #150 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #151 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #152 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #153 in SCHEDULER - Operation status detail
+DEBUG: [bob] Entry #154 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #155 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #156 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+DEBUG: [charlie] Entry #160 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #161 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #162 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #163 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+ERROR: [bob] Entry #170 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #171 in SCHEDULER - Operation status detail
+INFO: [bob] Entry #172 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #173 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+DEBUG: [alice] Entry #180 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #181 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #182 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #183 in SCHEDULER - Operation status detail
+WARN: [alice] Entry #184 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #185 in SCHEDULER - Operation status detail
+CRITICAL: [bob] Entry #186 in SCHEDULER - Operation status detail
+ERROR: [alice] Entry #187 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [alice] Entry #190 in SCHEDULER - Operation status detail
+INFO: [bob] Entry #191 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #192 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #193 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #194 in SCHEDULER - Operation status detail
+CRITICAL: [bob] Entry #195 in SCHEDULER - Operation status detail
+WARN: [alice] Entry #196 in SCHEDULER - Operation status detail
+ERROR: [alice] Entry #197 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [alice] Entry #200 in SCHEDULER - Operation status detail
+ERROR: [charlie] Entry #201 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #202 in SCHEDULER - Operation status detail
+INFO: [bob] Entry #203 in SCHEDULER - Operation status detail
+DEBUG: [dave] Entry #204 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #205 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+ERROR: [eve] Entry #210 in SCHEDULER - Operation status detail
+ERROR: [dave] Entry #211 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #212 in SCHEDULER - Operation status detail
+DEBUG: [alice] Entry #213 in SCHEDULER - Operation status detail
+INFO: [bob] Entry #214 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #215 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #216 in SCHEDULER - Operation status detail
+WARN: [dave] Entry #217 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [eve] Entry #220 in SCHEDULER - Operation status detail
+CRITICAL: [bob] Entry #221 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #222 in SCHEDULER - Operation status detail
+INFO: [eve] Entry #223 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [alice] Entry #230 in SCHEDULER - Operation status detail
+WARN: [alice] Entry #231 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #232 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #233 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #234 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #235 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+CRITICAL: [alice] Entry #240 in SCHEDULER - Operation status detail
+WARN: [alice] Entry #241 in SCHEDULER - Operation status detail
+INFO: [bob] Entry #242 in SCHEDULER - Operation status detail
+DEBUG: [alice] Entry #243 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+INFO: [bob] Entry #250 in SCHEDULER - Operation status detail
+CRITICAL: [alice] Entry #251 in SCHEDULER - Operation status detail
+ERROR: [eve] Entry #252 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #253 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #254 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #255 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [alice] Entry #260 in SCHEDULER - Operation status detail
+DEBUG: [eve] Entry #261 in SCHEDULER - Operation status detail
+ERROR: [charlie] Entry #262 in SCHEDULER - Operation status detail
+WARN: [charlie] Entry #263 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #264 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #265 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+WARN: [eve] Entry #270 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #271 in SCHEDULER - Operation status detail
+CRITICAL: [eve] Entry #272 in SCHEDULER - Operation status detail
+CRITICAL: [charlie] Entry #273 in SCHEDULER - Operation status detail
+DEBUG: [alice] Entry #274 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+INFO: [alice] Entry #280 in SCHEDULER - Operation status detail
+ERROR: [alice] Entry #281 in SCHEDULER - Operation status detail
+INFO: [dave] Entry #282 in SCHEDULER - Operation status detail
+ERROR: [bob] Entry #283 in SCHEDULER - Operation status detail
+WARN: [eve] Entry #284 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: SCHEDULER
+DEBUG: [charlie] Entry #290 in SCHEDULER - Operation status detail
+DEBUG: [charlie] Entry #291 in SCHEDULER - Operation status detail
+CRITICAL: [bob] Entry #292 in SCHEDULER - Operation status detail
+CRITICAL: [bob] Entry #293 in SCHEDULER - Operation status detail
+WARN: [bob] Entry #294 in SCHEDULER - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [eve] Entry #0 in MONITORING - Operation status detail
+INFO: [eve] Entry #1 in MONITORING - Operation status detail
+DEBUG: [eve] Entry #2 in MONITORING - Operation status detail
+WARN: [bob] Entry #3 in MONITORING - Operation status detail
+WARN: [alice] Entry #4 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [bob] Entry #10 in MONITORING - Operation status detail
+WARN: [alice] Entry #11 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #12 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #13 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [charlie] Entry #20 in MONITORING - Operation status detail
+ERROR: [alice] Entry #21 in MONITORING - Operation status detail
+INFO: [eve] Entry #22 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #23 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #24 in MONITORING - Operation status detail
+ERROR: [eve] Entry #25 in MONITORING - Operation status detail
+ERROR: [bob] Entry #26 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+INFO: [dave] Entry #30 in MONITORING - Operation status detail
+INFO: [charlie] Entry #31 in MONITORING - Operation status detail
+WARN: [eve] Entry #32 in MONITORING - Operation status detail
+INFO: [bob] Entry #33 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+INFO: [charlie] Entry #40 in MONITORING - Operation status detail
+WARN: [dave] Entry #41 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #42 in MONITORING - Operation status detail
+DEBUG: [bob] Entry #43 in MONITORING - Operation status detail
+INFO: [alice] Entry #44 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [charlie] Entry #50 in MONITORING - Operation status detail
+INFO: [charlie] Entry #51 in MONITORING - Operation status detail
+CRITICAL: [charlie] Entry #52 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #53 in MONITORING - Operation status detail
+ERROR: [dave] Entry #54 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+ERROR: [charlie] Entry #60 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #61 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #62 in MONITORING - Operation status detail
+INFO: [charlie] Entry #63 in MONITORING - Operation status detail
+DEBUG: [eve] Entry #64 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+INFO: [charlie] Entry #70 in MONITORING - Operation status detail
+ERROR: [eve] Entry #71 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #72 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #73 in MONITORING - Operation status detail
+INFO: [dave] Entry #74 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [dave] Entry #80 in MONITORING - Operation status detail
+ERROR: [charlie] Entry #81 in MONITORING - Operation status detail
+INFO: [bob] Entry #82 in MONITORING - Operation status detail
+INFO: [dave] Entry #83 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #84 in MONITORING - Operation status detail
+ERROR: [bob] Entry #85 in MONITORING - Operation status detail
+ERROR: [alice] Entry #86 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [dave] Entry #90 in MONITORING - Operation status detail
+INFO: [bob] Entry #91 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #92 in MONITORING - Operation status detail
+ERROR: [eve] Entry #93 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #94 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [charlie] Entry #100 in MONITORING - Operation status detail
+ERROR: [bob] Entry #101 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #102 in MONITORING - Operation status detail
+ERROR: [eve] Entry #103 in MONITORING - Operation status detail
+INFO: [dave] Entry #104 in MONITORING - Operation status detail
+ERROR: [eve] Entry #105 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [alice] Entry #110 in MONITORING - Operation status detail
+WARN: [charlie] Entry #111 in MONITORING - Operation status detail
+CRITICAL: [charlie] Entry #112 in MONITORING - Operation status detail
+DEBUG: [bob] Entry #113 in MONITORING - Operation status detail
+ERROR: [bob] Entry #114 in MONITORING - Operation status detail
+ERROR: [dave] Entry #115 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [bob] Entry #120 in MONITORING - Operation status detail
+INFO: [alice] Entry #121 in MONITORING - Operation status detail
+ERROR: [eve] Entry #122 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #123 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [charlie] Entry #130 in MONITORING - Operation status detail
+ERROR: [eve] Entry #131 in MONITORING - Operation status detail
+ERROR: [eve] Entry #132 in MONITORING - Operation status detail
+DEBUG: [bob] Entry #133 in MONITORING - Operation status detail
+WARN: [eve] Entry #134 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [bob] Entry #140 in MONITORING - Operation status detail
+WARN: [alice] Entry #141 in MONITORING - Operation status detail
+INFO: [eve] Entry #142 in MONITORING - Operation status detail
+DEBUG: [dave] Entry #143 in MONITORING - Operation status detail
+INFO: [dave] Entry #144 in MONITORING - Operation status detail
+INFO: [eve] Entry #145 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #146 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [bob] Entry #150 in MONITORING - Operation status detail
+WARN: [charlie] Entry #151 in MONITORING - Operation status detail
+ERROR: [bob] Entry #152 in MONITORING - Operation status detail
+INFO: [bob] Entry #153 in MONITORING - Operation status detail
+ERROR: [charlie] Entry #154 in MONITORING - Operation status detail
+DEBUG: [dave] Entry #155 in MONITORING - Operation status detail
+INFO: [dave] Entry #156 in MONITORING - Operation status detail
+ERROR: [eve] Entry #157 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [bob] Entry #160 in MONITORING - Operation status detail
+ERROR: [charlie] Entry #161 in MONITORING - Operation status detail
+ERROR: [bob] Entry #162 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #163 in MONITORING - Operation status detail
+WARN: [eve] Entry #164 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [eve] Entry #170 in MONITORING - Operation status detail
+INFO: [charlie] Entry #171 in MONITORING - Operation status detail
+INFO: [bob] Entry #172 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #173 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #174 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+INFO: [dave] Entry #180 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #181 in MONITORING - Operation status detail
+DEBUG: [dave] Entry #182 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #183 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+ERROR: [eve] Entry #190 in MONITORING - Operation status detail
+DEBUG: [eve] Entry #191 in MONITORING - Operation status detail
+WARN: [charlie] Entry #192 in MONITORING - Operation status detail
+INFO: [bob] Entry #193 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #194 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [eve] Entry #200 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #201 in MONITORING - Operation status detail
+CRITICAL: [charlie] Entry #202 in MONITORING - Operation status detail
+WARN: [dave] Entry #203 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [alice] Entry #210 in MONITORING - Operation status detail
+ERROR: [bob] Entry #211 in MONITORING - Operation status detail
+INFO: [eve] Entry #212 in MONITORING - Operation status detail
+WARN: [eve] Entry #213 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+ERROR: [bob] Entry #220 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #221 in MONITORING - Operation status detail
+DEBUG: [eve] Entry #222 in MONITORING - Operation status detail
+WARN: [eve] Entry #223 in MONITORING - Operation status detail
+WARN: [alice] Entry #224 in MONITORING - Operation status detail
+ERROR: [bob] Entry #225 in MONITORING - Operation status detail
+ERROR: [charlie] Entry #226 in MONITORING - Operation status detail
+DEBUG: [dave] Entry #227 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [eve] Entry #230 in MONITORING - Operation status detail
+DEBUG: [dave] Entry #231 in MONITORING - Operation status detail
+ERROR: [eve] Entry #232 in MONITORING - Operation status detail
+INFO: [charlie] Entry #233 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [charlie] Entry #240 in MONITORING - Operation status detail
+INFO: [eve] Entry #241 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #242 in MONITORING - Operation status detail
+ERROR: [bob] Entry #243 in MONITORING - Operation status detail
+WARN: [bob] Entry #244 in MONITORING - Operation status detail
+ERROR: [alice] Entry #245 in MONITORING - Operation status detail
+INFO: [eve] Entry #246 in MONITORING - Operation status detail
+INFO: [bob] Entry #247 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [dave] Entry #250 in MONITORING - Operation status detail
+INFO: [eve] Entry #251 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #252 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #253 in MONITORING - Operation status detail
+WARN: [alice] Entry #254 in MONITORING - Operation status detail
+INFO: [charlie] Entry #255 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #256 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+WARN: [alice] Entry #260 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #261 in MONITORING - Operation status detail
+ERROR: [bob] Entry #262 in MONITORING - Operation status detail
+WARN: [dave] Entry #263 in MONITORING - Operation status detail
+WARN: [bob] Entry #264 in MONITORING - Operation status detail
+CRITICAL: [charlie] Entry #265 in MONITORING - Operation status detail
+WARN: [alice] Entry #266 in MONITORING - Operation status detail
+DEBUG: [alice] Entry #267 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+INFO: [dave] Entry #270 in MONITORING - Operation status detail
+ERROR: [bob] Entry #271 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #272 in MONITORING - Operation status detail
+WARN: [eve] Entry #273 in MONITORING - Operation status detail
+WARN: [alice] Entry #274 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #275 in MONITORING - Operation status detail
+CRITICAL: [eve] Entry #276 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+DEBUG: [dave] Entry #280 in MONITORING - Operation status detail
+INFO: [alice] Entry #281 in MONITORING - Operation status detail
+WARN: [alice] Entry #282 in MONITORING - Operation status detail
+ERROR: [charlie] Entry #283 in MONITORING - Operation status detail
+CRITICAL: [alice] Entry #284 in MONITORING - Operation status detail
+END SECTION
+SECTION: MONITORING
+CRITICAL: [dave] Entry #290 in MONITORING - Operation status detail
+CRITICAL: [bob] Entry #291 in MONITORING - Operation status detail
+INFO: [charlie] Entry #292 in MONITORING - Operation status detail
+WARN: [dave] Entry #293 in MONITORING - Operation status detail
+ERROR: [alice] Entry #294 in MONITORING - Operation status detail
+INFO: [bob] Entry #295 in MONITORING - Operation status detail
+DEBUG: [charlie] Entry #296 in MONITORING - Operation status detail
+WARN: [eve] Entry #297 in MONITORING - Operation status detail
+END SECTION
+SECTION: BACKUP
+DEBUG: [eve] Entry #0 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #1 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #2 in BACKUP - Operation status detail
+INFO: [dave] Entry #3 in BACKUP - Operation status detail
+WARN: [alice] Entry #4 in BACKUP - Operation status detail
+DEBUG: [dave] Entry #5 in BACKUP - Operation status detail
+INFO: [dave] Entry #6 in BACKUP - Operation status detail
+ERROR: [bob] Entry #7 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [dave] Entry #10 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #11 in BACKUP - Operation status detail
+ERROR: [alice] Entry #12 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #13 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #14 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #15 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+WARN: [bob] Entry #20 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #21 in BACKUP - Operation status detail
+ERROR: [eve] Entry #22 in BACKUP - Operation status detail
+DEBUG: [dave] Entry #23 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [dave] Entry #30 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #31 in BACKUP - Operation status detail
+WARN: [dave] Entry #32 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #33 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #34 in BACKUP - Operation status detail
+WARN: [charlie] Entry #35 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+INFO: [alice] Entry #40 in BACKUP - Operation status detail
+WARN: [charlie] Entry #41 in BACKUP - Operation status detail
+DEBUG: [charlie] Entry #42 in BACKUP - Operation status detail
+INFO: [dave] Entry #43 in BACKUP - Operation status detail
+ERROR: [eve] Entry #44 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [charlie] Entry #50 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #51 in BACKUP - Operation status detail
+ERROR: [bob] Entry #52 in BACKUP - Operation status detail
+WARN: [dave] Entry #53 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #54 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #55 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [alice] Entry #60 in BACKUP - Operation status detail
+INFO: [bob] Entry #61 in BACKUP - Operation status detail
+ERROR: [alice] Entry #62 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #63 in BACKUP - Operation status detail
+ERROR: [bob] Entry #64 in BACKUP - Operation status detail
+ERROR: [dave] Entry #65 in BACKUP - Operation status detail
+WARN: [dave] Entry #66 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [eve] Entry #70 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #71 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #72 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #73 in BACKUP - Operation status detail
+WARN: [eve] Entry #74 in BACKUP - Operation status detail
+ERROR: [alice] Entry #75 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #76 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+INFO: [eve] Entry #80 in BACKUP - Operation status detail
+WARN: [alice] Entry #81 in BACKUP - Operation status detail
+INFO: [alice] Entry #82 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #83 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [bob] Entry #90 in BACKUP - Operation status detail
+INFO: [dave] Entry #91 in BACKUP - Operation status detail
+ERROR: [charlie] Entry #92 in BACKUP - Operation status detail
+WARN: [dave] Entry #93 in BACKUP - Operation status detail
+WARN: [charlie] Entry #94 in BACKUP - Operation status detail
+ERROR: [dave] Entry #95 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [charlie] Entry #100 in BACKUP - Operation status detail
+WARN: [alice] Entry #101 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #102 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #103 in BACKUP - Operation status detail
+DEBUG: [eve] Entry #104 in BACKUP - Operation status detail
+WARN: [eve] Entry #105 in BACKUP - Operation status detail
+DEBUG: [dave] Entry #106 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+INFO: [dave] Entry #110 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #111 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #112 in BACKUP - Operation status detail
+INFO: [dave] Entry #113 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [charlie] Entry #120 in BACKUP - Operation status detail
+INFO: [bob] Entry #121 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #122 in BACKUP - Operation status detail
+DEBUG: [charlie] Entry #123 in BACKUP - Operation status detail
+WARN: [eve] Entry #124 in BACKUP - Operation status detail
+WARN: [dave] Entry #125 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+ERROR: [charlie] Entry #130 in BACKUP - Operation status detail
+ERROR: [eve] Entry #131 in BACKUP - Operation status detail
+WARN: [charlie] Entry #132 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #133 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #134 in BACKUP - Operation status detail
+DEBUG: [eve] Entry #135 in BACKUP - Operation status detail
+WARN: [bob] Entry #136 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+DEBUG: [bob] Entry #140 in BACKUP - Operation status detail
+WARN: [charlie] Entry #141 in BACKUP - Operation status detail
+WARN: [charlie] Entry #142 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #143 in BACKUP - Operation status detail
+WARN: [dave] Entry #144 in BACKUP - Operation status detail
+ERROR: [alice] Entry #145 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+WARN: [dave] Entry #150 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #151 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #152 in BACKUP - Operation status detail
+ERROR: [charlie] Entry #153 in BACKUP - Operation status detail
+ERROR: [eve] Entry #154 in BACKUP - Operation status detail
+WARN: [bob] Entry #155 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+INFO: [dave] Entry #160 in BACKUP - Operation status detail
+INFO: [eve] Entry #161 in BACKUP - Operation status detail
+ERROR: [dave] Entry #162 in BACKUP - Operation status detail
+ERROR: [charlie] Entry #163 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #164 in BACKUP - Operation status detail
+INFO: [eve] Entry #165 in BACKUP - Operation status detail
+ERROR: [eve] Entry #166 in BACKUP - Operation status detail
+WARN: [eve] Entry #167 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+WARN: [dave] Entry #170 in BACKUP - Operation status detail
+WARN: [eve] Entry #171 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #172 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #173 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [bob] Entry #180 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #181 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #182 in BACKUP - Operation status detail
+WARN: [eve] Entry #183 in BACKUP - Operation status detail
+DEBUG: [eve] Entry #184 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [charlie] Entry #190 in BACKUP - Operation status detail
+INFO: [bob] Entry #191 in BACKUP - Operation status detail
+INFO: [dave] Entry #192 in BACKUP - Operation status detail
+ERROR: [alice] Entry #193 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #194 in BACKUP - Operation status detail
+WARN: [dave] Entry #195 in BACKUP - Operation status detail
+ERROR: [alice] Entry #196 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #197 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [bob] Entry #200 in BACKUP - Operation status detail
+ERROR: [bob] Entry #201 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #202 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #203 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+DEBUG: [dave] Entry #210 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #211 in BACKUP - Operation status detail
+DEBUG: [eve] Entry #212 in BACKUP - Operation status detail
+DEBUG: [dave] Entry #213 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #214 in BACKUP - Operation status detail
+ERROR: [bob] Entry #215 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+WARN: [alice] Entry #220 in BACKUP - Operation status detail
+CRITICAL: [bob] Entry #221 in BACKUP - Operation status detail
+ERROR: [charlie] Entry #222 in BACKUP - Operation status detail
+DEBUG: [charlie] Entry #223 in BACKUP - Operation status detail
+WARN: [charlie] Entry #224 in BACKUP - Operation status detail
+ERROR: [dave] Entry #225 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #226 in BACKUP - Operation status detail
+ERROR: [eve] Entry #227 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [dave] Entry #230 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #231 in BACKUP - Operation status detail
+ERROR: [eve] Entry #232 in BACKUP - Operation status detail
+INFO: [dave] Entry #233 in BACKUP - Operation status detail
+ERROR: [dave] Entry #234 in BACKUP - Operation status detail
+INFO: [eve] Entry #235 in BACKUP - Operation status detail
+WARN: [eve] Entry #236 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [charlie] Entry #240 in BACKUP - Operation status detail
+ERROR: [alice] Entry #241 in BACKUP - Operation status detail
+WARN: [charlie] Entry #242 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #243 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [alice] Entry #250 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #251 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #252 in BACKUP - Operation status detail
+WARN: [charlie] Entry #253 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+INFO: [dave] Entry #260 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #261 in BACKUP - Operation status detail
+WARN: [bob] Entry #262 in BACKUP - Operation status detail
+CRITICAL: [charlie] Entry #263 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #264 in BACKUP - Operation status detail
+ERROR: [charlie] Entry #265 in BACKUP - Operation status detail
+INFO: [bob] Entry #266 in BACKUP - Operation status detail
+INFO: [bob] Entry #267 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+DEBUG: [dave] Entry #270 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #271 in BACKUP - Operation status detail
+INFO: [alice] Entry #272 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #273 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #274 in BACKUP - Operation status detail
+INFO: [charlie] Entry #275 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+DEBUG: [charlie] Entry #280 in BACKUP - Operation status detail
+CRITICAL: [dave] Entry #281 in BACKUP - Operation status detail
+CRITICAL: [alice] Entry #282 in BACKUP - Operation status detail
+DEBUG: [bob] Entry #283 in BACKUP - Operation status detail
+END SECTION
+SECTION: BACKUP
+CRITICAL: [dave] Entry #290 in BACKUP - Operation status detail
+DEBUG: [alice] Entry #291 in BACKUP - Operation status detail
+ERROR: [bob] Entry #292 in BACKUP - Operation status detail
+ERROR: [alice] Entry #293 in BACKUP - Operation status detail
+CRITICAL: [eve] Entry #294 in BACKUP - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [bob] Entry #0 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #1 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #2 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #3 in LOGGING - Operation status detail
+INFO: [dave] Entry #4 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+WARN: [charlie] Entry #10 in LOGGING - Operation status detail
+INFO: [charlie] Entry #11 in LOGGING - Operation status detail
+ERROR: [bob] Entry #12 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #13 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+INFO: [alice] Entry #20 in LOGGING - Operation status detail
+INFO: [charlie] Entry #21 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #22 in LOGGING - Operation status detail
+ERROR: [dave] Entry #23 in LOGGING - Operation status detail
+ERROR: [dave] Entry #24 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [bob] Entry #30 in LOGGING - Operation status detail
+ERROR: [dave] Entry #31 in LOGGING - Operation status detail
+WARN: [charlie] Entry #32 in LOGGING - Operation status detail
+CRITICAL: [charlie] Entry #33 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #34 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #35 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [dave] Entry #40 in LOGGING - Operation status detail
+WARN: [charlie] Entry #41 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #42 in LOGGING - Operation status detail
+ERROR: [alice] Entry #43 in LOGGING - Operation status detail
+WARN: [eve] Entry #44 in LOGGING - Operation status detail
+WARN: [alice] Entry #45 in LOGGING - Operation status detail
+DEBUG: [eve] Entry #46 in LOGGING - Operation status detail
+INFO: [eve] Entry #47 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [dave] Entry #50 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #51 in LOGGING - Operation status detail
+INFO: [alice] Entry #52 in LOGGING - Operation status detail
+ERROR: [alice] Entry #53 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [eve] Entry #60 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #61 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #62 in LOGGING - Operation status detail
+WARN: [charlie] Entry #63 in LOGGING - Operation status detail
+ERROR: [dave] Entry #64 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #65 in LOGGING - Operation status detail
+INFO: [alice] Entry #66 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [eve] Entry #70 in LOGGING - Operation status detail
+INFO: [charlie] Entry #71 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #72 in LOGGING - Operation status detail
+WARN: [charlie] Entry #73 in LOGGING - Operation status detail
+INFO: [dave] Entry #74 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+WARN: [charlie] Entry #80 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #81 in LOGGING - Operation status detail
+INFO: [charlie] Entry #82 in LOGGING - Operation status detail
+INFO: [alice] Entry #83 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #84 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #85 in LOGGING - Operation status detail
+INFO: [alice] Entry #86 in LOGGING - Operation status detail
+INFO: [alice] Entry #87 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+DEBUG: [charlie] Entry #90 in LOGGING - Operation status detail
+ERROR: [eve] Entry #91 in LOGGING - Operation status detail
+WARN: [charlie] Entry #92 in LOGGING - Operation status detail
+CRITICAL: [eve] Entry #93 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #94 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #95 in LOGGING - Operation status detail
+ERROR: [dave] Entry #96 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #97 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+WARN: [alice] Entry #100 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #101 in LOGGING - Operation status detail
+CRITICAL: [charlie] Entry #102 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #103 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [dave] Entry #110 in LOGGING - Operation status detail
+ERROR: [alice] Entry #111 in LOGGING - Operation status detail
+INFO: [alice] Entry #112 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #113 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #114 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #115 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #116 in LOGGING - Operation status detail
+CRITICAL: [charlie] Entry #117 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [charlie] Entry #120 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #121 in LOGGING - Operation status detail
+ERROR: [alice] Entry #122 in LOGGING - Operation status detail
+WARN: [dave] Entry #123 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+DEBUG: [alice] Entry #130 in LOGGING - Operation status detail
+ERROR: [eve] Entry #131 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #132 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #133 in LOGGING - Operation status detail
+ERROR: [alice] Entry #134 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+INFO: [bob] Entry #140 in LOGGING - Operation status detail
+INFO: [bob] Entry #141 in LOGGING - Operation status detail
+ERROR: [eve] Entry #142 in LOGGING - Operation status detail
+CRITICAL: [eve] Entry #143 in LOGGING - Operation status detail
+ERROR: [alice] Entry #144 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #145 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [charlie] Entry #150 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #151 in LOGGING - Operation status detail
+DEBUG: [eve] Entry #152 in LOGGING - Operation status detail
+ERROR: [dave] Entry #153 in LOGGING - Operation status detail
+INFO: [charlie] Entry #154 in LOGGING - Operation status detail
+WARN: [eve] Entry #155 in LOGGING - Operation status detail
+ERROR: [bob] Entry #156 in LOGGING - Operation status detail
+WARN: [dave] Entry #157 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+WARN: [charlie] Entry #160 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #161 in LOGGING - Operation status detail
+WARN: [dave] Entry #162 in LOGGING - Operation status detail
+WARN: [alice] Entry #163 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #164 in LOGGING - Operation status detail
+INFO: [charlie] Entry #165 in LOGGING - Operation status detail
+CRITICAL: [eve] Entry #166 in LOGGING - Operation status detail
+ERROR: [eve] Entry #167 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+INFO: [dave] Entry #170 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #171 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #172 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #173 in LOGGING - Operation status detail
+CRITICAL: [charlie] Entry #174 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [charlie] Entry #180 in LOGGING - Operation status detail
+CRITICAL: [charlie] Entry #181 in LOGGING - Operation status detail
+CRITICAL: [eve] Entry #182 in LOGGING - Operation status detail
+ERROR: [dave] Entry #183 in LOGGING - Operation status detail
+ERROR: [bob] Entry #184 in LOGGING - Operation status detail
+DEBUG: [eve] Entry #185 in LOGGING - Operation status detail
+WARN: [alice] Entry #186 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [alice] Entry #190 in LOGGING - Operation status detail
+DEBUG: [bob] Entry #191 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #192 in LOGGING - Operation status detail
+ERROR: [bob] Entry #193 in LOGGING - Operation status detail
+WARN: [dave] Entry #194 in LOGGING - Operation status detail
+WARN: [charlie] Entry #195 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+DEBUG: [dave] Entry #200 in LOGGING - Operation status detail
+ERROR: [alice] Entry #201 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #202 in LOGGING - Operation status detail
+ERROR: [alice] Entry #203 in LOGGING - Operation status detail
+ERROR: [dave] Entry #204 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #205 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #206 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [bob] Entry #210 in LOGGING - Operation status detail
+ERROR: [dave] Entry #211 in LOGGING - Operation status detail
+INFO: [alice] Entry #212 in LOGGING - Operation status detail
+ERROR: [eve] Entry #213 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #214 in LOGGING - Operation status detail
+ERROR: [eve] Entry #215 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [eve] Entry #220 in LOGGING - Operation status detail
+INFO: [bob] Entry #221 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #222 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #223 in LOGGING - Operation status detail
+DEBUG: [bob] Entry #224 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #225 in LOGGING - Operation status detail
+INFO: [eve] Entry #226 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+DEBUG: [alice] Entry #230 in LOGGING - Operation status detail
+CRITICAL: [eve] Entry #231 in LOGGING - Operation status detail
+INFO: [bob] Entry #232 in LOGGING - Operation status detail
+WARN: [charlie] Entry #233 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #234 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [dave] Entry #240 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #241 in LOGGING - Operation status detail
+WARN: [dave] Entry #242 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #243 in LOGGING - Operation status detail
+INFO: [bob] Entry #244 in LOGGING - Operation status detail
+WARN: [dave] Entry #245 in LOGGING - Operation status detail
+ERROR: [alice] Entry #246 in LOGGING - Operation status detail
+INFO: [bob] Entry #247 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [alice] Entry #250 in LOGGING - Operation status detail
+INFO: [dave] Entry #251 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #252 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #253 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [charlie] Entry #260 in LOGGING - Operation status detail
+DEBUG: [alice] Entry #261 in LOGGING - Operation status detail
+WARN: [alice] Entry #262 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #263 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #264 in LOGGING - Operation status detail
+WARN: [charlie] Entry #265 in LOGGING - Operation status detail
+DEBUG: [charlie] Entry #266 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #267 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+INFO: [dave] Entry #270 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #271 in LOGGING - Operation status detail
+CRITICAL: [alice] Entry #272 in LOGGING - Operation status detail
+WARN: [charlie] Entry #273 in LOGGING - Operation status detail
+INFO: [bob] Entry #274 in LOGGING - Operation status detail
+DEBUG: [bob] Entry #275 in LOGGING - Operation status detail
+CRITICAL: [dave] Entry #276 in LOGGING - Operation status detail
+INFO: [dave] Entry #277 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+CRITICAL: [alice] Entry #280 in LOGGING - Operation status detail
+WARN: [dave] Entry #281 in LOGGING - Operation status detail
+DEBUG: [dave] Entry #282 in LOGGING - Operation status detail
+ERROR: [alice] Entry #283 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #284 in LOGGING - Operation status detail
+WARN: [charlie] Entry #285 in LOGGING - Operation status detail
+END SECTION
+SECTION: LOGGING
+ERROR: [alice] Entry #290 in LOGGING - Operation status detail
+CRITICAL: [bob] Entry #291 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #292 in LOGGING - Operation status detail
+ERROR: [charlie] Entry #293 in LOGGING - Operation status detail
+END SECTION
+SECTION: DNS
+DEBUG: [charlie] Entry #0 in DNS - Operation status detail
+CRITICAL: [alice] Entry #1 in DNS - Operation status detail
+CRITICAL: [dave] Entry #2 in DNS - Operation status detail
+CRITICAL: [dave] Entry #3 in DNS - Operation status detail
+DEBUG: [eve] Entry #4 in DNS - Operation status detail
+ERROR: [eve] Entry #5 in DNS - Operation status detail
+INFO: [bob] Entry #6 in DNS - Operation status detail
+END SECTION
+SECTION: DNS
+WARN: [alice] Entry #10 in DNS - Operation status detail
+INFO: [dave] Entry #11 in DNS - Operation status detail
+INFO: [charlie] Entry #12 in DNS - Operation status detail
+INFO: [charlie] Entry #13 in DNS - Operation status detail
+END SECTION
+SECTION: DNS
+DEBUG: [bob] Entry #20 in DNS - Operation status detail
+WARN: [charlie] Entry #21 in DNS - Operation status detail
+WARN: [eve] Entry #22 in DNS - Operation status detail
+DEBUG: [dave] Entry #23 in DNS - Operation status detail
+CRITICAL: [dave] Entry #24 in DNS - Operation status detail
+CRITICAL: [eve] Entry #25 in DNS - Operation status detail
+CRITICAL: [dave] Entry #26 in DNS - Operation status detail
+INFO: [eve] Entry #27 in DNS - Operation status detail
+END SECTION
+SECTION: DNS
+DEBUG: [bob] Entry #30 in DNS - Operation status detail
+CRITICAL: [dave] Entry #31 in DNS - Operation status detail
+INFO: [charlie] Entry #32 in DNS - Operation status detail
+CRITICAL: [alice] Entry #33 in DNS - Operation status detail
+END SECTION
+SECTION: DNS
+DEBUG: [eve] Entry #40 in DNS - Operation status detail
+ERROR: [alice] Entry #41 in DNS - Operation status detail
+CRITICAL: [charlie] Entry #42 in DNS - Operation status detail
+CRITICAL: [eve] Entry #43 in DNS - Operation status detail
+INFO: [bob] Entry #44 in DNS - Operation status detail
+INFO: [bob] Entry #45 in DNS - Operation status detail
+DEBUG: [eve] Entry #46 in DNS - Operation status detail
